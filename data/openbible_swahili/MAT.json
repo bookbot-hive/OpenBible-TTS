@@ -1,0 +1,4286 @@
+[
+  {
+    "verseNumber": "MAT 1:1",
+    "verseText": "Habari za ukoo wa Yesu Kristo mwana wa Daudi, mwana wa Abrahamu:"
+  },
+  {
+    "verseNumber": "MAT 1:2",
+    "verseText": "Abrahamu akamzaa Isaki, Isaki akamzaa Yakobo, Yakobo akawazaa Yuda na ndugu zake,"
+  },
+  {
+    "verseNumber": "MAT 1:3",
+    "verseText": "Yuda akawazaa Peresi na Zera, ambao mama yao alikuwa Tamari, Peresi akamzaa Hesroni, Hesroni akamzaa Aramu,"
+  },
+  {
+    "verseNumber": "MAT 1:4",
+    "verseText": "Aramu akamzaa Aminadabu, Aminadabu akamzaa Nashoni, Nashoni akamzaa Salmoni,"
+  },
+  {
+    "verseNumber": "MAT 1:5",
+    "verseText": "Salmoni akamzaa Boazi, na mama yake Boazi alikuwa Rahabu, Boazi akamzaa Obedi, ambaye mama yake alikuwa Ruthu, Obedi akamzaa Yese,"
+  },
+  {
+    "verseNumber": "MAT 1:6",
+    "verseText": "Yese akamzaa Daudi ambaye alikuwa mfalme. Daudi akamzaa Solomoni, ambaye mama yake ni yule aliyekuwa mke wa Uria."
+  },
+  {
+    "verseNumber": "MAT 1:7",
+    "verseText": "Solomoni akamzaa Rehoboamu, Rehoboamu akamzaa Abiya, Abiya akamzaa Asa,"
+  },
+  {
+    "verseNumber": "MAT 1:8",
+    "verseText": "Asa akamzaa Yehoshafati, Yehoshafati akamzaa Yoramu, Yoramu akamzaa Uzia,"
+  },
+  {
+    "verseNumber": "MAT 1:9",
+    "verseText": "Uzia akamzaa Yothamu, Yothamu akamzaa Ahazi, Ahazi akamzaa Hezekia,"
+  },
+  {
+    "verseNumber": "MAT 1:10",
+    "verseText": "Hezekia akamzaa Manase, Manase akamzaa Amoni, Amoni akamzaa Yosia,"
+  },
+  {
+    "verseNumber": "MAT 1:11",
+    "verseText": "wakati wa uhamisho wa Babeli, Yosia alimzaa Yekonia na ndugu zake."
+  },
+  {
+    "verseNumber": "MAT 1:12",
+    "verseText": "Baada ya uhamisho wa Babeli: Yekonia alimzaa Shealtieli, Shealtieli akamzaa Zerubabeli,"
+  },
+  {
+    "verseNumber": "MAT 1:13",
+    "verseText": "Zerubabeli akamzaa Abiudi, Abiudi akamzaa Eliakimu, Eliakimu akamzaa Azori,"
+  },
+  {
+    "verseNumber": "MAT 1:14",
+    "verseText": "Azori akamzaa Sadoki, Sadoki akamzaa Akimu, Akimu akamzaa Eliudi,"
+  },
+  {
+    "verseNumber": "MAT 1:15",
+    "verseText": "Eliudi akamzaa Eleazari, Eleazari akamzaa Matani, Matani akamzaa Yakobo,"
+  },
+  {
+    "verseNumber": "MAT 1:16",
+    "verseText": "naye Yakobo akamzaa Yosefu ambaye alikuwa mumewe Maria, mama yake Yesu, aitwaye Kristo."
+  },
+  {
+    "verseNumber": "MAT 1:17",
+    "verseText": "Hivyo, kulikuwepo na jumla ya vizazi kumi na vinne tangu Abrahamu mpaka Daudi, vizazi kumi na vinne tangu Daudi hadi wakati wa uhamisho kwenda utumwani Babeli, na vizazi kumi na vinne tangu wakati wa uhamisho kwenda utumwani Babeli hadi Kristo."
+  },
+  {
+    "verseNumber": "MAT 1:18",
+    "verseText": "Basi Kuzaliwa kwake Yesu Kristo kulikuwa hivi: Maria mama yake alikuwa ameposwa na Yosefu, lakini kabla hawajakutana kimwili, Maria alionekana kuwa na mimba kwa uweza wa Roho Mtakatifu."
+  },
+  {
+    "verseNumber": "MAT 1:19",
+    "verseText": "Kwa kuwa Yosefu, mwanaume aliyekuwa amemposa alikuwa mtu mwadilifu, hakutaka kumwaibisha Maria hadharani, aliazimu kumwacha kwa siri."
+  },
+  {
+    "verseNumber": "MAT 1:20",
+    "verseText": "Lakini mara alipoazimu kufanya jambo hili, malaika wa Bwana akamtokea katika ndoto na kusema, \u201cYosefu mwana wa Daudi, usiogope kumchukua Maria awe mke wako, kwa maana mimba aliyo nayo ni kwa uweza wa Roho Mtakatifu."
+  },
+  {
+    "verseNumber": "MAT 1:21",
+    "verseText": "Naye atamzaa mwana, nawe utamwita Jina lake Yesu, kwa maana yeye ndiye atakayewaokoa watu wake kutoka dhambi zao.\u201d"
+  },
+  {
+    "verseNumber": "MAT 1:22",
+    "verseText": "Haya yote yalitukia ili litimie lile Bwana alilokuwa amenena kupitia nabii, akisema:"
+  },
+  {
+    "verseNumber": "MAT 1:23",
+    "verseText": "\u201cTazama, bikira atachukua mimba, naye atamzaa mwana, nao watamwita Jina lake Imanueli\u201d: maana yake, \u201cMungu pamoja nasi.\u201d"
+  },
+  {
+    "verseNumber": "MAT 1:24",
+    "verseText": "Yosefu alipoamka kutoka usingizini, akafanya kama vile alivyoagizwa na malaika wa Bwana, akamchukua Maria kuwa mke wake."
+  },
+  {
+    "verseNumber": "MAT 1:25",
+    "verseText": "Lakini hawakukutana kimwili mpaka Maria alipojifungua mwanawe kifungua mimba akamwita Jina lake Yesu."
+  },
+  {
+    "verseNumber": "MAT 2:1",
+    "verseText": "Baada ya Yesu kuzaliwa katika mji wa Bethlehemu huko Uyahudi, wakati wa utawala wa Mfalme Herode, wataalamu wa mambo ya nyota kutoka mashariki walifika Yerusalemu"
+  },
+  {
+    "verseNumber": "MAT 2:2",
+    "verseText": "wakiuliza, \u201cYuko wapi huyo aliyezaliwa mfalme wa Wayahudi? Kwa maana tumeona nyota yake ikitokea mashariki, nasi tumekuja kumwabudu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 2:3",
+    "verseText": "Mfalme Herode aliposikia jambo hili aliingiwa na hofu sana pamoja na watu wote wa Yerusalemu."
+  },
+  {
+    "verseNumber": "MAT 2:4",
+    "verseText": "Herode akawaita pamoja viongozi wa makuhani na walimu wa sheria, akawauliza ni mahali gani ambapo Kristo angezaliwa."
+  },
+  {
+    "verseNumber": "MAT 2:5",
+    "verseText": "Nao wakamwambia, \u201cKatika Bethlehemu ya Uyahudi, kwa maana hivyo ndivyo ilivyoandikwa na nabii:"
+  },
+  {
+    "verseNumber": "MAT 2:6",
+    "verseText": "\u201c \u2018Nawe, Bethlehemu, katika nchi ya Yuda, wewe si mdogo miongoni mwa watawala wa Yuda; kwa maana kutoka kwako atakuja mtawala atakayekuwa mchungaji wa watu wangu Israeli.\u2019 \u201d"
+  },
+  {
+    "verseNumber": "MAT 2:7",
+    "verseText": "Ndipo Herode akawaita wale wataalamu wa nyota kwa siri na kutaka kujua kutoka kwao uhakika kamili wa wakati ile nyota ilionekana."
+  },
+  {
+    "verseNumber": "MAT 2:8",
+    "verseText": "Kisha akawatuma waende Bethlehemu akiwaambia, \u201cNendeni mkamtafute kwa bidii huyo mtoto. Nanyi mara mtakapomwona, mniletee habari ili na mimi niweze kwenda kumwabudu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 2:9",
+    "verseText": "Baada ya kumsikia mfalme, wale wataalamu wa nyota wakaenda zao, nayo ile nyota waliyoiona mashariki ikawatangulia, nao wakaifuata mpaka iliposimama mahali pale alipokuwa mtoto."
+  },
+  {
+    "verseNumber": "MAT 2:10",
+    "verseText": "Walipoiona ile nyota wakajawa na furaha kubwa mno."
+  },
+  {
+    "verseNumber": "MAT 2:11",
+    "verseText": "Walipoingia ndani ya ile nyumba, wakamwona mtoto pamoja na Maria mama yake, wakamsujudu na kumwabudu yule mtoto Yesu. Ndipo wakafungua hazina zao, wakamtolea zawadi za dhahabu, uvumba na manemane."
+  },
+  {
+    "verseNumber": "MAT 2:12",
+    "verseText": "Nao wakiisha kuonywa katika ndoto wasirudi kwa Herode, wakarudi kwenda katika nchi yao kwa njia nyingine."
+  },
+  {
+    "verseNumber": "MAT 2:13",
+    "verseText": "Walipokwisha kwenda zao, malaika wa Bwana akamtokea Yosefu katika ndoto akamwambia, \u201cOndoka, mchukue mtoto na mama yake mkimbilie Misri. Kaeni huko mpaka nitakapowaambia, kwa maana Herode anataka kumtafuta huyu mtoto ili amuue.\u201d"
+  },
+  {
+    "verseNumber": "MAT 2:14",
+    "verseText": "Kisha Yosefu akaondoka, akamchukua mtoto pamoja na mama yake wakati wa usiku, nao wakaenda Misri"
+  },
+  {
+    "verseNumber": "MAT 2:15",
+    "verseText": "ambako walikaa mpaka Herode alipofariki. Hili lilifanyika ili litimie lile lililonenwa na Bwana kwa kinywa cha nabii kusema: \u201cNilimwita mwanangu kutoka Misri.\u201d"
+  },
+  {
+    "verseNumber": "MAT 2:16",
+    "verseText": "Herode alipong\u02bcamua kwamba wale wataalamu wa nyota wamemshinda kwa akili, alikasirika sana, naye akatoa amri ya kuwaua watoto wote wa kiume wenye umri wa miaka miwili kurudi chini katika mji wa Bethlehemu na sehemu zote za jirani, kufuatana na ule muda alioambiwa na wale wataalamu wa nyota."
+  },
+  {
+    "verseNumber": "MAT 2:17",
+    "verseText": "Ndipo lilipotimia neno lililonenwa na nabii Yeremia."
+  },
+  {
+    "verseNumber": "MAT 2:18",
+    "verseText": "\u201cSauti ilisikika huko Rama, maombolezo na kilio kikubwa, Raheli akilia kwa ajili ya wanawe, akikataa kufarijiwa, kwa sababu hawako tena.\u201d"
+  },
+  {
+    "verseNumber": "MAT 2:19",
+    "verseText": "Baada ya Herode kufa, malaika wa Bwana akamtokea Yosefu katika ndoto huko Misri"
+  },
+  {
+    "verseNumber": "MAT 2:20",
+    "verseText": "na kusema, \u201cOndoka, mchukue mtoto na mama yake mwende, mrudi katika nchi ya Israeli kwa sababu wale waliokuwa wanatafuta uhai wa mtoto wamekufa.\u201d"
+  },
+  {
+    "verseNumber": "MAT 2:21",
+    "verseText": "Basi Yosefu, akaondoka akamchukua mtoto na mama yake wakaenda mpaka nchi ya Israeli."
+  },
+  {
+    "verseNumber": "MAT 2:22",
+    "verseText": "Lakini aliposikia kwamba Arkelao alikuwa anatawala huko Uyahudi mahali pa Herode baba yake, aliogopa kwenda huko. Naye akiisha kuonywa katika ndoto, akaenda zake sehemu za Galilaya,"
+  },
+  {
+    "verseNumber": "MAT 2:23",
+    "verseText": "akaenda akaishi katika mji ulioitwa Nazareti. Hivyo likawa limetimia neno lililonenwa na manabii, \u201cAtaitwa Mnazarayo.\u201d"
+  },
+  {
+    "verseNumber": "MAT 3:1",
+    "verseText": "Siku hizo Yohana Mbatizaji alikuja akihubiri katika nyika ya Uyahudi, akisema,"
+  },
+  {
+    "verseNumber": "MAT 3:2",
+    "verseText": "\u201cTubuni, kwa maana Ufalme wa Mbinguni umekaribia.\u201d"
+  },
+  {
+    "verseNumber": "MAT 3:3",
+    "verseText": "Huyu ndiye yule aliyenenwa habari zake na nabii Isaya aliposema: \u201cSauti ya mtu aliaye huko nyikani, \u2018Tayarisheni njia kwa ajili ya Bwana, yanyoosheni mapito yake.\u2019 \u201d"
+  },
+  {
+    "verseNumber": "MAT 3:4",
+    "verseText": "Basi Yohana alivaa mavazi yaliyotengenezwa kwa singa za ngamia, akiwa na mkanda wa ngozi kiunoni mwake. Chakula chake kilikuwa nzige na asali ya mwitu."
+  },
+  {
+    "verseNumber": "MAT 3:5",
+    "verseText": "Watu walikuwa wakimwendea kutoka Yerusalemu, Uyahudi yote na nchi zote za kandokando ya Mto Yordani."
+  },
+  {
+    "verseNumber": "MAT 3:6",
+    "verseText": "Nao wakaziungama dhambi zao, akawabatiza katika Mto Yordani."
+  },
+  {
+    "verseNumber": "MAT 3:7",
+    "verseText": "Lakini alipowaona Mafarisayo na Masadukayo wengi wakija ili kubatizwa, aliwaambia: \u201cNinyi watoto wa nyoka! Ni nani aliyewaonya kuikimbia ghadhabu inayokuja?"
+  },
+  {
+    "verseNumber": "MAT 3:8",
+    "verseText": "Basi zaeni matunda yastahiliyo toba."
+  },
+  {
+    "verseNumber": "MAT 3:9",
+    "verseText": "Wala msidhani mnaweza kusema mioyoni mwenu kuwa, \u2018Sisi tunaye Abrahamu, baba yetu.\u2019 Nawaambia kuwa Mungu anaweza kumwinulia Abrahamu watoto kutoka kwa mawe haya."
+  },
+  {
+    "verseNumber": "MAT 3:10",
+    "verseText": "Hata sasa shoka limeshawekwa tayari kwenye shina la kila mti, basi kila mti usiozaa matunda mazuri, hukatwa na kutupwa motoni."
+  },
+  {
+    "verseNumber": "MAT 3:11",
+    "verseText": "\u201cMimi nawabatiza kwa maji kwa ajili ya toba. Lakini nyuma yangu anakuja yeye aliye na uwezo kuliko mimi, ambaye sistahili hata kuvichukua viatu vyake. Yeye atawabatiza kwa Roho Mtakatifu na kwa moto."
+  },
+  {
+    "verseNumber": "MAT 3:12",
+    "verseText": "Pepeto lake liko mkononi mwake, naye atasafisha sakafu yake ya kupuria, na kuikusanya ngano ghalani na kuyateketeza makapi kwa moto usiozimika.\u201d"
+  },
+  {
+    "verseNumber": "MAT 3:13",
+    "verseText": "Kisha Yesu akaja kutoka Galilaya mpaka Mto Yordani ili Yohana ambatize."
+  },
+  {
+    "verseNumber": "MAT 3:14",
+    "verseText": "Lakini Yohana akajitahidi kumzuia, akimwambia, \u201cMimi ninahitaji kubatizwa na wewe, nawe waja kwangu nikubatize?\u201d"
+  },
+  {
+    "verseNumber": "MAT 3:15",
+    "verseText": "Lakini Yesu akamjibu, \u201cKubali hivi sasa, kwa maana ndivyo itupasavyo kwa njia hii kuitimiza haki yote.\u201d Hivyo Yohana akakubali."
+  },
+  {
+    "verseNumber": "MAT 3:16",
+    "verseText": "Naye Yesu alipokwisha kubatizwa, mara alipotoka ndani ya maji, ghafula mbingu zikafunguka, akamwona Roho wa Mungu akishuka kama hua na kutulia juu yake."
+  },
+  {
+    "verseNumber": "MAT 3:17",
+    "verseText": "Nayo sauti kutoka mbinguni ikasema, \u201cHuyu ni Mwanangu mpendwa, ambaye ninapendezwa sana naye.\u201d"
+  },
+  {
+    "verseNumber": "MAT 4:1",
+    "verseText": "Kisha Yesu akaongozwa na Roho Mtakatifu kwenda nyikani ili akajaribiwe na ibilisi."
+  },
+  {
+    "verseNumber": "MAT 4:2",
+    "verseText": "Baada ya kufunga siku arobaini usiku na mchana, hatimaye akaona njaa."
+  },
+  {
+    "verseNumber": "MAT 4:3",
+    "verseText": "Mjaribu akamjia na kumwambia, \u201cIkiwa wewe ndiye Mwana wa Mungu, amuru mawe haya yawe mikate.\u201d"
+  },
+  {
+    "verseNumber": "MAT 4:4",
+    "verseText": "Lakini Yesu akajibu, \u201cImeandikwa: \u2018Mtu haishi kwa mkate tu, ila kwa kila neno litokalo katika kinywa cha Mungu.\u2019 \u201d"
+  },
+  {
+    "verseNumber": "MAT 4:5",
+    "verseText": "Ndipo ibilisi akamchukua Yesu mpaka mji mtakatifu na kumweka juu ya mnara mrefu wa Hekalu,"
+  },
+  {
+    "verseNumber": "MAT 4:6",
+    "verseText": "akamwambia, \u201cKama wewe ndiwe Mwana wa Mungu jitupe chini. Kwa kuwa imeandikwa: \u201c \u2018Atakuagizia malaika zake, nao watakuchukua mikononi mwao ili usije ukajikwaa mguu wako katika jiwe.\u2019 \u201d"
+  },
+  {
+    "verseNumber": "MAT 4:7",
+    "verseText": "Yesu akamjibu, \u201cPia imeandikwa: \u2018Usimjaribu Bwana Mungu wako.\u2019 \u201d"
+  },
+  {
+    "verseNumber": "MAT 4:8",
+    "verseText": "Kwa mara nyingine, ibilisi akamchukua Yesu mpaka kwenye kilele cha mlima mrefu na kumwonyesha falme zote za dunia na fahari zake,"
+  },
+  {
+    "verseNumber": "MAT 4:9",
+    "verseText": "kisha akamwambia, \u201cNitakupa hivi vyote kama ukinisujudia na kuniabudu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 4:10",
+    "verseText": "Yesu akamwambia, \u201cOndoka mbele yangu, Shetani! Kwa maana imeandikwa, \u2018Mwabudu Bwana Mungu wako, na umtumikie yeye peke yake.\u2019 \u201d"
+  },
+  {
+    "verseNumber": "MAT 4:11",
+    "verseText": "Ndipo ibilisi akamwacha, nao malaika wakaja na kumhudumia."
+  },
+  {
+    "verseNumber": "MAT 4:12",
+    "verseText": "Yesu aliposikia kwamba Yohana Mbatizaji alikuwa ametiwa gerezani, alirudi Galilaya."
+  },
+  {
+    "verseNumber": "MAT 4:13",
+    "verseText": "Akaondoka Nazareti akaenda kuishi Kapernaumu, mji ulioko karibu na bahari, katika mipaka ya nchi ya Zabuloni na Naftali,"
+  },
+  {
+    "verseNumber": "MAT 4:14",
+    "verseText": "ili kutimiza unabii wa nabii Isaya, kama alivyosema:"
+  },
+  {
+    "verseNumber": "MAT 4:15",
+    "verseText": "\u201cNchi ya Zabuloni na nchi ya Naftali, kwenye njia ya kuelekea baharini, ng\u02bcambo ya Yordani, Galilaya ya watu wa Mataifa:"
+  },
+  {
+    "verseNumber": "MAT 4:16",
+    "verseText": "watu wale waliokaa gizani wameona nuru kuu; nao wale walioishi katika nchi ya uvuli wa mauti, nuru imewazukia.\u201d"
+  },
+  {
+    "verseNumber": "MAT 4:17",
+    "verseText": "Tangu wakati huo, Yesu alianza kuhubiri akisema: \u201cTubuni, kwa maana Ufalme wa Mbinguni umekaribia.\u201d"
+  },
+  {
+    "verseNumber": "MAT 4:18",
+    "verseText": "Yesu alipokuwa anatembea kando ya Bahari ya Galilaya, aliwaona ndugu wawili, Simoni aitwaye Petro, na Andrea ndugu yake. Walikuwa wakizitupa nyavu zao baharini kwa kuwa wao walikuwa wavuvi."
+  },
+  {
+    "verseNumber": "MAT 4:19",
+    "verseText": "Yesu akawaambia, \u201cNjooni, nifuateni nami nitawafanya mwe wavuvi wa watu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 4:20",
+    "verseText": "Mara wakaziacha nyavu zao, wakamfuata."
+  },
+  {
+    "verseNumber": "MAT 4:21",
+    "verseText": "Alipoendelea mbele kutoka pale, akawaona ndugu wengine wawili, Yakobo mwana wa Zebedayo na Yohana nduguye, wakiwa wamekaa kwenye mashua pamoja na baba yao Zebedayo, wakizitengeneza nyavu zao. Yesu akawaita."
+  },
+  {
+    "verseNumber": "MAT 4:22",
+    "verseText": "Nao mara wakaiacha mashua yao, pamoja na baba yao, wakamfuata."
+  },
+  {
+    "verseNumber": "MAT 4:23",
+    "verseText": "Yesu akapita katika Galilaya yote, akifundisha katika masinagogi yao, akihubiri habari njema za Ufalme, na akiponya kila ugonjwa na kila aina ya maradhi miongoni mwa watu."
+  },
+  {
+    "verseNumber": "MAT 4:24",
+    "verseText": "Kwa hiyo sifa zake zikaenea sehemu zote za Shamu, nao watu wakamletea wote waliokuwa na magonjwa mbalimbali na maumivu, waliopagawa na pepo wachafu, wenye kifafa na waliopooza, naye akawaponya."
+  },
+  {
+    "verseNumber": "MAT 4:25",
+    "verseText": "Makutano makubwa ya watu yakawa yanamjia kutoka Galilaya, Dekapoli, Yerusalemu, Uyahudi na kutoka ng\u02bcambo ya Mto Yordani."
+  },
+  {
+    "verseNumber": "MAT 5:1",
+    "verseText": "Basi Yesu alipoona makutano, alipanda mlimani akaketi chini, nao wanafunzi wake wakamjia."
+  },
+  {
+    "verseNumber": "MAT 5:2",
+    "verseText": "Ndipo akaanza kuwafundisha, akisema:"
+  },
+  {
+    "verseNumber": "MAT 5:3",
+    "verseText": "\u201cHeri walio maskini wa roho, maana Ufalme wa Mbinguni ni wao."
+  },
+  {
+    "verseNumber": "MAT 5:4",
+    "verseText": "Heri wale wanaohuzunika, maana hao watafarijiwa."
+  },
+  {
+    "verseNumber": "MAT 5:5",
+    "verseText": "Heri walio wapole, maana hao watairithi nchi."
+  },
+  {
+    "verseNumber": "MAT 5:6",
+    "verseText": "Heri wenye njaa na kiu ya haki, maana hao watatoshelezwa."
+  },
+  {
+    "verseNumber": "MAT 5:7",
+    "verseText": "Heri wenye huruma, maana hao watapata rehema."
+  },
+  {
+    "verseNumber": "MAT 5:8",
+    "verseText": "Heri walio na moyo safi, maana hao watamwona Mungu."
+  },
+  {
+    "verseNumber": "MAT 5:9",
+    "verseText": "Heri walio wapatanishi, maana hao wataitwa wana wa Mungu."
+  },
+  {
+    "verseNumber": "MAT 5:10",
+    "verseText": "Heri wanaoteswa kwa sababu ya haki, maana Ufalme wa Mbinguni ni wao."
+  },
+  {
+    "verseNumber": "MAT 5:11",
+    "verseText": "\u201cHeri ninyi watu watakapowashutumu, na kuwatesa na kunena dhidi yenu mabaya ya aina zote kwa uongo kwa ajili yangu."
+  },
+  {
+    "verseNumber": "MAT 5:12",
+    "verseText": "Furahini na kushangilia kwa maana thawabu yenu ni kubwa mbinguni, kwa kuwa hivyo ndivyo walivyowatesa manabii waliokuwa kabla yenu."
+  },
+  {
+    "verseNumber": "MAT 5:13",
+    "verseText": "\u201cNinyi ni chumvi ya ulimwengu. Lakini chumvi ikipoteza ladha yake, yawezaje kurudishiwa ladha yake tena? Haifai tena kwa kitu chochote, ila kutupwa nje ikanyagwe na watu."
+  },
+  {
+    "verseNumber": "MAT 5:14",
+    "verseText": "\u201cNinyi ni nuru ya ulimwengu. Mji uliojengwa kilimani hauwezi kufichika."
+  },
+  {
+    "verseNumber": "MAT 5:15",
+    "verseText": "Wala watu hawawashi taa na kuifunika kwa bakuli. Badala yake, huiweka kwenye kinara chake, nayo hutoa mwanga kwa kila mtu aliyemo ndani ya ile nyumba."
+  },
+  {
+    "verseNumber": "MAT 5:16",
+    "verseText": "Vivyo hivyo, nuru yenu iangaze mbele ya watu, ili wapate kuona matendo yenu mema wamtukuze Baba yenu aliye mbinguni."
+  },
+  {
+    "verseNumber": "MAT 5:17",
+    "verseText": "\u201cMsidhani kwamba nimekuja kufuta Sheria au Manabii; sikuja kuondoa bali kutimiza."
+  },
+  {
+    "verseNumber": "MAT 5:18",
+    "verseText": "Kwa maana, amin nawaambia, mpaka mbingu na dunia zitakapopita, hakuna hata herufi moja ndogo wala nukta itakayopotea kwa namna yoyote kutoka kwenye Sheria, mpaka kila kitu kiwe kimetimia."
+  },
+  {
+    "verseNumber": "MAT 5:19",
+    "verseText": "Kwa hiyo, yeyote atakayevunja mojawapo ya amri ndogo kuliko zote ya amri hizi, naye akawafundisha wengine kufanya hivyo, ataitwa mdogo kabisa katika Ufalme wa Mbinguni, lakini yeyote azitendaye na kuzifundisha hizi amri ataitwa mkuu katika Ufalme wa Mbinguni."
+  },
+  {
+    "verseNumber": "MAT 5:20",
+    "verseText": "Kwa maana nawaambia, haki yenu isipozidi haki ya Mafarisayo na walimu wa sheria, kamwe hamtaingia katika Ufalme wa Mbinguni."
+  },
+  {
+    "verseNumber": "MAT 5:21",
+    "verseText": "\u201cMmesikia walivyoambiwa watu wa zamani kwamba, \u2018Usiue. Yeyote atakayeua atapaswa hukumu.\u2019"
+  },
+  {
+    "verseNumber": "MAT 5:22",
+    "verseText": "Lakini mimi nawaambia kwamba, yeyote atakayemkasirikia ndugu yake, atapaswa hukumu. Tena, yeyote atakayemwambia ndugu yake, \u2018Raka,\u2019 atapaswa kujibu kwa Baraza la Wayahudi. Lakini yeyote atakayesema \u2018Wewe mpumbavu!\u2019 atapaswa hukumu ya moto wa jehanamu."
+  },
+  {
+    "verseNumber": "MAT 5:23",
+    "verseText": "\u201cKwa hiyo, kama unatoa sadaka yako madhabahuni, ukakumbuka kuwa ndugu yako ana kitu dhidi yako,"
+  },
+  {
+    "verseNumber": "MAT 5:24",
+    "verseText": "iache sadaka yako hapo mbele ya madhabahu. Enda kwanza ukapatane na ndugu yako; kisha urudi na ukatoe sadaka yako."
+  },
+  {
+    "verseNumber": "MAT 5:25",
+    "verseText": "\u201cPatana na mshtaki wako upesi wakati uwapo njiani pamoja naye kwenda mahakamani, ili mshtaki wako asije akakutia mikononi mwa hakimu, naye hakimu akakutia mikononi mwa askari, nawe ukatupwa gerezani."
+  },
+  {
+    "verseNumber": "MAT 5:26",
+    "verseText": "Amin, nakuambia, hautatoka humo hadi uwe umelipa senti ya mwisho."
+  },
+  {
+    "verseNumber": "MAT 5:27",
+    "verseText": "\u201cMmesikia kwamba ilinenwa, \u2018Usizini.\u2019"
+  },
+  {
+    "verseNumber": "MAT 5:28",
+    "verseText": "Lakini mimi nawaambia kwamba, yeyote amtazamaye mwanamke kwa kumtamani, amekwisha kuzini naye moyoni mwake."
+  },
+  {
+    "verseNumber": "MAT 5:29",
+    "verseText": "Jicho lako la kuume likikusababisha kutenda dhambi, ling\u02bcoe ulitupe mbali. Ni afadhali kwako kupoteza kiungo kimoja cha mwili wako kuliko mwili wako mzima ukatupwa jehanamu."
+  },
+  {
+    "verseNumber": "MAT 5:30",
+    "verseText": "Kama mkono wako wa kuume ukikusababisha kutenda dhambi, ukate, uutupe mbali. Ni afadhali kwako kupoteza kiungo kimoja cha mwili wako kuliko mwili wako mzima utupwe jehanamu."
+  },
+  {
+    "verseNumber": "MAT 5:31",
+    "verseText": "\u201cPia ilinenwa kwamba, \u2018Mtu yeyote amwachaye mkewe sharti ampe hati ya talaka.\u2019"
+  },
+  {
+    "verseNumber": "MAT 5:32",
+    "verseText": "Lakini mimi nawaambia, yeyote amwachaye mkewe isipokuwa kwa kosa la uasherati, amfanya mkewe kuwa mzinzi. Na yeyote amwoaye yule mwanamke aliyeachwa, anazini."
+  },
+  {
+    "verseNumber": "MAT 5:33",
+    "verseText": "\u201cTena mmesikia walivyoambiwa watu wa zamani kwamba, \u2018Usiape kwa uongo, bali timiza kiapo kile ulichofanya kwa Bwana.\u2019"
+  },
+  {
+    "verseNumber": "MAT 5:34",
+    "verseText": "Lakini mimi nawaambia, msiape kabisa: iwe kwa mbingu, kwa kuwa ni kiti cha enzi cha Mungu;"
+  },
+  {
+    "verseNumber": "MAT 5:35",
+    "verseText": "au kwa dunia, kwa kuwa ndipo mahali pake pa kuwekea miguu; au kwa Yerusalemu, kwa kuwa ndio mji wa Mfalme Mkuu."
+  },
+  {
+    "verseNumber": "MAT 5:36",
+    "verseText": "Nanyi msiape kwa vichwa vyenu, kwa kuwa hamwezi kuufanya hata unywele mmoja kuwa mweupe au mweusi."
+  },
+  {
+    "verseNumber": "MAT 5:37",
+    "verseText": "\u2018Ndiyo\u2019 yenu iwe \u2018Ndiyo,\u2019 na \u2018Hapana\u2019 yenu iwe \u2018Hapana.\u2019 Lolote zaidi ya hili latoka kwa yule mwovu."
+  },
+  {
+    "verseNumber": "MAT 5:38",
+    "verseText": "\u201cMmesikia kwamba ilinenwa, \u2018Jicho kwa jicho na jino kwa jino.\u2019"
+  },
+  {
+    "verseNumber": "MAT 5:39",
+    "verseText": "Lakini mimi nawaambia, msishindane na mtu mwovu. Lakini kama mtu akikupiga kwenye shavu la kuume, mgeuzie na la pili pia."
+  },
+  {
+    "verseNumber": "MAT 5:40",
+    "verseText": "Kama mtu akitaka kukushtaki na kuchukua joho lako, mwachie achukue na koti pia."
+  },
+  {
+    "verseNumber": "MAT 5:41",
+    "verseText": "Kama mtu akikulazimisha kwenda maili moja, nenda naye maili mbili."
+  },
+  {
+    "verseNumber": "MAT 5:42",
+    "verseText": "Mpe yeye akuombaye, wala usimgeuzie kisogo yeye atakaye kukukopa."
+  },
+  {
+    "verseNumber": "MAT 5:43",
+    "verseText": "\u201cMmesikia kwamba ilinenwa, \u2018Mpende jirani yako na umchukie adui yako.\u2019"
+  },
+  {
+    "verseNumber": "MAT 5:44",
+    "verseText": "Lakini ninawaambia: Wapendeni adui zenu na waombeeni wanaowatesa ninyi,"
+  },
+  {
+    "verseNumber": "MAT 5:45",
+    "verseText": "ili mpate kuwa watoto wa Baba yenu aliye mbinguni. Kwa maana yeye huwaangazia jua lake watu waovu na watu wema, naye huwanyeshea mvua wenye haki na wasio haki."
+  },
+  {
+    "verseNumber": "MAT 5:46",
+    "verseText": "Kama mkiwapenda tu wale wanaowapenda, mtapata thawabu gani? Je, hata watoza ushuru hawafanyi hivyo?"
+  },
+  {
+    "verseNumber": "MAT 5:47",
+    "verseText": "Nanyi kama mkiwasalimu ndugu zenu tu, je, mnafanya nini zaidi ya wengine? Je, hata watu wasiomjua Mungu, hawafanyi hivyo?"
+  },
+  {
+    "verseNumber": "MAT 5:48",
+    "verseText": "Kwa hiyo kuweni wakamilifu kama Baba yenu wa mbinguni alivyo mkamilifu."
+  },
+  {
+    "verseNumber": "MAT 6:1",
+    "verseText": "\u201cAngalieni msitende wema wenu mbele ya watu ili wawaone. Kwa maana mkifanya hivyo, hamna thawabu kutoka kwa Baba yenu aliye mbinguni."
+  },
+  {
+    "verseNumber": "MAT 6:2",
+    "verseText": "\u201cHivyo mnapowapa wahitaji, msipige panda mbele yenu kama wafanyavyo wanafiki katika masinagogi na mitaani, ili wasifiwe na watu. Amin nawaambia wao wamekwisha kupokea thawabu yao."
+  },
+  {
+    "verseNumber": "MAT 6:3",
+    "verseText": "Lakini ninyi mtoapo sadaka, fanyeni kwa siri, hata mkono wako wa kushoto usijue mkono wako wa kuume unachofanya,"
+  },
+  {
+    "verseNumber": "MAT 6:4",
+    "verseText": "ili sadaka yako iwe ni siri. Ndipo Baba yako wa mbinguni, yeye aonaye sirini atakupa thawabu kwa wazi."
+  },
+  {
+    "verseNumber": "MAT 6:5",
+    "verseText": "\u201cNanyi msalipo, msiwe kama wanafiki, maana wao hupenda kusali wakiwa wamesimama katika masinagogi na kando ya barabara ili waonekane na watu. Amin nawaambia, wao wamekwisha kupata thawabu yao."
+  },
+  {
+    "verseNumber": "MAT 6:6",
+    "verseText": "Lakini wewe unaposali, ingia chumbani mwako, funga mlango na umwombe Baba yako aliye sirini. Naye Baba yako aonaye sirini atakupa thawabu yako."
+  },
+  {
+    "verseNumber": "MAT 6:7",
+    "verseText": "Nanyi mnaposali msiseme maneno kama wafanyavyo watu wasiomjua Mungu. Kwa maana wao hudhani kwamba watasikiwa kwa sababu ya wingi wa maneno yao."
+  },
+  {
+    "verseNumber": "MAT 6:8",
+    "verseText": "Msiwe kama wao, kwa sababu Baba yenu anajua kile mnachohitaji kabla hamjamwomba."
+  },
+  {
+    "verseNumber": "MAT 6:9",
+    "verseText": "\u201cHivi basi, ndivyo iwapasavyo kuomba: \u201c \u2018Baba yetu uliye mbinguni, Jina lako litukuzwe."
+  },
+  {
+    "verseNumber": "MAT 6:10",
+    "verseText": "Ufalme wako uje. Mapenzi yako yafanyike hapa duniani kama huko mbinguni."
+  },
+  {
+    "verseNumber": "MAT 6:11",
+    "verseText": "Utupatie riziki yetu ya kila siku."
+  },
+  {
+    "verseNumber": "MAT 6:12",
+    "verseText": "Utusamehe deni zetu, kama sisi nasi tulivyokwisha kuwasamehe wadeni wetu."
+  },
+  {
+    "verseNumber": "MAT 6:13",
+    "verseText": "Usitutie majaribuni, bali utuokoe kutoka kwa yule mwovu [kwa kuwa Ufalme ni wako, na nguvu, na utukufu, hata milele. Amen].\u2019"
+  },
+  {
+    "verseNumber": "MAT 6:14",
+    "verseText": "Kwa kuwa kama mkiwasamehe watu wengine wanapowakosea, Baba yenu wa mbinguni atawasamehe ninyi pia."
+  },
+  {
+    "verseNumber": "MAT 6:15",
+    "verseText": "Lakini msipowasamehe watu wengine makosa yao, naye Baba yenu hatawasamehe ninyi makosa yenu."
+  },
+  {
+    "verseNumber": "MAT 6:16",
+    "verseText": "\u201cMnapofunga, msiwe wenye huzuni kama wafanyavyo wanafiki. Maana wao hukunja nyuso zao ili kuwaonyesha wengine kwamba wamefunga. Amin, amin nawaambia wao wamekwisha kupata thawabu yao kamilifu."
+  },
+  {
+    "verseNumber": "MAT 6:17",
+    "verseText": "Lakini mnapofunga, jipakeni mafuta kichwani na kunawa nyuso zenu"
+  },
+  {
+    "verseNumber": "MAT 6:18",
+    "verseText": "ili kufunga kwenu kusionekane na watu wengine ila Baba yenu aketiye mahali pa siri; naye Baba yenu aonaye sirini atawapa thawabu yenu kwa wazi."
+  },
+  {
+    "verseNumber": "MAT 6:19",
+    "verseText": "\u201cMsijiwekee hazina duniani, mahali ambapo nondo na kutu huharibu, nao wevi huvunja na kuiba."
+  },
+  {
+    "verseNumber": "MAT 6:20",
+    "verseText": "Lakini jiwekeeni hazina mbinguni, mahali ambapo nondo na kutu haviharibu, wala wevi hawavunji na kuiba."
+  },
+  {
+    "verseNumber": "MAT 6:21",
+    "verseText": "Kwa sababu mahali hazina yako ilipo, hapo ndipo pia moyo wako utakapokuwa."
+  },
+  {
+    "verseNumber": "MAT 6:22",
+    "verseText": "\u201cJicho ni taa ya mwili. Kama jicho lako ni nyofu, mwili wako wote utajaa nuru."
+  },
+  {
+    "verseNumber": "MAT 6:23",
+    "verseText": "Lakini kama jicho lako ni ovu, mwili wako wote utajawa na giza. Kwa hiyo basi, kama nuru iliyomo ndani yako ni giza, hilo ni giza kuu namna gani!"
+  },
+  {
+    "verseNumber": "MAT 6:24",
+    "verseText": "\u201cHakuna mtu awezaye kuwatumikia mabwana wawili. Kwa kuwa atamchukia huyu na kumpenda yule mwingine, au atashikamana sana na huyu na kumdharau yule mwingine. Hamwezi kumtumikia Mungu pamoja na Mali."
+  },
+  {
+    "verseNumber": "MAT 6:25",
+    "verseText": "\u201cKwa hiyo nawaambia, msisumbukie maisha yenu kwamba mtakula nini au mtakunywa nini; au msumbukie miili yenu kwamba mtavaa nini. Je, maisha si zaidi ya chakula, na mwili zaidi ya mavazi?"
+  },
+  {
+    "verseNumber": "MAT 6:26",
+    "verseText": "Waangalieni ndege wa angani; wao hawapandi wala hawavuni au kuweka ghalani, lakini Baba yenu wa mbinguni huwalisha. Je, ninyi si wa thamani zaidi kuliko hao ndege?"
+  },
+  {
+    "verseNumber": "MAT 6:27",
+    "verseText": "Ni nani miongoni mwenu ambaye kwa kujitaabisha kwake anaweza kujiongezea hata saa moja zaidi katika maisha yake?"
+  },
+  {
+    "verseNumber": "MAT 6:28",
+    "verseText": "\u201cNanyi kwa nini mnajitaabisha kwa ajili ya mavazi? Fikirini maua ya shambani yameavyo. Hayafanyi kazi wala hayafumi."
+  },
+  {
+    "verseNumber": "MAT 6:29",
+    "verseText": "Lakini nawaambia, hata Solomoni katika fahari yake yote hakuvikwa vizuri kama mojawapo ya hayo maua."
+  },
+  {
+    "verseNumber": "MAT 6:30",
+    "verseText": "Basi ikiwa Mungu huyavika hivi majani ya shambani, ambayo leo yapo na kesho yanatupwa motoni, je, hatawavika ninyi vizuri zaidi, enyi wa imani haba?"
+  },
+  {
+    "verseNumber": "MAT 6:31",
+    "verseText": "Kwa hiyo msiwe na wasiwasi, mkisema, \u2018Tutakula nini?\u2019 au \u2018Tutakunywa nini?\u2019 au \u2018Tutavaa nini?\u2019"
+  },
+  {
+    "verseNumber": "MAT 6:32",
+    "verseText": "Watu wasiomjua Mungu ndio wanaoshindania hayo, lakini Baba yenu wa mbinguni anafahamu kuwa mnahitaji haya yote."
+  },
+  {
+    "verseNumber": "MAT 6:33",
+    "verseText": "Lakini utafuteni kwanza Ufalme wa Mungu na haki yake, na haya yote atawapa pia."
+  },
+  {
+    "verseNumber": "MAT 6:34",
+    "verseText": "Kwa hiyo msiwe na wasiwasi kuhusu kesho, kwa sababu kesho itajitaabikia yenyewe. Yatosha kwa siku masumbufu yake."
+  },
+  {
+    "verseNumber": "MAT 7:1",
+    "verseText": "\u201cUsihukumu ili usije ukahukumiwa."
+  },
+  {
+    "verseNumber": "MAT 7:2",
+    "verseText": "Kwa maana jinsi unavyowahukumu wengine, ndivyo utakavyohukumiwa, na kwa kipimo kile upimiacho, ndicho utakachopimiwa."
+  },
+  {
+    "verseNumber": "MAT 7:3",
+    "verseText": "\u201cMbona unatazama kibanzi kilicho ndani ya jicho la ndugu yako, na wala huoni boriti iliyo ndani ya jicho lako mwenyewe?"
+  },
+  {
+    "verseNumber": "MAT 7:4",
+    "verseText": "Au unawezaje kumwambia ndugu yako, \u2018Acha nitoe kibanzi kwenye jicho lako,\u2019 wakati kuna boriti kwenye jicho lako mwenyewe?"
+  },
+  {
+    "verseNumber": "MAT 7:5",
+    "verseText": "Ewe mnafiki, ondoa boriti ndani ya jicho lako kwanza, ndipo utaweza kuona dhahiri jinsi ya kuondoa kibanzi kilicho ndani ya jicho la ndugu yako."
+  },
+  {
+    "verseNumber": "MAT 7:6",
+    "verseText": "\u201cMsiwape mbwa vitu vilivyo vitakatifu; wala msitupie nguruwe lulu zenu. Kama mkifanya hivyo, watazikanyagakanyaga na kisha watawageukia na kuwararua vipande vipande."
+  },
+  {
+    "verseNumber": "MAT 7:7",
+    "verseText": "\u201cOmbeni nanyi mtapewa; tafuteni nanyi mtapata; bisheni nanyi mtafunguliwa mlango."
+  },
+  {
+    "verseNumber": "MAT 7:8",
+    "verseText": "Kwa kuwa kila aombaye hupewa; naye kila atafutaye hupata; na kila abishaye hufunguliwa mlango."
+  },
+  {
+    "verseNumber": "MAT 7:9",
+    "verseText": "\u201cAu ni nani miongoni mwenu ambaye mwanawe akimwomba mkate atampa jiwe?"
+  },
+  {
+    "verseNumber": "MAT 7:10",
+    "verseText": "Au mwanawe akimwomba samaki atampa nyoka?"
+  },
+  {
+    "verseNumber": "MAT 7:11",
+    "verseText": "Ikiwa ninyi basi mlio waovu mnajua kuwapa watoto wenu vitu vizuri, si zaidi sana Baba yenu aliye mbinguni atawapa vitu vizuri wale wamwombao?"
+  },
+  {
+    "verseNumber": "MAT 7:12",
+    "verseText": "Kwa hiyo chochote mnachotaka mtendewe na watu, ninyi nanyi watendeeni vivyo hivyo. Kwa kuwa hii ndiyo Sheria na Manabii."
+  },
+  {
+    "verseNumber": "MAT 7:13",
+    "verseText": "\u201cIngieni kupitia mlango mwembamba, kwa maana lango ni pana na njia ni pana ielekeayo upotevuni, nao ni wengi waingiao kwa kupitia lango hilo."
+  },
+  {
+    "verseNumber": "MAT 7:14",
+    "verseText": "Lakini mlango ni mwembamba na njia ni finyu ielekeayo kwenye uzima, nao ni wachache tu waionao."
+  },
+  {
+    "verseNumber": "MAT 7:15",
+    "verseText": "\u201cJihadharini na manabii wa uongo, wanaowajia wakiwa wamevaa mavazi ya kondoo, lakini ndani ni mbwa mwitu wakali."
+  },
+  {
+    "verseNumber": "MAT 7:16",
+    "verseText": "Mtawatambua kwa matunda yao. Je, watu huchuma zabibu kwenye miiba, au tini kwenye michongoma?"
+  },
+  {
+    "verseNumber": "MAT 7:17",
+    "verseText": "Vivyo hivyo, mti mwema huzaa matunda mazuri, na mti mbaya huzaa matunda mabaya."
+  },
+  {
+    "verseNumber": "MAT 7:18",
+    "verseText": "Mti mwema hauwezi kuzaa matunda mabaya, wala mti mbaya hauwezi kuzaa matunda mazuri."
+  },
+  {
+    "verseNumber": "MAT 7:19",
+    "verseText": "Kila mti usiozaa matunda mazuri hukatwa na kutupwa motoni."
+  },
+  {
+    "verseNumber": "MAT 7:20",
+    "verseText": "Hivyo, mtawatambua kwa matunda yao."
+  },
+  {
+    "verseNumber": "MAT 7:21",
+    "verseText": "\u201cSi kila mtu aniambiaye, \u2018Bwana, Bwana,\u2019 atakayeingia katika Ufalme wa Mbinguni, bali ni yeye afanyaye mapenzi ya Baba yangu aliye mbinguni."
+  },
+  {
+    "verseNumber": "MAT 7:22",
+    "verseText": "Wengi wataniambia siku ile, \u2018Bwana, Bwana, hatukutoa unabii kwa jina lako, na kwa jina lako kutoa pepo wachafu na kufanya miujiza mingi?\u2019"
+  },
+  {
+    "verseNumber": "MAT 7:23",
+    "verseText": "Ndipo nitakapowaambia wazi, \u2018Sikuwajua kamwe. Ondokeni kwangu, ninyi watenda maovu!\u2019"
+  },
+  {
+    "verseNumber": "MAT 7:24",
+    "verseText": "\u201cKwa hiyo kila mtu ayasikiaye haya maneno yangu na kuyatenda, ni kama mtu mwenye busara aliyejenga nyumba yake kwenye mwamba."
+  },
+  {
+    "verseNumber": "MAT 7:25",
+    "verseText": "Mvua ikanyesha, mafuriko yakaja, na upepo ukavuma ukaipiga hiyo nyumba. Lakini haikuanguka; kwa sababu msingi wake ulikuwa kwenye mwamba."
+  },
+  {
+    "verseNumber": "MAT 7:26",
+    "verseText": "Naye kila anayesikia haya maneno yangu wala asiyatende, ni kama mtu mjinga aliyejenga nyumba yake kwenye mchanga."
+  },
+  {
+    "verseNumber": "MAT 7:27",
+    "verseText": "Mvua ikanyesha, mafuriko yakaja, nao upepo ukavuma ukaipiga hiyo nyumba, nayo ikaanguka kwa kishindo kikubwa.\u201d"
+  },
+  {
+    "verseNumber": "MAT 7:28",
+    "verseText": "Yesu alipomaliza kusema maneno haya, makutano ya watu wakashangazwa sana na mafundisho yake,"
+  },
+  {
+    "verseNumber": "MAT 7:29",
+    "verseText": "kwa sababu alifundisha kama yeye aliye na mamlaka, wala si kama walimu wao wa sheria."
+  },
+  {
+    "verseNumber": "MAT 8:1",
+    "verseText": "Yesu aliposhuka kutoka mlimani, makutano makubwa ya watu yakamfuata."
+  },
+  {
+    "verseNumber": "MAT 8:2",
+    "verseText": "Mtu mmoja mwenye ukoma akaja na kupiga magoti mbele yake, akasema, \u201cBwana, kama ukitaka, unaweza kunitakasa.\u201d"
+  },
+  {
+    "verseNumber": "MAT 8:3",
+    "verseText": "Yesu akanyoosha mkono wake akamgusa yule mtu, akamwambia, \u201cNataka. Takasika!\u201d Mara yule mtu akatakasika ukoma wake."
+  },
+  {
+    "verseNumber": "MAT 8:4",
+    "verseText": "Kisha Yesu akamwambia, \u201cHakikisha humwambii mtu yeyote. Lakini nenda ukajionyeshe kwa kuhani, na utoe sadaka aliyoamuru Mose, ili kuwa ushuhuda kwao.\u201d"
+  },
+  {
+    "verseNumber": "MAT 8:5",
+    "verseText": "Yesu alipoingia Kapernaumu, jemadari mmoja alimjia, kumwomba msaada,"
+  },
+  {
+    "verseNumber": "MAT 8:6",
+    "verseText": "akisema, \u201cBwana, mtumishi wangu amelala nyumbani na amepooza, tena ana maumivu makali ya kutisha.\u201d"
+  },
+  {
+    "verseNumber": "MAT 8:7",
+    "verseText": "Yesu akamwambia, \u201cNitakuja na kumponya.\u201d"
+  },
+  {
+    "verseNumber": "MAT 8:8",
+    "verseText": "Lakini yule jemadari akamwambia, \u201cBwana, mimi sistahili wewe kuingia chini ya dari yangu. Lakini sema neno tu, naye mtumishi wangu atapona."
+  },
+  {
+    "verseNumber": "MAT 8:9",
+    "verseText": "Kwa kuwa mimi mwenyewe ni mtu niliyewekwa chini ya mamlaka, nikiwa na askari chini yangu. Nikimwambia huyu, \u2018Nenda,\u2019 yeye huenda; na mwingine nikimwambia, \u2018Njoo,\u2019 yeye huja. Nikimwambia mtumishi wangu, \u2018Fanya hivi,\u2019 yeye hufanya.\u201d"
+  },
+  {
+    "verseNumber": "MAT 8:10",
+    "verseText": "Yesu aliposikia maneno haya, alishangaa, akawaambia wale waliomfuata, \u201cAmin, nawaambia, hata katika Israeli sijapata kuona yeyote mwenye imani kubwa namna hii."
+  },
+  {
+    "verseNumber": "MAT 8:11",
+    "verseText": "Ninawaambia kwamba wengi watatoka mashariki na magharibi, nao wataketi karamuni pamoja na Abrahamu, Isaki na Yakobo katika Ufalme wa Mbinguni."
+  },
+  {
+    "verseNumber": "MAT 8:12",
+    "verseText": "Lakini warithi wa Ufalme watatupwa katika giza la nje, ambako kutakuwako kilio na kusaga meno.\u201d"
+  },
+  {
+    "verseNumber": "MAT 8:13",
+    "verseText": "Kisha Yesu akamwambia yule jemadari, \u201cNenda na iwe kwako sawasawa na imani yako.\u201d Naye yule mtumishi akapona saa ile ile."
+  },
+  {
+    "verseNumber": "MAT 8:14",
+    "verseText": "Yesu alipoingia nyumbani kwa Petro, alimkuta mama mkwe wa Petro amelala kitandani, akiwa ana homa."
+  },
+  {
+    "verseNumber": "MAT 8:15",
+    "verseText": "Akamgusa mkono wake na homa ikamwacha, naye akainuka na kuanza kumhudumia."
+  },
+  {
+    "verseNumber": "MAT 8:16",
+    "verseText": "Jioni ile, wakamletea watu wengi waliopagawa na pepo wachafu, naye akawatoa wale pepo wachafu kwa neno lake, na kuwaponya wagonjwa wote."
+  },
+  {
+    "verseNumber": "MAT 8:17",
+    "verseText": "Haya yalifanyika ili litimie lile lililonenwa kwa kinywa cha nabii Isaya kwamba: \u201cMwenyewe alitwaa udhaifu wetu na alichukua magonjwa yetu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 8:18",
+    "verseText": "Yesu alipoona makutano mengi wamemzunguka, aliwaamuru wanafunzi wake wavuke mpaka ng\u02bcambo ya ziwa."
+  },
+  {
+    "verseNumber": "MAT 8:19",
+    "verseText": "Kisha mwalimu mmoja wa sheria akamjia Yesu na kumwambia, \u201cMwalimu, nitakufuata kokote uendako.\u201d"
+  },
+  {
+    "verseNumber": "MAT 8:20",
+    "verseText": "Naye Yesu akamjibu, \u201cMbweha wana mapango, nao ndege wa angani wana viota, lakini Mwana wa Adamu hana mahali pa kulaza kichwa chake.\u201d"
+  },
+  {
+    "verseNumber": "MAT 8:21",
+    "verseText": "Mwanafunzi mwingine akamwambia, \u201cBwana, niruhusu kwanza nikamzike baba yangu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 8:22",
+    "verseText": "Lakini Yesu akamwambia, \u201cNifuate, uwaache wafu wawazike wafu wao.\u201d"
+  },
+  {
+    "verseNumber": "MAT 8:23",
+    "verseText": "Naye alipoingia kwenye mashua, wanafunzi wake wakamfuata."
+  },
+  {
+    "verseNumber": "MAT 8:24",
+    "verseText": "Ghafula, kukainuka dhoruba kali baharini hata mashua ikaanza kufunikwa na mawimbi, lakini Yesu alikuwa amelala usingizi."
+  },
+  {
+    "verseNumber": "MAT 8:25",
+    "verseText": "Wanafunzi wake wakamwendea na kumwamsha, wakisema, \u201cBwana, tuokoe! Tunazama!\u201d"
+  },
+  {
+    "verseNumber": "MAT 8:26",
+    "verseText": "Naye Yesu akawaambia, \u201cKwa nini mnaogopa, enyi wa imani haba?\u201d Kisha akaamka na kukemea dhoruba na mawimbi, nako kukawa shwari kabisa."
+  },
+  {
+    "verseNumber": "MAT 8:27",
+    "verseText": "Wale watu wakashangaa, wakisema, \u201cNi mtu wa namna gani huyu? Hata upepo na mawimbi vinamtii!\u201d"
+  },
+  {
+    "verseNumber": "MAT 8:28",
+    "verseText": "Walipofika ng\u02bcambo katika nchi ya Wagerasi, watu wawili waliopagawa na pepo wachafu walitoka makaburini nao wakakutana naye. Watu hawa walikuwa wakali mno kiasi kwamba hakuna mtu aliyeweza kupita njia ile."
+  },
+  {
+    "verseNumber": "MAT 8:29",
+    "verseText": "Wakapiga kelele, \u201cUna nini nasi, Mwana wa Mungu? Umekuja hapa kututesa kabla ya wakati ulioamriwa?\u201d"
+  },
+  {
+    "verseNumber": "MAT 8:30",
+    "verseText": "Mbali kidogo kutoka pale walipokuwa, kulikuwa na kundi kubwa la nguruwe wakilisha."
+  },
+  {
+    "verseNumber": "MAT 8:31",
+    "verseText": "Wale pepo wachafu wakamsihi Yesu, \u201cUkitutoa humu, turuhusu twende kwenye lile kundi la nguruwe.\u201d"
+  },
+  {
+    "verseNumber": "MAT 8:32",
+    "verseText": "Akawaambia, \u201cNendeni!\u201d Hivyo wakatoka na kuwaingia wale nguruwe, nalo kundi lote likateremka gengeni kwa kasi, likaingia katika ziwa na kufa ndani ya maji."
+  },
+  {
+    "verseNumber": "MAT 8:33",
+    "verseText": "Wale watu waliokuwa wakiwachunga hao nguruwe wakakimbia wakaingia mjini, wakaeleza yote kuhusu yale yaliyowatokea wale waliokuwa wamepagawa na pepo wachafu."
+  },
+  {
+    "verseNumber": "MAT 8:34",
+    "verseText": "Kisha watu wote wa mji huo wakatoka kwenda kukutana na Yesu. Nao walipomwona wakamsihi aondoke kwenye nchi yao."
+  },
+  {
+    "verseNumber": "MAT 9:1",
+    "verseText": "Yesu akaingia kwenye chombo, akavuka na kufika katika mji wa kwao."
+  },
+  {
+    "verseNumber": "MAT 9:2",
+    "verseText": "Wakati huo huo wakamletea mtu aliyepooza, akiwa amelazwa kwenye mkeka. Yesu alipoiona imani yao, alimwambia yule mtu aliyepooza, \u201cMwanangu, jipe moyo mkuu. Dhambi zako zimesamehewa.\u201d"
+  },
+  {
+    "verseNumber": "MAT 9:3",
+    "verseText": "Kwa ajili ya jambo hili, baadhi ya walimu wa sheria wakasema mioyoni mwao, \u201cHuyu mtu anakufuru!\u201d"
+  },
+  {
+    "verseNumber": "MAT 9:4",
+    "verseText": "Lakini Yesu akiyafahamu mawazo yao, akawaambia, \u201cKwa nini mnawaza maovu mioyoni mwenu?"
+  },
+  {
+    "verseNumber": "MAT 9:5",
+    "verseText": "Je, ni lipi lililo rahisi zaidi: kusema, \u2018Umesamehewa dhambi zako,\u2019 au kusema, \u2018Inuka, uende\u2019?"
+  },
+  {
+    "verseNumber": "MAT 9:6",
+    "verseText": "Lakini, ili mpate kujua kwamba Mwana wa Adamu anayo mamlaka duniani kusamehe dhambi\u2026\u201d Ndipo akamwambia yule aliyepooza, \u201cInuka, chukua mkeka wako, uende nyumbani kwako.\u201d"
+  },
+  {
+    "verseNumber": "MAT 9:7",
+    "verseText": "Yule mtu akasimama, akaenda nyumbani kwake."
+  },
+  {
+    "verseNumber": "MAT 9:8",
+    "verseText": "Makutano walipoyaona haya, wakajawa na hofu ya Mungu, wakamtukuza Mungu ambaye alikuwa ametoa mamlaka kama haya kwa wanadamu."
+  },
+  {
+    "verseNumber": "MAT 9:9",
+    "verseText": "Yesu alipokuwa akienda kutoka huko, alimwona mtu mmoja jina lake Mathayo akiwa ameketi forodhani mahali pa kutoza ushuru. Yesu akamwambia, \u201cNifuate.\u201d Mathayo akaondoka, akamfuata."
+  },
+  {
+    "verseNumber": "MAT 9:10",
+    "verseText": "Yesu alipokuwa akila chakula ndani ya nyumba ya Mathayo, watoza ushuru wengi na \u201cwenye dhambi\u201d wakaja kula pamoja naye na wanafunzi wake."
+  },
+  {
+    "verseNumber": "MAT 9:11",
+    "verseText": "Mafarisayo walipoona mambo haya, wakawauliza wanafunzi wake, \u201cKwa nini Mwalimu wenu anakula pamoja na watoza ushuru na \u2018wenye dhambi\u2019?\u201d"
+  },
+  {
+    "verseNumber": "MAT 9:12",
+    "verseText": "Lakini Yesu aliposikia hayo, akawaambia, \u201cWatu wenye afya hawahitaji tabibu, lakini wale walio wagonjwa ndio wanaohitaji tabibu."
+  },
+  {
+    "verseNumber": "MAT 9:13",
+    "verseText": "Nendeni mkajifunze maana ya maneno haya: \u2018Nataka rehema, wala si dhabihu.\u2019 Kwa maana sikuja kuwaita wenye haki, bali wenye dhambi.\u201d"
+  },
+  {
+    "verseNumber": "MAT 9:14",
+    "verseText": "Wanafunzi wa Yohana Mbatizaji wakaja na kumuuliza Yesu, \u201cImekuwaje kwamba sisi na Mafarisayo tunafunga, lakini wanafunzi wako hawafungi?\u201d"
+  },
+  {
+    "verseNumber": "MAT 9:15",
+    "verseText": "Yesu akawajibu, \u201cWageni wa bwana arusi wawezaje kuomboleza wakati angali pamoja nao? Wakati utafika ambapo bwana arusi ataondolewa kwao. Hapo ndipo watakapofunga."
+  },
+  {
+    "verseNumber": "MAT 9:16",
+    "verseText": "\u201cHakuna mtu anayeshonea kiraka kipya kwenye nguo iliyochakaa, kwa maana kile kiraka kitachanika kutoka kwenye hiyo nguo, nayo hiyo nguo itachanika zaidi."
+  },
+  {
+    "verseNumber": "MAT 9:17",
+    "verseText": "Wala watu hawaweki divai mpya kwenye viriba vikuukuu. Kama wakifanya hivyo, viriba vitapasuka nayo divai itamwagika, navyo viriba vitaharibika. Lakini divai mpya huwekwa kwenye viriba vipya, na hivyo divai na viriba huwa salama.\u201d"
+  },
+  {
+    "verseNumber": "MAT 9:18",
+    "verseText": "Yesu alipokuwa akiwaambia mambo haya, mara akaingia kiongozi wa sinagogi akapiga magoti mbele yake, akamwambia, \u201cBinti yangu amekufa sasa hivi. Lakini njoo uweke mkono wako juu yake, naye atakuwa hai.\u201d"
+  },
+  {
+    "verseNumber": "MAT 9:19",
+    "verseText": "Yesu akaondoka akafuatana naye, nao wanafunzi wake pia wakaandamana naye."
+  },
+  {
+    "verseNumber": "MAT 9:20",
+    "verseText": "Wakati huo huo, mwanamke mmoja, ambaye alikuwa na ugonjwa wa kutokwa damu kwa muda wa miaka kumi na miwili, akaja nyuma ya Yesu, akagusa upindo wa vazi lake,"
+  },
+  {
+    "verseNumber": "MAT 9:21",
+    "verseText": "kwa maana alisema moyoni mwake, \u201cKama nikigusa tu vazi lake, nitaponywa.\u201d"
+  },
+  {
+    "verseNumber": "MAT 9:22",
+    "verseText": "Yesu akageuka, naye alipomwona akamwambia, \u201cBinti, jipe moyo mkuu, imani yako imekuponya.\u201d Naye yule mwanamke akapona kuanzia saa ile ile."
+  },
+  {
+    "verseNumber": "MAT 9:23",
+    "verseText": "Yesu alipofika nyumbani kwa yule kiongozi wa sinagogi na kuwaona waombolezaji wakipiga filimbi za maombolezo na watu wengi wakipiga kelele,"
+  },
+  {
+    "verseNumber": "MAT 9:24",
+    "verseText": "akawaambia, \u201cOndokeni! Kwa maana binti huyu hakufa, bali amelala.\u201d Wakamcheka kwa dhihaka."
+  },
+  {
+    "verseNumber": "MAT 9:25",
+    "verseText": "Lakini watu walipokwisha kutolewa nje, akaingia mle ndani na kumshika yule binti mkono, naye akaamka."
+  },
+  {
+    "verseNumber": "MAT 9:26",
+    "verseText": "Habari hizi zikaenea katika maeneo yale yote."
+  },
+  {
+    "verseNumber": "MAT 9:27",
+    "verseText": "Yesu alipokuwa akiondoka mahali pale, vipofu wawili wakamfuata wakipiga kelele kwa nguvu na kusema, \u201cMwana wa Daudi, tuhurumie!\u201d"
+  },
+  {
+    "verseNumber": "MAT 9:28",
+    "verseText": "Alipoingia mle nyumbani wale vipofu wakamjia. Naye Yesu akawauliza, \u201cMnaamini kwamba ninaweza kufanya jambo hili?\u201d Wakamjibu, \u201cNdiyo, Bwana.\u201d"
+  },
+  {
+    "verseNumber": "MAT 9:29",
+    "verseText": "Ndipo Yesu akagusa macho yao na kusema, \u201cIwe kwenu sawasawa na imani yenu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 9:30",
+    "verseText": "Macho yao yakafunguka. Yesu akawaonya vikali, akisema, \u201cAngalieni mtu yeyote asijue kuhusu jambo hili.\u201d"
+  },
+  {
+    "verseNumber": "MAT 9:31",
+    "verseText": "Lakini wao wakaenda na kueneza habari zake katika eneo lile lote."
+  },
+  {
+    "verseNumber": "MAT 9:32",
+    "verseText": "Walipokuwa wanatoka, mtu mmoja aliyekuwa amepagawa na pepo mchafu na ambaye hakuweza kuongea aliletwa kwa Yesu."
+  },
+  {
+    "verseNumber": "MAT 9:33",
+    "verseText": "Yule pepo mchafu alipotolewa, yule mtu aliyekuwa bubu akaongea. Ule umati wa watu ukastaajabu na kusema, \u201cJambo kama hili kamwe halijapata kuonekana katika Israeli.\u201d"
+  },
+  {
+    "verseNumber": "MAT 9:34",
+    "verseText": "Lakini Mafarisayo wakasema, \u201cHuyo anatoa pepo wachafu kwa uwezo wa mkuu wa pepo wachafu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 9:35",
+    "verseText": "Yesu akazunguka katika miji yote na vijiji vyote, akifundisha katika masinagogi yao, akihubiri habari njema za Ufalme, na akiponya kila ugonjwa na kila aina ya maradhi."
+  },
+  {
+    "verseNumber": "MAT 9:36",
+    "verseText": "Alipoona makutano, aliwahurumia kwa sababu walikuwa wanasumbuka bila msaada, kama kondoo wasiokuwa na mchungaji."
+  },
+  {
+    "verseNumber": "MAT 9:37",
+    "verseText": "Ndipo akawaambia wanafunzi wake, \u201cMavuno ni mengi lakini watendakazi ni wachache."
+  },
+  {
+    "verseNumber": "MAT 9:38",
+    "verseText": "Kwa hiyo mwombeni Bwana wa mavuno, ili apeleke watendakazi katika shamba lake la mavuno.\u201d"
+  },
+  {
+    "verseNumber": "MAT 10:1",
+    "verseText": "Ndipo Yesu akawaita wanafunzi wake kumi na wawili, naye akawapa mamlaka juu ya pepo wachafu, ili waweze kuwatoa na kuponya kila ugonjwa na maradhi ya kila aina."
+  },
+  {
+    "verseNumber": "MAT 10:2",
+    "verseText": "Haya ndiyo majina ya hao mitume kumi na wawili: wa kwanza, Simoni aitwaye Petro, na Andrea nduguye; Yakobo mwana wa Zebedayo, na Yohana nduguye;"
+  },
+  {
+    "verseNumber": "MAT 10:3",
+    "verseText": "Filipo, na Bartholomayo; Tomaso, na Mathayo mtoza ushuru; Yakobo mwana wa Alfayo, na Thadayo;"
+  },
+  {
+    "verseNumber": "MAT 10:4",
+    "verseText": "Simoni Mkananayo, na Yuda Iskariote aliyemsaliti Yesu."
+  },
+  {
+    "verseNumber": "MAT 10:5",
+    "verseText": "Hawa kumi na wawili, Yesu aliwatuma akawaagiza: \u201cMsiende miongoni mwa watu wa Mataifa, wala msiingie mji wowote wa Wasamaria."
+  },
+  {
+    "verseNumber": "MAT 10:6",
+    "verseText": "Lakini afadhali mshike njia kuwaendea kondoo wa nyumba ya Israeli waliopotea."
+  },
+  {
+    "verseNumber": "MAT 10:7",
+    "verseText": "Wakati mnapokwenda, hubirini mkisema, \u2018Ufalme wa Mbinguni umekaribia.\u2019"
+  },
+  {
+    "verseNumber": "MAT 10:8",
+    "verseText": "Ponyeni wagonjwa, fufueni wafu, takaseni wenye ukoma, toeni pepo wachafu. Mmepata bure, toeni bure."
+  },
+  {
+    "verseNumber": "MAT 10:9",
+    "verseText": "Msichukue dhahabu, wala fedha, wala shaba kwenye vifuko vyenu."
+  },
+  {
+    "verseNumber": "MAT 10:10",
+    "verseText": "Msichukue mkoba wa safari, wala kanzu mbili, wala jozi ya pili ya viatu, wala fimbo, kwa maana mtendakazi anastahili posho yake."
+  },
+  {
+    "verseNumber": "MAT 10:11",
+    "verseText": "\u201cMji wowote au kijiji chochote mtakapoingia, tafuteni humo mtu anayestahili, nanyi kaeni kwake mpaka mtakapoondoka."
+  },
+  {
+    "verseNumber": "MAT 10:12",
+    "verseText": "Mkiingia kwenye nyumba, itakieni amani."
+  },
+  {
+    "verseNumber": "MAT 10:13",
+    "verseText": "Kama nyumba hiyo inastahili, amani yenu na iwe juu yake. La sivyo, amani yenu na iwarudie ninyi."
+  },
+  {
+    "verseNumber": "MAT 10:14",
+    "verseText": "Kama mtu yeyote hatawakaribisha ninyi, wala kusikiliza maneno yenu, kung\u02bcuteni mavumbi kutoka kwenye miguu yenu mtakapokuwa mnatoka kwenye nyumba hiyo au mji huo."
+  },
+  {
+    "verseNumber": "MAT 10:15",
+    "verseText": "Amin, nawaambia, itakuwa rahisi zaidi kwa miji ya Sodoma na Gomora kustahimili katika hukumu kuliko mji huo."
+  },
+  {
+    "verseNumber": "MAT 10:16",
+    "verseText": "\u201cTazama, ninawatuma kama kondoo katikati ya mbwa mwitu. Kwa hiyo mwe werevu kama nyoka na wapole kama hua."
+  },
+  {
+    "verseNumber": "MAT 10:17",
+    "verseText": "\u201cJihadharini na wanadamu; kwa maana watawapeleka katika mabaraza yao na kuwapiga kwenye masinagogi yao."
+  },
+  {
+    "verseNumber": "MAT 10:18",
+    "verseText": "Nanyi mtaburutwa mbele ya watawala na wafalme kwa ajili yangu, ili kuwa ushuhuda kwao na kwa watu wa Mataifa."
+  },
+  {
+    "verseNumber": "MAT 10:19",
+    "verseText": "Lakini watakapowapeleka humo, msisumbuke kufikiria mtakalosema, kwa maana mtapewa la kusema wakati huo."
+  },
+  {
+    "verseNumber": "MAT 10:20",
+    "verseText": "Kwa sababu si ninyi mtakaokuwa mkinena, bali ni Roho wa Baba yenu atakayekuwa akinena kupitia kwenu."
+  },
+  {
+    "verseNumber": "MAT 10:21",
+    "verseText": "\u201cNdugu atamsaliti ndugu yake ili auawe, naye baba atamsaliti mtoto wake. Watoto nao wataasi dhidi ya wazazi wao na kusababisha wauawe."
+  },
+  {
+    "verseNumber": "MAT 10:22",
+    "verseText": "Watu wote watawachukia kwa ajili ya Jina langu. Lakini yule atakayevumilia hadi mwisho ataokolewa."
+  },
+  {
+    "verseNumber": "MAT 10:23",
+    "verseText": "Wakiwatesa katika mji mmoja, kimbilieni mji mwingine. Amin, amin nawaambia, hamtamaliza miji yote ya Israeli kabla Mwana wa Adamu kuja."
+  },
+  {
+    "verseNumber": "MAT 10:24",
+    "verseText": "\u201cMwanafunzi hawezi kumzidi mwalimu wake, wala mtumishi hamzidi bwana wake."
+  },
+  {
+    "verseNumber": "MAT 10:25",
+    "verseText": "Yatosha mwanafunzi kuwa kama mwalimu wake, na mtumishi kuwa kama bwana wake. Ikiwa mkuu wa nyumba ameitwa Beelzebuli, je, si watawaita zaidi wale wa nyumbani mwake!"
+  },
+  {
+    "verseNumber": "MAT 10:26",
+    "verseText": "\u201cKwa hiyo msiwaogope hao, kwa maana hakuna kilichofichika ambacho hakitafunuliwa, wala hakuna siri ambayo haitajulikana."
+  },
+  {
+    "verseNumber": "MAT 10:27",
+    "verseText": "Ninalowaambia gizani, ninyi lisemeni mchana peupe. Na lile mnalosikia likinong\u02bconwa masikioni mwenu, lihubirini juu ya nyumba."
+  },
+  {
+    "verseNumber": "MAT 10:28",
+    "verseText": "Msiwaogope wale wauao mwili lakini hawawezi kuua roho. Afadhali mwogopeni yeye awezaye kuiangamiza roho na mwili katika jehanamu."
+  },
+  {
+    "verseNumber": "MAT 10:29",
+    "verseText": "Je, shomoro wawili hawauzwi kwa senti moja tu? Lakini hakuna hata mmoja wao atakayeanguka chini pasipo Baba yenu kujua."
+  },
+  {
+    "verseNumber": "MAT 10:30",
+    "verseText": "Hata nywele za vichwa vyenu zote zimehesabiwa."
+  },
+  {
+    "verseNumber": "MAT 10:31",
+    "verseText": "Hivyo msiogope; kwa maana ninyi ni wa thamani kubwa kuliko shomoro wengi."
+  },
+  {
+    "verseNumber": "MAT 10:32",
+    "verseText": "\u201cKila mtu atakayenikiri mbele ya watu, mimi nami nitamkiri yeye mbele za Baba yangu aliye mbinguni."
+  },
+  {
+    "verseNumber": "MAT 10:33",
+    "verseText": "Lakini yeyote atakayenikana mimi mbele ya watu, mimi nami nitamkana mbele za Baba yangu aliye mbinguni.\u201d"
+  },
+  {
+    "verseNumber": "MAT 10:34",
+    "verseText": "\u201cMsidhani kwamba nimekuja kuleta amani duniani. Sikuja kuleta amani bali upanga."
+  },
+  {
+    "verseNumber": "MAT 10:35",
+    "verseText": "Kwa maana nimekuja kumfitini \u201c \u2018mtu na babaye, binti na mamaye, mkwe na mama mkwe wake;"
+  },
+  {
+    "verseNumber": "MAT 10:36",
+    "verseText": "nao adui za mtu watakuwa ni wale watu wa nyumbani kwake.\u2019"
+  },
+  {
+    "verseNumber": "MAT 10:37",
+    "verseText": "\u201cYeyote ampendaye baba yake au mama yake kuliko anavyonipenda mimi, hastahili kuwa wangu. Yeyote ampendaye mwanawe au binti yake kuliko anavyonipenda mimi, hastahili kuwa wangu."
+  },
+  {
+    "verseNumber": "MAT 10:38",
+    "verseText": "Tena yeyote asiyeuchukua msalaba wake na kunifuata, hastahili kuwa wangu."
+  },
+  {
+    "verseNumber": "MAT 10:39",
+    "verseText": "Kwa maana yeyote anayetaka kuyaokoa maisha yake atayapoteza, lakini yeyote atakayeyapoteza maisha yake kwa ajili yangu atayapata."
+  },
+  {
+    "verseNumber": "MAT 10:40",
+    "verseText": "\u201cMtu yeyote atakayewapokea ninyi atakuwa amenipokea mimi, na yeyote atakayenipokea mimi atakuwa amempokea yeye aliyenituma."
+  },
+  {
+    "verseNumber": "MAT 10:41",
+    "verseText": "Mtu yeyote anayempokea nabii kwa kuwa ni nabii atapokea thawabu ya nabii, naye mtu anayempokea mwenye haki kwa kuwa ni mwenye haki atapokea thawabu ya mwenye haki."
+  },
+  {
+    "verseNumber": "MAT 10:42",
+    "verseText": "Kama yeyote akimpa hata kikombe cha maji baridi mmoja wa hawa wadogo kwa kuwa ni mwanafunzi wangu, amin, nawaambia, hataikosa thawabu yake.\u201d"
+  },
+  {
+    "verseNumber": "MAT 11:1",
+    "verseText": "Baada ya Yesu kumaliza kutoa maagizo kwa wanafunzi wake kumi na wawili, aliondoka hapo akaenda kufundisha na kuhubiri katika miji yao."
+  },
+  {
+    "verseNumber": "MAT 11:2",
+    "verseText": "Yohana aliposikia akiwa gerezani mambo ambayo Kristo alikuwa akiyafanya, aliwatuma wanafunzi wake"
+  },
+  {
+    "verseNumber": "MAT 11:3",
+    "verseText": "ili wakamuulize, \u201cWewe ndiye yule aliyekuwa aje, au tumngojee mwingine?\u201d"
+  },
+  {
+    "verseNumber": "MAT 11:4",
+    "verseText": "Yesu akajibu, \u201cRudini mkamwambie Yohana yale mnayosikia na kuyaona:"
+  },
+  {
+    "verseNumber": "MAT 11:5",
+    "verseText": "Vipofu wanapata kuona, viwete wanatembea, wenye ukoma wanatakaswa, viziwi wanasikia, wafu wanafufuliwa, na maskini wanahubiriwa habari njema."
+  },
+  {
+    "verseNumber": "MAT 11:6",
+    "verseText": "Amebarikiwa mtu yule asiyechukizwa na mimi.\u201d"
+  },
+  {
+    "verseNumber": "MAT 11:7",
+    "verseText": "Wale wanafunzi wa Yohana walipokuwa wanaondoka, Yesu akaanza kusema na makutano kuhusu Yohana Mbatizaji. Akawauliza, \u201cMlipokwenda kule nyikani, mlikwenda kuona nini? Je, ni unyasi ukipeperushwa na upepo?"
+  },
+  {
+    "verseNumber": "MAT 11:8",
+    "verseText": "Kama sivyo, mlikwenda kuona nini basi? Mtu aliyevaa mavazi ya kifahari? La hasha, watu wanaovaa mavazi ya kifahari wako katika majumba ya wafalme."
+  },
+  {
+    "verseNumber": "MAT 11:9",
+    "verseText": "Basi mlikwenda kuona nini? Mlikwenda kumwona nabii? Naam, nawaambia, yeye ni zaidi ya nabii."
+  },
+  {
+    "verseNumber": "MAT 11:10",
+    "verseText": "Huyu ndiye ambaye habari zake zimeandikwa: \u201c \u2018Tazama nitamtuma mjumbe wangu mbele yako, atakayetengeneza njia mbele yako.\u2019"
+  },
+  {
+    "verseNumber": "MAT 11:11",
+    "verseText": "Amin, nawaambia, miongoni mwa wale waliozaliwa na wanawake, hajatokea mtu aliye mkuu kuliko Yohana Mbatizaji. Lakini aliye mdogo kabisa katika Ufalme wa Mbinguni ni mkuu kuliko Yohana."
+  },
+  {
+    "verseNumber": "MAT 11:12",
+    "verseText": "Tangu siku za Yohana Mbatizaji hadi sasa, Ufalme wa Mbinguni hupatikana kwa nguvu, nao wenye nguvu wanauteka."
+  },
+  {
+    "verseNumber": "MAT 11:13",
+    "verseText": "Kwa maana manabii wote na Sheria walitabiri mpaka wakati wa Yohana."
+  },
+  {
+    "verseNumber": "MAT 11:14",
+    "verseText": "Ikiwa mko tayari kukubali hilo, yeye ndiye yule Eliya ambaye manabii walikuwa wamesema angekuja."
+  },
+  {
+    "verseNumber": "MAT 11:15",
+    "verseText": "Yeye aliye na masikio, na asikie."
+  },
+  {
+    "verseNumber": "MAT 11:16",
+    "verseText": "\u201cLakini kizazi hiki nikifananishe na nini? Kinafanana na watoto waliokaa sokoni wakiwaita wenzao na kuwaambia,"
+  },
+  {
+    "verseNumber": "MAT 11:17",
+    "verseText": "\u201c \u2018Tuliwapigia filimbi, lakini hamkucheza; tuliwaimbia nyimbo za maombolezo, lakini hamkuomboleza.\u2019"
+  },
+  {
+    "verseNumber": "MAT 11:18",
+    "verseText": "Kwa maana Yohana Mbatizaji alikuja, alikuwa hali wala hanywi, nao wanasema, \u2018Yeye ana pepo mchafu.\u2019"
+  },
+  {
+    "verseNumber": "MAT 11:19",
+    "verseText": "Mwana wa Adamu alikuja akila na kunywa, nao wanasema, \u2018Tazameni huyu mlafi na mlevi, rafiki wa watoza ushuru na \u201cwenye dhambi.\u201d \u2019 Lakini hekima huthibitishwa kuwa kweli kwa matendo yake.\u201d"
+  },
+  {
+    "verseNumber": "MAT 11:20",
+    "verseText": "Ndipo Yesu akaanza kushutumu miji ambamo alifanya miujiza yake mingi kuliko kwingine, kwa maana watu wake hawakutubu."
+  },
+  {
+    "verseNumber": "MAT 11:21",
+    "verseText": "\u201cOle wako, Korazini! Ole wako Bethsaida! Kwa maana kama miujiza iliyofanyika kwenu, ingefanyika Tiro na Sidoni, miji hiyo ingekuwa imetubu zamani kwa kuvaa magunia na kujipaka majivu."
+  },
+  {
+    "verseNumber": "MAT 11:22",
+    "verseText": "Lakini nawaambia, itakuwa rahisi zaidi kwa Tiro na Sidoni kustahimili katika siku ya hukumu, kuliko ninyi."
+  },
+  {
+    "verseNumber": "MAT 11:23",
+    "verseText": "Nawe Kapernaumu, je, utainuliwa hadi mbinguni? La hasha, utashushwa mpaka kuzimu. Miujiza iliyofanyika kwako ingefanyika huko Sodoma, mji huo ungalikuwepo hadi leo."
+  },
+  {
+    "verseNumber": "MAT 11:24",
+    "verseText": "Lakini nakuambia kwamba, itakuwa rahisi zaidi kwa Sodoma kustahimili katika siku ya hukumu kuliko wewe.\u201d"
+  },
+  {
+    "verseNumber": "MAT 11:25",
+    "verseText": "Wakati huo Yesu alisema, \u201cNakuhimidi Baba, Bwana wa mbingu na nchi, kwa kuwa umewaficha mambo haya wenye hekima na wenye elimu, nawe ukawafunulia watoto wadogo."
+  },
+  {
+    "verseNumber": "MAT 11:26",
+    "verseText": "Naam, Baba, kwa kuwa hivyo ndivyo ilivyokupendeza."
+  },
+  {
+    "verseNumber": "MAT 11:27",
+    "verseText": "\u201cNimekabidhiwa vitu vyote na Baba yangu: Hakuna mtu amjuaye Mwana ila Baba, wala hakuna amjuaye Baba ila Mwana na yeyote ambaye Mwana anapenda kumfunulia."
+  },
+  {
+    "verseNumber": "MAT 11:28",
+    "verseText": "\u201cNjooni kwangu, ninyi nyote mnaotaabika na kulemewa na mizigo, nami nitawapumzisha."
+  },
+  {
+    "verseNumber": "MAT 11:29",
+    "verseText": "Jifungeni nira yangu, mjifunze kutoka kwangu, kwa maana mimi ni mpole na mnyenyekevu wa moyo, nanyi mtapata raha nafsini mwenu."
+  },
+  {
+    "verseNumber": "MAT 11:30",
+    "verseText": "Kwa maana nira yangu ni laini na mzigo wangu ni mwepesi.\u201d"
+  },
+  {
+    "verseNumber": "MAT 12:1",
+    "verseText": "Wakati huo Yesu alipitia kwenye mashamba ya nafaka siku ya Sabato. Wanafunzi wake walikuwa na njaa, nao wakaanza kuvunja masuke ya nafaka na kuyala."
+  },
+  {
+    "verseNumber": "MAT 12:2",
+    "verseText": "Lakini Mafarisayo walipoona jambo hili, wakamwambia, \u201cTazama! Wanafunzi wako wanafanya jambo lisilo halali kufanywa siku ya Sabato.\u201d"
+  },
+  {
+    "verseNumber": "MAT 12:3",
+    "verseText": "Yesu akawajibu, \u201cJe, hamjasoma alichofanya Daudi na wenzake walipokuwa na njaa?"
+  },
+  {
+    "verseNumber": "MAT 12:4",
+    "verseText": "Aliingia katika nyumba ya Mungu, akala mikate iliyowekwa wakfu, yeye na wenzake, jambo ambalo halikuwa halali kwao kufanya, isipokuwa makuhani peke yao."
+  },
+  {
+    "verseNumber": "MAT 12:5",
+    "verseText": "Au hamjasoma katika Sheria kwamba siku ya Sabato makuhani huvunja sheria ya Sabato Hekaluni lakini hawahesabiwi kuwa na hatia?"
+  },
+  {
+    "verseNumber": "MAT 12:6",
+    "verseText": "Nawaambia wazi kwamba, yeye aliye mkuu kuliko Hekalu yupo hapa."
+  },
+  {
+    "verseNumber": "MAT 12:7",
+    "verseText": "Kama mngekuwa mmejua maana ya maneno haya, \u2018Nataka rehema, wala si dhabihu,\u2019 msingewalaumu watu wasio na hatia,"
+  },
+  {
+    "verseNumber": "MAT 12:8",
+    "verseText": "kwa maana Mwana wa Adamu ndiye Bwana wa Sabato.\u201d"
+  },
+  {
+    "verseNumber": "MAT 12:9",
+    "verseText": "Yesu akaondoka mahali hapo, akaingia ndani ya sinagogi lao,"
+  },
+  {
+    "verseNumber": "MAT 12:10",
+    "verseText": "na huko alikuwepo mtu aliyepooza mkono. Wakitafuta sababu ya kumshtaki Yesu, wakamuuliza, \u201cJe, ni halali kuponya siku ya Sabato?\u201d"
+  },
+  {
+    "verseNumber": "MAT 12:11",
+    "verseText": "Yesu akawaambia, \u201cNi nani miongoni mwenu, mwenye kondoo wake ambaye huyo kondoo akitumbukia shimoni siku ya Sabato hatamtoa?"
+  },
+  {
+    "verseNumber": "MAT 12:12",
+    "verseText": "Mtu ana thamani kubwa kuliko kondoo. Kwa hiyo ni halali kutenda mema siku ya Sabato.\u201d"
+  },
+  {
+    "verseNumber": "MAT 12:13",
+    "verseText": "Ndipo akamwambia yule mtu, \u201cNyoosha mkono wako.\u201d Akaunyoosha, nao ukaponywa ukawa mzima kama ule mwingine."
+  },
+  {
+    "verseNumber": "MAT 12:14",
+    "verseText": "Lakini Mafarisayo wakatoka nje, wakafanya shauri baya juu ya Yesu jinsi watakavyoweza kumuua."
+  },
+  {
+    "verseNumber": "MAT 12:15",
+    "verseText": "Lakini Yesu alipoyatambua mawazo yao, akaondoka mahali hapo. Watu wengi wakamfuata, naye akawaponya wagonjwa wao wote,"
+  },
+  {
+    "verseNumber": "MAT 12:16",
+    "verseText": "akiwakataza wasiseme yeye ni nani."
+  },
+  {
+    "verseNumber": "MAT 12:17",
+    "verseText": "Hii ilikuwa ili litimie lile neno lililonenwa kwa kinywa cha nabii Isaya kusema:"
+  },
+  {
+    "verseNumber": "MAT 12:18",
+    "verseText": "\u201cTazama mtumishi wangu niliyemchagua, mpendwa wangu, ninayependezwa naye. Nitaweka Roho wangu juu yake, naye atatangaza haki kwa mataifa."
+  },
+  {
+    "verseNumber": "MAT 12:19",
+    "verseText": "Hatagombana wala hatapiga kelele, wala hakuna atakayesikia sauti yake njiani."
+  },
+  {
+    "verseNumber": "MAT 12:20",
+    "verseText": "Mwanzi uliopondeka hatauvunja, na utambi unaofuka moshi hatauzima, mpaka atakapoifanya haki ishinde."
+  },
+  {
+    "verseNumber": "MAT 12:21",
+    "verseText": "Katika Jina lake mataifa wataweka tumaini lao.\u201d"
+  },
+  {
+    "verseNumber": "MAT 12:22",
+    "verseText": "Kisha wakamletea mtu aliyekuwa amepagawa na pepo mchafu, na alikuwa kipofu na bubu. Yesu akamponya, hata akaweza kusema na kuona."
+  },
+  {
+    "verseNumber": "MAT 12:23",
+    "verseText": "Watu wote wakashangaa na kusema, \u201cJe, yawezekana huyu ndiye Mwana wa Daudi?\u201d"
+  },
+  {
+    "verseNumber": "MAT 12:24",
+    "verseText": "Lakini Mafarisayo waliposikia jambo hili wakasema, \u201cMtu huyu anatoa pepo wachafu kwa uwezo wa Beelzebuli, mkuu wa pepo wachafu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 12:25",
+    "verseText": "Yesu alijua walichokuwa wakiwaza, hivyo akawaambia, \u201cKila ufalme ukigawanyika dhidi yake wenyewe huangamia. Hali kadhalika kila mji au watu wa nyumba moja waliogawanyika dhidi yao wenyewe hawawezi kusimama."
+  },
+  {
+    "verseNumber": "MAT 12:26",
+    "verseText": "Kama Shetani akimtoa Shetani, atakuwa amegawanyika yeye mwenyewe. Basi ufalme wake utawezaje kusimama?"
+  },
+  {
+    "verseNumber": "MAT 12:27",
+    "verseText": "Nami kama natoa pepo wachafu kwa nguvu za Beelzebuli, watu wenu je, wao hutoa pepo wachafu kwa uwezo wa nani? Hivyo basi, wao ndio watakaowahukumu."
+  },
+  {
+    "verseNumber": "MAT 12:28",
+    "verseText": "Lakini kama mimi ninatoa pepo wachafu kwa Roho wa Mungu, basi Ufalme wa Mungu umekuja juu yenu."
+  },
+  {
+    "verseNumber": "MAT 12:29",
+    "verseText": "\u201cAu tena, mtu awezaje kuingia katika nyumba ya mtu mwenye nguvu na kuteka nyara mali zake asipomfunga kwanza yule mwenye nguvu? Akishamfunga, ndipo hakika anaweza kuteka nyara mali zake."
+  },
+  {
+    "verseNumber": "MAT 12:30",
+    "verseText": "\u201cMtu asiyekuwa pamoja nami yu kinyume nami, na mtu ambaye hakusanyi pamoja nami, hutawanya."
+  },
+  {
+    "verseNumber": "MAT 12:31",
+    "verseText": "Kwa hiyo nawaambia, kila dhambi na kufuru watu watasamehewa, lakini mtu atakayemkufuru Roho Mtakatifu hatasamehewa."
+  },
+  {
+    "verseNumber": "MAT 12:32",
+    "verseText": "Mtu yeyote atakayesema neno dhidi ya Mwana wa Adamu atasamehewa, lakini yeyote anenaye neno dhidi ya Roho Mtakatifu hatasamehewa, iwe katika ulimwengu huu au katika ulimwengu ujao."
+  },
+  {
+    "verseNumber": "MAT 12:33",
+    "verseText": "\u201cUfanye mti kuwa mzuri, nayo matunda yake yatakuwa mazuri. Au ufanye mti kuwa mbaya, na matunda yake yatakuwa mabaya. Kwa maana mti hutambulika kwa matunda yake."
+  },
+  {
+    "verseNumber": "MAT 12:34",
+    "verseText": "Enyi uzao wa nyoka! Mnawezaje kunena mambo mema, wakati ninyi ni waovu? Kwa maana kinywa cha mtu huyanena yale yaliyoujaza moyo wake."
+  },
+  {
+    "verseNumber": "MAT 12:35",
+    "verseText": "Mtu mwema hutoa yaliyo mema kutoka hazina ya mambo mema yaliyohifadhiwa ndani yake, naye mtu mwovu hutoa yaliyo maovu kutoka hazina ya mambo maovu yaliyohifadhiwa ndani yake."
+  },
+  {
+    "verseNumber": "MAT 12:36",
+    "verseText": "Lakini nawaambia, katika siku ya hukumu watu watatoa hesabu kuhusu kila neno lisilo maana walilonena."
+  },
+  {
+    "verseNumber": "MAT 12:37",
+    "verseText": "Kwa maana kwa maneno yako utahesabiwa haki, na kwa maneno yako utahukumiwa.\u201d"
+  },
+  {
+    "verseNumber": "MAT 12:38",
+    "verseText": "Kisha baadhi ya Mafarisayo na walimu wa sheria wakamwambia, \u201cMwalimu, tunataka kuona ishara kutoka kwako.\u201d"
+  },
+  {
+    "verseNumber": "MAT 12:39",
+    "verseText": "Lakini yeye akawajibu, \u201cKizazi kiovu na cha uzinzi kinaomba ishara! Lakini hakitapewa ishara yoyote isipokuwa ile ishara ya nabii Yona."
+  },
+  {
+    "verseNumber": "MAT 12:40",
+    "verseText": "Kwa maana kama vile Yona alivyokuwa ndani ya tumbo la nyangumi kwa siku tatu, usiku na mchana, vivyo hivyo Mwana wa Adamu atakuwa katika moyo wa nchi siku tatu, usiku na mchana."
+  },
+  {
+    "verseNumber": "MAT 12:41",
+    "verseText": "Siku ya hukumu watu wa Ninawi watasimama pamoja na kizazi hiki na kukihukumu; kwa maana wao walitubu waliposikia mahubiri ya Yona. Na tazama, hapa yupo yeye aliye mkuu kuliko Yona."
+  },
+  {
+    "verseNumber": "MAT 12:42",
+    "verseText": "Malkia wa Kusini atasimama wakati wa hukumu na kukihukumu kizazi hiki. Kwa kuwa yeye alikuja kutoka miisho ya dunia ili kuisikiliza hekima ya Solomoni. Na hapa yupo aliye mkuu kuliko Solomoni.\u201d"
+  },
+  {
+    "verseNumber": "MAT 12:43",
+    "verseText": "\u201cPepo mchafu amtokapo mtu, hutangatanga katika sehemu zisizo na maji akitafuta mahali pa kupumzika, lakini hapati."
+  },
+  {
+    "verseNumber": "MAT 12:44",
+    "verseText": "Ndipo husema, \u2018Nitarudi kwenye nyumba yangu nilikotoka.\u2019 Naye arudipo huikuta ile nyumba ikiwa tupu, imefagiliwa na kupangwa vizuri."
+  },
+  {
+    "verseNumber": "MAT 12:45",
+    "verseText": "Kisha huenda na kuwaleta pepo wachafu wengine saba wabaya kuliko yeye mwenyewe, nao huingia na kukaa humo. Nayo hali ya mwisho ya yule mtu huwa ni mbaya kuliko ile ya kwanza. Ndivyo itakavyokuwa kwa kizazi hiki kiovu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 12:46",
+    "verseText": "Wakati alikuwa angali anazungumza na makutano, mama yake na ndugu zake wakasimama nje wakitaka kuongea naye."
+  },
+  {
+    "verseNumber": "MAT 12:47",
+    "verseText": "Ndipo mtu mmoja akamwambia, \u201cTazama, mama yako na ndugu zako wamesimama nje, wanataka kuongea na wewe.\u201d"
+  },
+  {
+    "verseNumber": "MAT 12:48",
+    "verseText": "Lakini yeye akamjibu na kumwambia yule mtu, \u201cMama yangu ni nani, nao ndugu zangu ni nani?\u201d"
+  },
+  {
+    "verseNumber": "MAT 12:49",
+    "verseText": "Akawanyooshea mkono wanafunzi wake, akasema, \u201cHawa hapa ndio mama yangu na ndugu zangu!"
+  },
+  {
+    "verseNumber": "MAT 12:50",
+    "verseText": "Kwa maana yeyote afanyaye mapenzi ya Baba yangu wa mbinguni, huyo ndiye ndugu yangu, na dada yangu na mama yangu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 13:1",
+    "verseText": "Siku iyo hiyo Yesu akatoka nje ya nyumba, akaketi kando ya bahari."
+  },
+  {
+    "verseNumber": "MAT 13:2",
+    "verseText": "Umati mkubwa mno wa watu ukakusanyika kumzunguka, hata ikabidi aingie katika chombo na kuketi humo, nao watu wote wakawa wamesimama ukingoni mwa bahari."
+  },
+  {
+    "verseNumber": "MAT 13:3",
+    "verseText": "Ndipo akawaambia mambo mengi kwa mifano, akisema: \u201cMpanzi alitoka kwenda kupanda mbegu zake."
+  },
+  {
+    "verseNumber": "MAT 13:4",
+    "verseText": "Alipokuwa akitawanya mbegu, nyingine zilianguka kando ya njia, nao ndege wakaja na kuzila."
+  },
+  {
+    "verseNumber": "MAT 13:5",
+    "verseText": "Nyingine zilianguka kwenye ardhi yenye mwamba isiyo na udongo wa kutosha. Zikaota haraka, kwa kuwa udongo ulikuwa haba."
+  },
+  {
+    "verseNumber": "MAT 13:6",
+    "verseText": "Lakini jua lilipozidi, mimea ikanyauka na kukauka kwa kuwa mizizi yake haikuwa na kina."
+  },
+  {
+    "verseNumber": "MAT 13:7",
+    "verseText": "Mbegu nyingine zilianguka kwenye miiba, nayo miiba hiyo ikakua, ikaisonga hiyo mimea."
+  },
+  {
+    "verseNumber": "MAT 13:8",
+    "verseText": "Mbegu nyingine zilianguka kwenye udongo mzuri ambapo zilitoa mazao, nyingine mara mia moja, nyingine mara sitini, na nyingine mara thelathini."
+  },
+  {
+    "verseNumber": "MAT 13:9",
+    "verseText": "Mwenye masikio ya kusikia, na asikie.\u201d"
+  },
+  {
+    "verseNumber": "MAT 13:10",
+    "verseText": "Wanafunzi wake wakamwendea, wakamuuliza, \u201cKwa nini unasema na watu kwa mifano?\u201d"
+  },
+  {
+    "verseNumber": "MAT 13:11",
+    "verseText": "Akawajibu, \u201cNinyi mmepewa kuzifahamu siri za Ufalme wa Mbinguni, lakini wao hawajapewa."
+  },
+  {
+    "verseNumber": "MAT 13:12",
+    "verseText": "Kwa maana yule aliye na kitu atapewa zaidi, naye atakuwa navyo tele. Lakini yule asiye na kitu, hata kile alicho nacho atanyang\u02bcanywa."
+  },
+  {
+    "verseNumber": "MAT 13:13",
+    "verseText": "Hii ndiyo sababu nasema nao kwa mifano: \u201cIngawa wanatazama, hawaoni; wanasikiliza, lakini hawasikii, wala hawaelewi."
+  },
+  {
+    "verseNumber": "MAT 13:14",
+    "verseText": "Kwao unatimia ule unabii wa Isaya aliposema: \u201c \u2018Hakika mtasikiliza lakini hamtaelewa; na pia mtatazama lakini hamtaona."
+  },
+  {
+    "verseNumber": "MAT 13:15",
+    "verseText": "Kwa kuwa mioyo ya watu hawa imekuwa migumu; hawasikii kwa masikio yao, na wamefumba macho yao. Wasije wakaona kwa macho yao, na wakasikiliza kwa masikio yao, wakaelewa kwa mioyo yao, na kugeuka nami nikawaponya.\u2019"
+  },
+  {
+    "verseNumber": "MAT 13:16",
+    "verseText": "Lakini heri macho yenu kwa sababu yanaona, na heri masikio yenu kwa sababu yanasikia."
+  },
+  {
+    "verseNumber": "MAT 13:17",
+    "verseText": "Amin, nawaambia, manabii wengi na wenye haki walitamani kuona yale mnayoyaona lakini hawakuyaona, na walitamani kusikia yale mnayoyasikia lakini hawakuyasikia."
+  },
+  {
+    "verseNumber": "MAT 13:18",
+    "verseText": "\u201cSikilizeni basi maana ya ule mfano wa mpanzi:"
+  },
+  {
+    "verseNumber": "MAT 13:19",
+    "verseText": "Mtu yeyote anaposikia neno la Ufalme naye asilielewe, yule mwovu huja na kunyakua kile kilichopandwa moyoni mwake. Hii ndiyo ile mbegu iliyopandwa kando ya njia."
+  },
+  {
+    "verseNumber": "MAT 13:20",
+    "verseText": "Ile mbegu iliyopandwa kwenye sehemu yenye mawe ni mtu yule ambaye hulisikia neno na mara hulipokea kwa furaha."
+  },
+  {
+    "verseNumber": "MAT 13:21",
+    "verseText": "Lakini kwa kuwa hana mizizi yenye kina ndani yake, lile neno hudumu kwa muda mfupi tu. Kisha dhiki au mateso yanapoinuka kwa ajili ya lile neno, yeye mara huchukizwa."
+  },
+  {
+    "verseNumber": "MAT 13:22",
+    "verseText": "Ile mbegu iliyopandwa katika miiba ni yule mtu alisikiaye neno, lakini masumbufu ya maisha haya na udanganyifu wa mali hulisonga lile neno na kulifanya lisizae matunda."
+  },
+  {
+    "verseNumber": "MAT 13:23",
+    "verseText": "Lakini ile mbegu iliyopandwa kwenye udongo mzuri ni yule mtu ambaye hulisikia neno na kulielewa. Naye hakika huzaa matunda, akizaa mara mia, au mara sitini, au mara thelathini ya mbegu iliyopandwa.\u201d"
+  },
+  {
+    "verseNumber": "MAT 13:24",
+    "verseText": "Yesu akawaambia mfano mwingine, akasema: \u201cUfalme wa Mbinguni unaweza kufananishwa na mtu aliyepanda mbegu nzuri katika shamba lake."
+  },
+  {
+    "verseNumber": "MAT 13:25",
+    "verseText": "Lakini wakati kila mtu alipokuwa amelala, adui yake akaja na kupanda magugu katikati ya ngano, akaenda zake."
+  },
+  {
+    "verseNumber": "MAT 13:26",
+    "verseText": "Ngano ilipoota na kutoa masuke, magugu nayo yakatokea."
+  },
+  {
+    "verseNumber": "MAT 13:27",
+    "verseText": "\u201cWatumishi wa yule mwenye shamba wakamjia na kumwambia, \u2018Bwana, si tulipanda mbegu nzuri shambani mwako? Basi, magugu yametoka wapi?\u2019"
+  },
+  {
+    "verseNumber": "MAT 13:28",
+    "verseText": "\u201cAkawajibu, \u2018Adui ndiye alifanya jambo hili.\u2019 \u201cWale watumishi wakamuuliza, \u2018Je, unataka twende tukayang\u02bcoe?\u2019"
+  },
+  {
+    "verseNumber": "MAT 13:29",
+    "verseText": "\u201cLakini akasema, \u2018Hapana, msiyang\u02bcoe, kwa maana wakati mking\u02bcoa magugu mnaweza mkang\u02bcoa na ngano pamoja nayo."
+  },
+  {
+    "verseNumber": "MAT 13:30",
+    "verseText": "Acheni ngano na magugu vikue vyote pamoja mpaka wakati wa mavuno. Wakati huo nitawaambia wavunaji wayakusanye magugu kwanza, wayafunge matita matita ili yachomwe moto; kisha wakusanye ngano na kuileta ghalani mwangu.\u2019 \u201d"
+  },
+  {
+    "verseNumber": "MAT 13:31",
+    "verseText": "Akawaambia mfano mwingine, akasema, \u201cUfalme wa Mbinguni ni kama punje ya haradali, ambayo mtu aliichukua, akaipanda shambani mwake."
+  },
+  {
+    "verseNumber": "MAT 13:32",
+    "verseText": "Ingawa mbegu hiyo ni ndogo kuliko mbegu zote, lakini inapokua ni mmea mkubwa kuliko yote ya bustanini, nao huwa mti mkubwa, hadi ndege wa angani wanakuja na kutengeneza viota katika matawi yake.\u201d"
+  },
+  {
+    "verseNumber": "MAT 13:33",
+    "verseText": "Akawaambia mfano mwingine, \u201cUfalme wa Mbinguni unafanana na chachu ambayo mwanamke aliichukua akaichanganya katika kiasi kikubwa cha unga mpaka wote ukaumuka.\u201d"
+  },
+  {
+    "verseNumber": "MAT 13:34",
+    "verseText": "Yesu alinena mambo haya yote kwa makutano kwa mifano. Wala hakuwaambia lolote pasipo mfano."
+  },
+  {
+    "verseNumber": "MAT 13:35",
+    "verseText": "Hii ilikuwa ili kutimiza lile lililonenwa kwa kinywa cha nabii aliposema: \u201cNitafungua kinywa changu niseme nao kwa mifano; nitahubiri mambo yaliyofichika tangu kuumbwa kwa misingi ya ulimwengu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 13:36",
+    "verseText": "Kisha Yesu akaagana na makutano, akaingia nyumbani. Wanafunzi wake wakamjia wakamwambia, \u201cTueleze maana ya ule mfano wa magugu shambani.\u201d"
+  },
+  {
+    "verseNumber": "MAT 13:37",
+    "verseText": "Akawaambia, \u201cAliyepanda mbegu nzuri ni Mwana wa Adamu."
+  },
+  {
+    "verseNumber": "MAT 13:38",
+    "verseText": "Shamba ni ulimwengu na mbegu nzuri ni wana wa Ufalme. Magugu ni wana wa yule mwovu."
+  },
+  {
+    "verseNumber": "MAT 13:39",
+    "verseText": "Yule adui aliyepanda magugu ni ibilisi. Mavuno ni mwisho wa dunia, nao wavunaji ni malaika."
+  },
+  {
+    "verseNumber": "MAT 13:40",
+    "verseText": "\u201cKama vile magugu yang\u02bcolewavyo na kuchomwa motoni, ndivyo itakavyokuwa wakati wa mwisho wa dunia."
+  },
+  {
+    "verseNumber": "MAT 13:41",
+    "verseText": "Mwana wa Adamu atawatuma malaika zake, nao watakusanya kutoka Ufalme wake kila kitu kinachosababisha dhambi na watenda maovu wote."
+  },
+  {
+    "verseNumber": "MAT 13:42",
+    "verseText": "Nao watawatupa katika tanuru la moto ambako kutakuwa na kilio na kusaga meno."
+  },
+  {
+    "verseNumber": "MAT 13:43",
+    "verseText": "Ndipo wenye haki watang\u02bcaa kama jua katika Ufalme wa Baba yao. Yeye aliye na masikio, na asikie."
+  },
+  {
+    "verseNumber": "MAT 13:44",
+    "verseText": "\u201cUfalme wa Mbinguni unafanana na hazina iliyofichwa shambani, ambayo mtu mmoja alipoiona akaificha tena. Kisha katika furaha yake, akaenda akauza vyote alivyokuwa navyo, akalinunua lile shamba.\u201d"
+  },
+  {
+    "verseNumber": "MAT 13:45",
+    "verseText": "\u201cTena, Ufalme wa Mbinguni unafanana na mfanyabiashara aliyekuwa akitafuta lulu safi."
+  },
+  {
+    "verseNumber": "MAT 13:46",
+    "verseText": "Alipoipata lulu moja ya thamani kubwa, alikwenda akauza vyote alivyokuwa navyo akainunua.\u201d"
+  },
+  {
+    "verseNumber": "MAT 13:47",
+    "verseText": "\u201cTena, Ufalme wa Mbinguni ni kama wavu wa kuvua samaki uliotupwa baharini ukavua samaki wa kila aina."
+  },
+  {
+    "verseNumber": "MAT 13:48",
+    "verseText": "Ulipojaa, wavuvi wakavuta pwani, wakaketi na kukusanya samaki wazuri kuwaweka kwenye vyombo safi, lakini wale samaki wabaya wakawatupa."
+  },
+  {
+    "verseNumber": "MAT 13:49",
+    "verseText": "Hivi ndivyo itakavyokuwa wakati wa mwisho wa dunia. Malaika watakuja na kuwatenganisha watu waovu na watu wenye haki."
+  },
+  {
+    "verseNumber": "MAT 13:50",
+    "verseText": "Nao watawatupa hao waovu katika tanuru la moto ambako kutakuwa na kilio na kusaga meno.\u201d"
+  },
+  {
+    "verseNumber": "MAT 13:51",
+    "verseText": "Yesu akauliza, \u201cJe, mmeyaelewa haya yote?\u201d Wakamjibu, \u201cNdiyo.\u201d"
+  },
+  {
+    "verseNumber": "MAT 13:52",
+    "verseText": "Akawaambia, \u201cBasi kila mwalimu wa sheria aliyefundishwa elimu ya Ufalme wa Mbinguni ni kama mwenye nyumba anayetoa kutoka ghala yake mali mpya na mali ya zamani.\u201d"
+  },
+  {
+    "verseNumber": "MAT 13:53",
+    "verseText": "Yesu alipomaliza kutoa mifano hii, akaondoka."
+  },
+  {
+    "verseNumber": "MAT 13:54",
+    "verseText": "Alipofika mji wa kwao, akawafundisha watu katika sinagogi lao. Nao wakastaajabu, wakauliza, \u201cMtu huyu amepata wapi hekima hii na uwezo huu wa kufanya miujiza?\u201d"
+  },
+  {
+    "verseNumber": "MAT 13:55",
+    "verseText": "\u201cHuyu si yule mwana wa seremala? Mama yake si yeye aitwaye Maria, nao ndugu zake si Yakobo, Yosefu, Simoni na Yuda?"
+  },
+  {
+    "verseNumber": "MAT 13:56",
+    "verseText": "Nao dada zake wote, hawako hapa pamoja nasi? Mtu huyu amepata wapi basi mambo haya yote?\u201d"
+  },
+  {
+    "verseNumber": "MAT 13:57",
+    "verseText": "Wakachukizwa naye. Lakini Yesu akawaambia, \u201cNabii hakosi heshima, isipokuwa katika nchi yake na nyumbani kwake.\u201d"
+  },
+  {
+    "verseNumber": "MAT 13:58",
+    "verseText": "Naye hakufanya miujiza mingi huko kwa sababu ya kutokuamini kwao."
+  },
+  {
+    "verseNumber": "MAT 14:1",
+    "verseText": "Wakati huo, Mfalme Herode, mtawala wa Galilaya, alisikia habari za Yesu,"
+  },
+  {
+    "verseNumber": "MAT 14:2",
+    "verseText": "akawaambia watumishi wake, \u201cHuyu ni Yohana Mbatizaji; amefufuka kutoka kwa wafu! Hii ndiyo sababu nguvu za kutenda miujiza zinafanya kazi ndani yake.\u201d"
+  },
+  {
+    "verseNumber": "MAT 14:3",
+    "verseText": "Herode alikuwa amemkamata Yohana, akamfunga na kumweka gerezani kwa sababu ya Herodia, mke wa Filipo, ndugu yake,"
+  },
+  {
+    "verseNumber": "MAT 14:4",
+    "verseText": "kwa kuwa Yohana alikuwa amemwambia Herode: \u201cSi halali kwako kuwa na huyo mwanamke.\u201d"
+  },
+  {
+    "verseNumber": "MAT 14:5",
+    "verseText": "Herode alitaka sana kumuua Yohana, lakini akaogopa watu, kwa maana walimtambua kuwa ni nabii."
+  },
+  {
+    "verseNumber": "MAT 14:6",
+    "verseText": "Katika siku ya kuadhimisha sikukuu ya kuzaliwa kwa Herode, binti wa Herodia alicheza mbele ya watu waliohudhuria, akamfurahisha sana Herode,"
+  },
+  {
+    "verseNumber": "MAT 14:7",
+    "verseText": "kiasi kwamba aliahidi kwa kiapo kumpa huyo binti chochote angeomba."
+  },
+  {
+    "verseNumber": "MAT 14:8",
+    "verseText": "Huyo binti, akiwa amechochewa na mama yake, akasema, \u201cNipe kichwa cha Yohana Mbatizaji kwenye sinia.\u201d"
+  },
+  {
+    "verseNumber": "MAT 14:9",
+    "verseText": "Mfalme akasikitika, lakini kwa sababu ya viapo alivyoapa mbele ya wageni, akaamuru kwamba apatiwe ombi lake."
+  },
+  {
+    "verseNumber": "MAT 14:10",
+    "verseText": "Hivyo akaagiza Yohana Mbatizaji akatwe kichwa mle gerezani."
+  },
+  {
+    "verseNumber": "MAT 14:11",
+    "verseText": "Kichwa chake kikaletwa kwenye sinia, akapewa yule binti, naye akampelekea mama yake."
+  },
+  {
+    "verseNumber": "MAT 14:12",
+    "verseText": "Wanafunzi wa Yohana wakaja na kuuchukua mwili wake kwenda kuuzika. Kisha wakaenda wakamwambia Yesu."
+  },
+  {
+    "verseNumber": "MAT 14:13",
+    "verseText": "Yesu aliposikia yaliyokuwa yametukia, aliondoka kwa chombo akaenda mahali pasipo na watu ili awe peke yake. Lakini watu walipopata habari, wakamfuata kwa miguu kupitia nchi kavu kutoka miji."
+  },
+  {
+    "verseNumber": "MAT 14:14",
+    "verseText": "Yesu alipofika kando ya bahari, aliona makutano makubwa ya watu, akawahurumia na akawaponya wagonjwa wao."
+  },
+  {
+    "verseNumber": "MAT 14:15",
+    "verseText": "Ilipofika jioni, wanafunzi wake walienda kwake, wakamwambia, \u201cMahali hapa ni nyikani, na muda sasa umekwisha. Waage makutano ili waende zao vijijini wakajinunulie chakula.\u201d"
+  },
+  {
+    "verseNumber": "MAT 14:16",
+    "verseText": "Yesu akawaambia, \u201cHakuna sababu ya wao kuondoka. Ninyi wapeni chakula.\u201d"
+  },
+  {
+    "verseNumber": "MAT 14:17",
+    "verseText": "Wakamjibu, \u201cTuna mikate mitano na samaki wawili tu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 14:18",
+    "verseText": "Akawaambia, \u201cNileteeni hivyo vitu hapa.\u201d"
+  },
+  {
+    "verseNumber": "MAT 14:19",
+    "verseText": "Yesu akaagiza makutano wakae chini kwenye nyasi. Akaichukua ile mikate mitano na wale samaki wawili, akainua macho yake akatazama mbinguni, akavibariki na kuimega ile mikate. Kisha akawapa wanafunzi, nao wanafunzi wakawagawia makutano."
+  },
+  {
+    "verseNumber": "MAT 14:20",
+    "verseText": "Wote wakala, wakashiba. Nao wanafunzi wakakusanya vipande vilivyosalia, wakajaza vikapu kumi na viwili."
+  },
+  {
+    "verseNumber": "MAT 14:21",
+    "verseText": "Idadi ya watu waliokula walikuwa wanaume wapatao 5,000, bila kuhesabu wanawake na watoto."
+  },
+  {
+    "verseNumber": "MAT 14:22",
+    "verseText": "Mara Yesu akawaambia wanafunzi wake waingie kwenye mashua watangulie kwenda ng\u02bcambo ya bahari, wakati yeye alikuwa akiwaaga wale makutano."
+  },
+  {
+    "verseNumber": "MAT 14:23",
+    "verseText": "Baada ya kuwaaga, akaenda zake mlimani peke yake kuomba. Jioni ilipofika, Yesu alikuwa huko peke yake."
+  },
+  {
+    "verseNumber": "MAT 14:24",
+    "verseText": "Wakati huo ile mashua ilikuwa mbali kutoka nchi kavu ikisukwasukwa na mawimbi, kwa sababu upepo ulikuwa wa mbisho."
+  },
+  {
+    "verseNumber": "MAT 14:25",
+    "verseText": "Wakati wa zamu ya nne ya usiku, Yesu akawaendea wanafunzi wake akiwa anatembea juu ya maji."
+  },
+  {
+    "verseNumber": "MAT 14:26",
+    "verseText": "Wanafunzi wake walipomwona akitembea juu ya maji, waliingiwa na hofu kuu, wakasema, \u201cNi mzimu.\u201d Wakapiga yowe kwa kuogopa."
+  },
+  {
+    "verseNumber": "MAT 14:27",
+    "verseText": "Lakini mara Yesu akasema nao, akawaambia, \u201cJipeni moyo! Ni mimi. Msiogope.\u201d"
+  },
+  {
+    "verseNumber": "MAT 14:28",
+    "verseText": "Petro akamjibu, \u201cBwana, ikiwa ni wewe, niambie nije kwako nikitembea juu ya maji.\u201d"
+  },
+  {
+    "verseNumber": "MAT 14:29",
+    "verseText": "Yesu akamwambia, \u201cNjoo.\u201d Basi Petro akatoka kwenye chombo, akatembea juu ya maji kumwelekea Yesu."
+  },
+  {
+    "verseNumber": "MAT 14:30",
+    "verseText": "Lakini alipoona upepo mkali aliingiwa na hofu, naye akaanza kuzama, huku akipiga kelele, \u201cBwana, niokoe!\u201d"
+  },
+  {
+    "verseNumber": "MAT 14:31",
+    "verseText": "Mara Yesu akaunyoosha mkono wake na kumshika, akamwambia, \u201cWewe mwenye imani haba, kwa nini uliona shaka?\u201d"
+  },
+  {
+    "verseNumber": "MAT 14:32",
+    "verseText": "Nao walipoingia ndani ya mashua, upepo ukakoma."
+  },
+  {
+    "verseNumber": "MAT 14:33",
+    "verseText": "Ndipo wote waliokuwa ndani ya ile mashua wakamwabudu Yesu, wakisema, \u201cHakika, wewe ndiwe Mwana wa Mungu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 14:34",
+    "verseText": "Walipokwisha kuvuka, wakafika nchi ya Genesareti."
+  },
+  {
+    "verseNumber": "MAT 14:35",
+    "verseText": "Watu wa eneo lile walipomtambua Yesu, walipeleka habari sehemu zote za jirani. Watu wakamletea wagonjwa wao wote,"
+  },
+  {
+    "verseNumber": "MAT 14:36",
+    "verseText": "wakamsihi awaruhusu wagonjwa waguse tu pindo la vazi lake, nao wote waliomgusa, wakaponywa."
+  },
+  {
+    "verseNumber": "MAT 15:1",
+    "verseText": "Ndipo baadhi ya Mafarisayo na walimu wa sheria wakamjia Yesu kutoka Yerusalemu na kumuuliza,"
+  },
+  {
+    "verseNumber": "MAT 15:2",
+    "verseText": "\u201cMbona wanafunzi wako wanakiuka mapokeo ya wazee? Kwa maana wao hawanawi mikono yao kabla ya kula!\u201d"
+  },
+  {
+    "verseNumber": "MAT 15:3",
+    "verseText": "Yesu akawajibu, \u201cMbona ninyi mnavunja amri ya Mungu kwa ajili ya mapokeo yenu?"
+  },
+  {
+    "verseNumber": "MAT 15:4",
+    "verseText": "Kwa maana Mungu alisema, \u2018Waheshimu baba yako na mama yako,\u2019 na, \u2018Yeyote amtukanaye baba yake au mama yake, na auawe.\u2019"
+  },
+  {
+    "verseNumber": "MAT 15:5",
+    "verseText": "Lakini ninyi mwafundisha kwamba mtu akimwambia baba yake au mama yake, \u2018Kile ambacho ningeweza kukusaidia kimewekwa wakfu kwa Mungu,\u2019"
+  },
+  {
+    "verseNumber": "MAT 15:6",
+    "verseText": "basi hana tena sababu ya kumheshimu baba yake nacho. Basi kwa ajili ya mafundisho yenu mnavunja amri ya Mungu."
+  },
+  {
+    "verseNumber": "MAT 15:7",
+    "verseText": "Ninyi wanafiki! Isaya alikuwa sawa alipotabiri juu yenu kwamba:"
+  },
+  {
+    "verseNumber": "MAT 15:8",
+    "verseText": "\u201c \u2018Watu hawa huniheshimu kwa midomo yao, lakini mioyo yao iko mbali nami."
+  },
+  {
+    "verseNumber": "MAT 15:9",
+    "verseText": "Huniabudu bure; nayo mafundisho yao ni maagizo ya wanadamu tu.\u2019 \u201d"
+  },
+  {
+    "verseNumber": "MAT 15:10",
+    "verseText": "Yesu akaita ule umati wa watu, akawaambia, \u201cSikilizeni na mwelewe:"
+  },
+  {
+    "verseNumber": "MAT 15:11",
+    "verseText": "kinachomfanya mtu kuwa najisi mbele za Mungu si kile kiingiacho kinywani mwake, bali ni kile kitokacho kinywani mwake.\u201d"
+  },
+  {
+    "verseNumber": "MAT 15:12",
+    "verseText": "Kisha wanafunzi wake wakamjia na kumuuliza, \u201cJe, unajua kwamba Mafarisayo walichukizwa sana waliposikia yale uliyosema?\u201d"
+  },
+  {
+    "verseNumber": "MAT 15:13",
+    "verseText": "Akawajibu, \u201cKila pando ambalo Baba yangu wa mbinguni hakulipanda, litang\u02bcolewa."
+  },
+  {
+    "verseNumber": "MAT 15:14",
+    "verseText": "Waacheni; wao ni viongozi vipofu, wanaoongoza vipofu. Kama kipofu akimwongoza kipofu mwenzake, wote wawili watatumbukia shimoni.\u201d"
+  },
+  {
+    "verseNumber": "MAT 15:15",
+    "verseText": "Petro akasema, \u201cTueleze maana ya huu mfano.\u201d"
+  },
+  {
+    "verseNumber": "MAT 15:16",
+    "verseText": "Yesu akawauliza, \u201cJe, bado ninyi hamfahamu?"
+  },
+  {
+    "verseNumber": "MAT 15:17",
+    "verseText": "Je, hamwelewi kwamba chochote kiingiacho kinywani huenda tumboni, na hatimaye hutolewa nje kikiwa uchafu?"
+  },
+  {
+    "verseNumber": "MAT 15:18",
+    "verseText": "Lakini kitokacho kinywani hutoka moyoni, na hiki ndicho kimtiacho mtu unajisi."
+  },
+  {
+    "verseNumber": "MAT 15:19",
+    "verseText": "Kwa maana ndani ya moyo hutoka mawazo mabaya, uuaji, uzinzi, uasherati, wizi, ushahidi wa uongo na masingizio."
+  },
+  {
+    "verseNumber": "MAT 15:20",
+    "verseText": "Haya ndiyo yamtiayo mtu unajisi; lakini kula bila kunawa mikono hakumtii mtu unajisi.\u201d"
+  },
+  {
+    "verseNumber": "MAT 15:21",
+    "verseText": "Yesu aliondoka mahali pale, akaenda sehemu za Tiro na Sidoni."
+  },
+  {
+    "verseNumber": "MAT 15:22",
+    "verseText": "Mwanamke mmoja Mkanaani aliyeishi sehemu jirani na hizo akaja kwake akilia, akasema, \u201cNihurumie, Ee Bwana, Mwana wa Daudi! Binti yangu amepagawa na pepo mchafu, na anateseka sana.\u201d"
+  },
+  {
+    "verseNumber": "MAT 15:23",
+    "verseText": "Lakini Yesu hakumjibu neno. Hivyo wanafunzi wake wakamwendea na kumsihi sana, wakisema, \u201cMwambie aende zake, kwa maana anaendelea kutupigia kelele.\u201d"
+  },
+  {
+    "verseNumber": "MAT 15:24",
+    "verseText": "Yesu akajibu, \u201cNimetumwa tu kwa ajili ya kondoo wa Israeli waliopotea.\u201d"
+  },
+  {
+    "verseNumber": "MAT 15:25",
+    "verseText": "Lakini yule mwanamke akaja, akapiga magoti mbele ya Yesu, akasema, \u201cBwana, nisaidie!\u201d"
+  },
+  {
+    "verseNumber": "MAT 15:26",
+    "verseText": "Yesu akajibu, \u201cSi haki kuchukua chakula cha watoto na kuwatupia mbwa.\u201d"
+  },
+  {
+    "verseNumber": "MAT 15:27",
+    "verseText": "Yule mwanamke akajibu, \u201cNdiyo, Bwana, lakini hata mbwa hula makombo yanayoanguka kutoka kwenye meza za bwana zao.\u201d"
+  },
+  {
+    "verseNumber": "MAT 15:28",
+    "verseText": "Ndipo Yesu akamwambia, \u201cMwanamke, imani yako ni kubwa! Iwe kwako kama unavyotaka.\u201d Naye binti yake akapona tangu saa ile."
+  },
+  {
+    "verseNumber": "MAT 15:29",
+    "verseText": "Yesu akaondoka na kwenda kando ya Bahari ya Galilaya. Kisha akapanda mlimani, akaketi huko."
+  },
+  {
+    "verseNumber": "MAT 15:30",
+    "verseText": "Umati mkubwa wa watu ukamjia, wakiwaleta vilema, vipofu, viwete, bubu na wengine wengi, wakawaweka miguuni pake; naye akawaponya."
+  },
+  {
+    "verseNumber": "MAT 15:31",
+    "verseText": "Hao watu wakashangaa walipoona bubu wakisema, vilema wakipona, viwete wakitembea na vipofu wakiona, wakamtukuza Mungu wa Israeli."
+  },
+  {
+    "verseNumber": "MAT 15:32",
+    "verseText": "Kisha Yesu akawaita wanafunzi wake, akawaambia, \u201cNinauhurumia huu umati wa watu, kwa sababu sasa wamekuwa pamoja nami kwa muda wa siku tatu, na hawana chakula chochote. Nami sipendi kuwaaga wakiwa na njaa, wasije wakazimia njiani.\u201d"
+  },
+  {
+    "verseNumber": "MAT 15:33",
+    "verseText": "Wanafunzi wake wakasema, \u201cTutapata wapi mikate ya kutosha kuwalisha umati huu wa watu mkubwa namna hii, nasi tuko nyikani?\u201d"
+  },
+  {
+    "verseNumber": "MAT 15:34",
+    "verseText": "Yesu akawauliza, \u201cMnayo mikate mingapi?\u201d Wakamjibu, \u201cTunayo mikate saba na visamaki vichache.\u201d"
+  },
+  {
+    "verseNumber": "MAT 15:35",
+    "verseText": "Yesu akawaambia ule umati wa watu waketi chini."
+  },
+  {
+    "verseNumber": "MAT 15:36",
+    "verseText": "Kisha akachukua ile mikate saba na wale samaki, naye akiisha kumshukuru Mungu, akavimega na kuwapa wanafunzi wake, nao wakawapa ule umati wa watu."
+  },
+  {
+    "verseNumber": "MAT 15:37",
+    "verseText": "Wote wakala na kushiba. Baadaye wanafunzi wakakusanya vipande vilivyosalia, wakajaza vikapu saba."
+  },
+  {
+    "verseNumber": "MAT 15:38",
+    "verseText": "Idadi ya watu walikuwa wanaume 4,000, bila kuhesabu wanawake na watoto."
+  },
+  {
+    "verseNumber": "MAT 15:39",
+    "verseText": "Baada ya kuaga ule umati wa watu, Yesu aliingia katika mashua, akaenda sehemu za Magadani."
+  },
+  {
+    "verseNumber": "MAT 16:1",
+    "verseText": "Mafarisayo na Masadukayo wakamjia Yesu na kumjaribu kwa kumwomba awaonyeshe ishara kutoka mbinguni."
+  },
+  {
+    "verseNumber": "MAT 16:2",
+    "verseText": "Yesu akawajibu, \u201cIfikapo jioni, mnasema, \u2018Hali ya hewa itakuwa nzuri, kwa kuwa anga ni nyekundu.\u2019"
+  },
+  {
+    "verseNumber": "MAT 16:3",
+    "verseText": "Nanyi wakati wa asubuhi mnasema, \u2018Leo kutakuwa na dhoruba, kwa sababu anga ni nyekundu na mawingu yametanda.\u2019 Mnajua jinsi ya kupambanua kule kuonekana kwa anga, lakini hamwezi kupambanua dalili za nyakati."
+  },
+  {
+    "verseNumber": "MAT 16:4",
+    "verseText": "Kizazi kiovu na cha uzinzi kinatafuta ishara, lakini hakitapewa ishara yoyote isipokuwa ishara ya Yona.\u201d Yesu akawaacha, akaenda zake."
+  },
+  {
+    "verseNumber": "MAT 16:5",
+    "verseText": "Wanafunzi wake walipofika ng\u02bcambo ya bahari, walikuwa wamesahau kuchukua mikate."
+  },
+  {
+    "verseNumber": "MAT 16:6",
+    "verseText": "Yesu akawaambia, \u201cJihadharini. Jilindeni na chachu ya Mafarisayo na ya Masadukayo.\u201d"
+  },
+  {
+    "verseNumber": "MAT 16:7",
+    "verseText": "Wakajadiliana wao kwa wao, wakisema, \u201cNi kwa sababu hatukuleta mikate.\u201d"
+  },
+  {
+    "verseNumber": "MAT 16:8",
+    "verseText": "Yesu, akifahamu majadiliano yao, akauliza, \u201cEnyi wa imani haba! Mbona mnajadiliana miongoni mwenu kuhusu kutokuwa na mikate?"
+  },
+  {
+    "verseNumber": "MAT 16:9",
+    "verseText": "Je, bado hamwelewi? Je, hamkumbuki ile mikate mitano iliyolisha watu 5,000 na idadi ya vikapu vingapi vya mabaki mlivyokusanya?"
+  },
+  {
+    "verseNumber": "MAT 16:10",
+    "verseText": "Au ile mikate saba iliyolisha watu 4,000 na idadi ya vikapu vingapi vya mabaki mlivyokusanya?"
+  },
+  {
+    "verseNumber": "MAT 16:11",
+    "verseText": "Inakuwaje mnashindwa kuelewa kwamba nilikuwa sisemi nanyi habari za mikate? Jilindeni na chachu ya Mafarisayo na Masadukayo.\u201d"
+  },
+  {
+    "verseNumber": "MAT 16:12",
+    "verseText": "Ndipo wakaelewa kwamba alikuwa hasemi juu ya chachu ya kutengeneza mikate, bali juu ya mafundisho ya Mafarisayo na Masadukayo."
+  },
+  {
+    "verseNumber": "MAT 16:13",
+    "verseText": "Basi Yesu alipofika katika eneo la Kaisaria-Filipi, akawauliza wanafunzi wake, \u201cWatu husema kwamba mimi Mwana wa Adamu ni nani?\u201d"
+  },
+  {
+    "verseNumber": "MAT 16:14",
+    "verseText": "Wakamjibu, \u201cBaadhi husema ni Yohana Mbatizaji; wengine husema ni Eliya; na bado wengine husema ni Yeremia au mmojawapo wa manabii.\u201d"
+  },
+  {
+    "verseNumber": "MAT 16:15",
+    "verseText": "Akawauliza, \u201cJe, ninyi mnasema mimi ni nani?\u201d"
+  },
+  {
+    "verseNumber": "MAT 16:16",
+    "verseText": "Simoni Petro akamjibu, \u201cWewe ndiwe Kristo, Mwana wa Mungu aliye hai.\u201d"
+  },
+  {
+    "verseNumber": "MAT 16:17",
+    "verseText": "Naye Yesu akamwambia, \u201cHeri wewe, Simoni Bar-Yona, kwa maana hili halikufunuliwa kwako na mwanadamu, bali na Baba yangu aliye mbinguni."
+  },
+  {
+    "verseNumber": "MAT 16:18",
+    "verseText": "Nami nakuambia, wewe ndiwe Petro na juu ya mwamba huu nitalijenga kanisa langu, hata malango ya Kuzimu hayataweza kulishinda."
+  },
+  {
+    "verseNumber": "MAT 16:19",
+    "verseText": "Nitakupa funguo za Ufalme wa mbinguni, na lolote utakalolifunga duniani litakuwa limefungwa Mbinguni, nalo lolote utakalofungua duniani litakuwa limefunguliwa mbinguni.\u201d"
+  },
+  {
+    "verseNumber": "MAT 16:20",
+    "verseText": "Kisha akawakataza wanafunzi wake wasimwambie mtu yeyote kwamba yeye ndiye Kristo."
+  },
+  {
+    "verseNumber": "MAT 16:21",
+    "verseText": "Tangu wakati huo, Yesu alianza kuwaeleza wanafunzi wake kwamba hana budi kwenda Yerusalemu na kupata mateso mengi mikononi mwa wazee, viongozi wa makuhani, na walimu wa sheria, na kwamba itampasa auawe lakini siku ya tatu kufufuliwa."
+  },
+  {
+    "verseNumber": "MAT 16:22",
+    "verseText": "Petro akamchukua kando, akaanza kumkemea akisema, \u201cHaiwezekani, Bwana! Jambo hili kamwe halitakupata!\u201d"
+  },
+  {
+    "verseNumber": "MAT 16:23",
+    "verseText": "Lakini Yesu akageuka na kumwambia Petro, \u201cRudi nyuma yangu, Shetani! Wewe ni kikwazo kwangu. Moyo wako hauwazi yaliyo ya Mungu, bali ya wanadamu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 16:24",
+    "verseText": "Ndipo Yesu akawaambia wanafunzi wake, \u201cMtu yeyote akitaka kunifuata, ni lazima ajikane mwenyewe, auchukue msalaba wake, anifuate."
+  },
+  {
+    "verseNumber": "MAT 16:25",
+    "verseText": "Kwa maana yeyote anayetaka kuyaokoa maisha yake atayapoteza, lakini yeyote atakayeyapoteza maisha yake kwa ajili yangu atayapata."
+  },
+  {
+    "verseNumber": "MAT 16:26",
+    "verseText": "Kwa maana, je, itamfaidi nini mtu kuupata ulimwengu wote, lakini akayapoteza maisha yake? Au mtu atatoa nini badala ya nafsi yake?"
+  },
+  {
+    "verseNumber": "MAT 16:27",
+    "verseText": "Kwa maana Mwana wa Adamu atakuja katika utukufu wa Baba yake pamoja na malaika zake, naye ndipo atakapomlipa kila mtu kwa kadiri ya matendo yake."
+  },
+  {
+    "verseNumber": "MAT 16:28",
+    "verseText": "Nawaambia kweli, baadhi yenu hapa hawataonja mauti kabla ya kumwona Mwana wa Adamu akija katika Ufalme wake.\u201d"
+  },
+  {
+    "verseNumber": "MAT 17:1",
+    "verseText": "Siku sita baada ya jambo hili, Yesu akawachukua Petro, Yakobo na Yohana ndugu yake Yakobo, akawapeleka juu ya mlima mrefu peke yao."
+  },
+  {
+    "verseNumber": "MAT 17:2",
+    "verseText": "Wakiwa huko, Yesu alibadilika sura mbele yao. Uso wake ukang\u02bcaa kama jua na nguo zake zikawa na weupe wa kuumiza macho."
+  },
+  {
+    "verseNumber": "MAT 17:3",
+    "verseText": "Ghafula wakawatokea mbele yao Mose na Eliya, wakizungumza na Yesu."
+  },
+  {
+    "verseNumber": "MAT 17:4",
+    "verseText": "Ndipo Petro akamwambia Yesu, \u201cBwana, ni vyema sisi tukae hapa. Ukitaka, nitafanya vibanda vitatu: kimoja chako, kingine cha Mose na kingine cha Eliya.\u201d"
+  },
+  {
+    "verseNumber": "MAT 17:5",
+    "verseText": "Petro alipokuwa angali ananena, ghafula wingu lililong\u02bcaa likawafunika, na sauti ikatoka kwenye hilo wingu ikisema, \u201cHuyu ni Mwanangu mpendwa. Ninapendezwa naye sana. Msikieni yeye.\u201d"
+  },
+  {
+    "verseNumber": "MAT 17:6",
+    "verseText": "Wanafunzi waliposikia haya, wakaanguka chini kifudifudi, wakajawa na hofu."
+  },
+  {
+    "verseNumber": "MAT 17:7",
+    "verseText": "Lakini Yesu akaja na kuwagusa, akawaambia, \u201cInukeni na wala msiogope.\u201d"
+  },
+  {
+    "verseNumber": "MAT 17:8",
+    "verseText": "Walipoinua macho yao, hawakumwona mtu mwingine yeyote isipokuwa Yesu."
+  },
+  {
+    "verseNumber": "MAT 17:9",
+    "verseText": "Walipokuwa wakishuka kutoka mlimani, Yesu akawaagiza, \u201cMsimwambie mtu yeyote mambo mliyoyaona hapa, mpaka Mwana wa Adamu atakapofufuliwa kutoka kwa wafu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 17:10",
+    "verseText": "Wale wanafunzi wakamuuliza, \u201cKwa nini basi walimu wa sheria husema kwamba ni lazima Eliya aje kwanza?\u201d"
+  },
+  {
+    "verseNumber": "MAT 17:11",
+    "verseText": "Yesu akawajibu, \u201cNi kweli, Eliya lazima aje kwanza, naye atatengeneza mambo yote."
+  },
+  {
+    "verseNumber": "MAT 17:12",
+    "verseText": "Lakini nawaambia, Eliya amekwisha kuja, nao hawakumtambua, bali walimtendea kila kitu walichotaka. Vivyo hivyo Mwana wa Adamu pia atateswa mikononi mwao.\u201d"
+  },
+  {
+    "verseNumber": "MAT 17:13",
+    "verseText": "Ndipo wale wanafunzi wakaelewa kuwa alikuwa anazungumza nao habari za Yohana Mbatizaji."
+  },
+  {
+    "verseNumber": "MAT 17:14",
+    "verseText": "Walipofika penye umati wa watu, mtu mmoja akamjia Yesu na kupiga magoti mbele yake, akasema,"
+  },
+  {
+    "verseNumber": "MAT 17:15",
+    "verseText": "\u201cBwana, mhurumie mwanangu. Yeye ana kifafa na anateseka sana. Mara kwa mara huanguka kwenye moto au kwenye maji."
+  },
+  {
+    "verseNumber": "MAT 17:16",
+    "verseText": "Nilimleta kwa wanafunzi wako, lakini hawakuweza kumponya.\u201d"
+  },
+  {
+    "verseNumber": "MAT 17:17",
+    "verseText": "Yesu akajibu, \u201cEnyi kizazi kisichoamini na kilichopotoka! Nitakaa nanyi mpaka lini? Nitawavumilia mpaka lini? Mleteni mvulana hapa kwangu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 17:18",
+    "verseText": "Yesu akamkemea yule pepo mchafu, akamtoka yule kijana, naye akapona saa ile ile."
+  },
+  {
+    "verseNumber": "MAT 17:19",
+    "verseText": "Kisha wanafunzi wakamwendea Yesu wakiwa peke yao, wakamuuliza, \u201cKwa nini sisi hatukuweza kumtoa?\u201d"
+  },
+  {
+    "verseNumber": "MAT 17:20",
+    "verseText": "Akawajibu, \u201cKwa sababu ya imani yenu ndogo. Ninawaambia kweli, mkiwa na imani ndogo kama punje ya haradali, mtauambia mlima huu, \u2018Ondoka hapa uende pale,\u2019 nao utaondoka. Wala hakutakuwa na jambo lisilowezekana kwenu. ["
+  },
+  {
+    "verseNumber": "MAT 17:21",
+    "verseText": "Lakini hali kama hii haitoki ila kwa kuomba na kufunga.]\u201d"
+  },
+  {
+    "verseNumber": "MAT 17:22",
+    "verseText": "Siku moja walipokuwa pamoja huko Galilaya, Yesu akawaambia, \u201cMwana wa Adamu atasalitiwa na kutiwa mikononi mwa watu."
+  },
+  {
+    "verseNumber": "MAT 17:23",
+    "verseText": "Nao watamuua, lakini siku ya tatu atafufuliwa.\u201d Wanafunzi wakahuzunika sana."
+  },
+  {
+    "verseNumber": "MAT 17:24",
+    "verseText": "Baada ya Yesu na wanafunzi wake kufika Kapernaumu, wakusanya kodi ya Hekalu wakamjia Petro na kumuuliza, \u201cJe, Mwalimu wenu halipi kodi ya Hekalu?\u201d"
+  },
+  {
+    "verseNumber": "MAT 17:25",
+    "verseText": "Petro akajibu, \u201cNdiyo, yeye hulipa.\u201d Petro aliporudi nyumbani, Yesu akawa wa kwanza kulizungumzia, akamuuliza, \u201cUnaonaje Simoni? Wafalme wa dunia hupokea ushuru na kodi kutoka kwa nani? Je, ni kutoka kwa watoto wao au kutoka kwa watu wengine?\u201d"
+  },
+  {
+    "verseNumber": "MAT 17:26",
+    "verseText": "Petro akamjibu, \u201cKutoka kwa watu wengine.\u201d Yesu akamwambia, \u201cKwa hiyo watoto wao wamesamehewa."
+  },
+  {
+    "verseNumber": "MAT 17:27",
+    "verseText": "Lakini ili tusije tukawaudhi, nenda baharini ukatupe ndoana. Mchukue samaki wa kwanza utakayemvua. Fungua kinywa chake nawe utakuta humo fedha, ichukue ukalipe kodi yako na yangu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 18:1",
+    "verseText": "Wakati huo, wanafunzi wakamjia Yesu na kumuuliza, \u201cJe, nani aliye mkuu kuliko wote katika Ufalme wa Mbinguni?\u201d"
+  },
+  {
+    "verseNumber": "MAT 18:2",
+    "verseText": "Yesu akamwita mtoto mdogo na kumsimamisha katikati yao."
+  },
+  {
+    "verseNumber": "MAT 18:3",
+    "verseText": "Naye akasema: \u201cAmin, nawaambia, msipookoka na kuwa kama watoto wadogo, kamwe hamtaingia katika Ufalme wa Mbinguni."
+  },
+  {
+    "verseNumber": "MAT 18:4",
+    "verseText": "Kwa hiyo mtu yeyote anyenyekeaye kama huyu mtoto, ndiye aliye mkuu kuliko wote katika Ufalme wa Mbinguni."
+  },
+  {
+    "verseNumber": "MAT 18:5",
+    "verseText": "\u201cYeyote amkaribishaye mtoto mdogo kama huyu kwa Jina langu, anikaribisha mimi."
+  },
+  {
+    "verseNumber": "MAT 18:6",
+    "verseText": "Lakini kama mtu yeyote akimsababisha mmojawapo wa hawa wadogo wanaoniamini kutenda dhambi, ingekuwa bora kwake afungiwe jiwe kubwa la kusagia shingoni mwake, na kutoswa katika kilindi cha bahari."
+  },
+  {
+    "verseNumber": "MAT 18:7",
+    "verseText": "\u201cOle kwa ulimwengu kwa sababu ya yale mambo yanayosababisha watu kutenda dhambi! Mambo hayo lazima yawepo, lakini ole wake mtu yule ambaye huyasababisha."
+  },
+  {
+    "verseNumber": "MAT 18:8",
+    "verseText": "Ikiwa mkono wako au mguu wako unakusababisha utende dhambi, ukate na uutupe mbali. Ni afadhali kwako kuingia katika uzima ukiwa huna mkono mmoja au mguu mmoja, kuliko kuwa na mikono miwili au miguu miwili, na kutupwa katika moto wa milele."
+  },
+  {
+    "verseNumber": "MAT 18:9",
+    "verseText": "Nalo jicho lako likikusababisha kutenda dhambi, ling\u02bcoe, ulitupe mbali. Ni afadhali kwako kuingia katika uzima ukiwa na jicho moja, kuliko kuwa na macho mawili lakini ukatupwa katika moto wa jehanamu."
+  },
+  {
+    "verseNumber": "MAT 18:10",
+    "verseText": "\u201cAngalia ili usimdharau mmojawapo wa hawa wadogo, kwa maana nawaambia, malaika wao mbinguni daima wanauona uso wa Baba yangu aliye mbinguni. ["
+  },
+  {
+    "verseNumber": "MAT 18:11",
+    "verseText": "Kwa maana Mwana wa Adamu alikuja kuokoa kile kilichopotea.]"
+  },
+  {
+    "verseNumber": "MAT 18:12",
+    "verseText": "\u201cMwaonaje? Ikiwa mtu ana kondoo mia moja, na mmoja wao akapotea, je, hatawaacha wale tisini na tisa vilimani na kwenda kumtafuta huyo mmoja aliyepotea?"
+  },
+  {
+    "verseNumber": "MAT 18:13",
+    "verseText": "Naye akishampata, amin, nawaambia, hufurahi zaidi kwa ajili ya huyo kondoo mmoja kuliko wale tisini na tisa ambao hawakupotea."
+  },
+  {
+    "verseNumber": "MAT 18:14",
+    "verseText": "Vivyo hivyo, Baba yenu wa mbinguni hapendi hata mmojawapo wa hawa wadogo apotee."
+  },
+  {
+    "verseNumber": "MAT 18:15",
+    "verseText": "\u201cKama ndugu yako akikukosea, nenda ukamwonyeshe kosa lake, kati yenu ninyi wawili peke yenu. Kama akikusikiliza, utakuwa umempata tena ndugu yako."
+  },
+  {
+    "verseNumber": "MAT 18:16",
+    "verseText": "Lakini kama hatakusikiliza, nenda na mtu mwingine mmoja au wawili ili kila neno lithibitishwe kwa ushahidi wa mashahidi wawili au watatu."
+  },
+  {
+    "verseNumber": "MAT 18:17",
+    "verseText": "Kama akikataa kuwasikiliza hao, liambie kanisa. Naye kama akikataa hata kulisikiliza kanisa, basi awe kwenu kama mtu asiyeamini au mtoza ushuru."
+  },
+  {
+    "verseNumber": "MAT 18:18",
+    "verseText": "\u201cAmin, nawaambia, lolote mtakalolifunga duniani litakuwa limefungwa mbinguni, na lolote mtakalolifungua duniani litakuwa limefunguliwa mbinguni."
+  },
+  {
+    "verseNumber": "MAT 18:19",
+    "verseText": "\u201cTena nawaambia, ikiwa wawili wenu watakubaliana duniani kuhusu jambo lolote watakaloomba, watafanyiwa na Baba yangu aliye mbinguni."
+  },
+  {
+    "verseNumber": "MAT 18:20",
+    "verseText": "Kwa kuwa wanapokusanyika pamoja watu wawili au watatu kwa Jina langu, mimi niko papo hapo pamoja nao.\u201d"
+  },
+  {
+    "verseNumber": "MAT 18:21",
+    "verseText": "Ndipo Petro akamjia Yesu na kumuuliza, \u201cBwana, ndugu yangu anikosee mara ngapi nami nimsamehe? Je, hata mara saba?\u201d"
+  },
+  {
+    "verseNumber": "MAT 18:22",
+    "verseText": "Yesu akamjibu, \u201cSikuambii hata mara saba, bali hata saba mara sabini."
+  },
+  {
+    "verseNumber": "MAT 18:23",
+    "verseText": "\u201cKwa hiyo Ufalme wa Mbinguni unaweza kufananishwa na mfalme aliyetaka kufanya hesabu zake za fedha na watumishi wake."
+  },
+  {
+    "verseNumber": "MAT 18:24",
+    "verseText": "Alipoanza kufanya hesabu zake, mtu mmoja aliyekuwa anadaiwa talanta 10,000, aliletwa kwake."
+  },
+  {
+    "verseNumber": "MAT 18:25",
+    "verseText": "Kwa kuwa alikuwa hawezi kulipa deni hilo, bwana wake akaamuru kwamba auzwe, yeye, mkewe, watoto wake na vyote alivyokuwa navyo, ili lile deni lipate kulipwa."
+  },
+  {
+    "verseNumber": "MAT 18:26",
+    "verseText": "\u201cYule mtumishi akampigia magoti, akamsihi yule bwana akisema, \u2018Naomba univumilie, nami nitakulipa deni lako lote.\u2019"
+  },
+  {
+    "verseNumber": "MAT 18:27",
+    "verseText": "Yule bwana wa huyo mtumishi akamwonea huruma, akafuta deni lake lote, akamwacha aende zake."
+  },
+  {
+    "verseNumber": "MAT 18:28",
+    "verseText": "\u201cLakini yule mtumishi alipokuwa anatoka nje, akakutana na mtumishi mwenzake aliyekuwa amemkopesha dinari mia moja. Akamkamata, akamkaba koo akimwambia, \u2018Nilipe kile ninachokudai!\u2019"
+  },
+  {
+    "verseNumber": "MAT 18:29",
+    "verseText": "\u201cYule mtumishi mwenzake akapiga magoti akamsihi akisema, \u2018Naomba univumilie, nami nitakulipa deni lako lote.\u2019"
+  },
+  {
+    "verseNumber": "MAT 18:30",
+    "verseText": "\u201cLakini akakataa. Badala yake, alienda akamtupa gerezani hata atakapolipa hilo deni."
+  },
+  {
+    "verseNumber": "MAT 18:31",
+    "verseText": "Watumishi wenzake walipoona haya yaliyotukia wakaudhika sana, nao wakaenda na kumwambia bwana wao kila kitu kilichokuwa kimetukia."
+  },
+  {
+    "verseNumber": "MAT 18:32",
+    "verseText": "\u201cYule bwana akamwita yule mtumishi akamwambia, \u2018Wewe mtumishi mwovu! Mimi nilikusamehe deni lako lote uliponisihi."
+  },
+  {
+    "verseNumber": "MAT 18:33",
+    "verseText": "Je, haikukupasa kumhurumia mtumishi mwenzako kama mimi nilivyokuhurumia wewe?\u2019"
+  },
+  {
+    "verseNumber": "MAT 18:34",
+    "verseText": "Kwa hasira, yule bwana wake akamtia yule mtumishi mikononi mwa askari wa gereza ili ateswe mpaka atakapolipa yote aliyokuwa anadaiwa."
+  },
+  {
+    "verseNumber": "MAT 18:35",
+    "verseText": "\u201cHivi ndivyo Baba yangu wa mbinguni atakavyomfanyia kila mmoja wenu ikiwa hatamsamehe ndugu yake kutoka moyoni mwake.\u201d"
+  },
+  {
+    "verseNumber": "MAT 19:1",
+    "verseText": "Yesu alipomaliza kusema maneno haya, aliondoka Galilaya, akaenda sehemu za Uyahudi, ng\u02bcambo ya Mto Yordani."
+  },
+  {
+    "verseNumber": "MAT 19:2",
+    "verseText": "Umati mkubwa wa watu ukamfuata, naye akawaponya huko."
+  },
+  {
+    "verseNumber": "MAT 19:3",
+    "verseText": "Baadhi ya Mafarisayo wakamjia ili kumjaribu, wakamuuliza, \u201cNi halali mtu kumwacha mke wake kwa sababu yoyote?\u201d"
+  },
+  {
+    "verseNumber": "MAT 19:4",
+    "verseText": "Akawajibu, \u201cJe, hamkusoma kwamba hapo mwanzo Muumba aliwaumba mwanaume na mwanamke,"
+  },
+  {
+    "verseNumber": "MAT 19:5",
+    "verseText": "naye akasema, \u2018Kwa sababu hii mwanaume atamwacha baba yake na mama yake, naye ataambatana na mkewe, na hao wawili watakuwa mwili mmoja\u2019?"
+  },
+  {
+    "verseNumber": "MAT 19:6",
+    "verseText": "Hivyo si wawili tena, bali mwili mmoja. Kwa hiyo alichokiunganisha Mungu, mwanadamu asikitenganishe.\u201d"
+  },
+  {
+    "verseNumber": "MAT 19:7",
+    "verseText": "Wakamuuliza, \u201cKwa nini basi Mose aliagiza mtu kumpa mkewe hati ya talaka na kumwacha?\u201d"
+  },
+  {
+    "verseNumber": "MAT 19:8",
+    "verseText": "Yesu akawajibu, \u201cMose aliwaruhusu kuwaacha wake zenu kwa sababu ya ugumu wa mioyo yenu. Lakini tangu mwanzo haikuwa hivyo."
+  },
+  {
+    "verseNumber": "MAT 19:9",
+    "verseText": "Mimi nawaambia, yeyote amwachaye mkewe isipokuwa kwa sababu ya uasherati naye akaoa mke mwingine, anazini. Naye amwoaye yule mwanamke aliyeachwa pia anazini.\u201d"
+  },
+  {
+    "verseNumber": "MAT 19:10",
+    "verseText": "Wanafunzi wake wakamwambia, \u201cKama hali ndiyo hii kati ya mume na mke, ni afadhali mtu asioe!\u201d"
+  },
+  {
+    "verseNumber": "MAT 19:11",
+    "verseText": "Yesu akawaambia, \u201cSi watu wote wanaoweza kupokea neno hili, isipokuwa wale tu waliojaliwa na Mungu."
+  },
+  {
+    "verseNumber": "MAT 19:12",
+    "verseText": "Kwa maana wengine ni matowashi kwa sababu wamezaliwa hivyo; wengine wamefanywa matowashi na wanadamu; na wengine wamejifanya matowashi kwa ajili ya Ufalme wa Mbinguni. Yeye awezaye kulipokea neno hili na alipokee.\u201d"
+  },
+  {
+    "verseNumber": "MAT 19:13",
+    "verseText": "Kisha watoto wadogo wakaletwa kwa Yesu ili aweke mikono yake juu yao na awaombee. Lakini wanafunzi wake wakawakemea wale waliowaleta."
+  },
+  {
+    "verseNumber": "MAT 19:14",
+    "verseText": "Yesu akasema, \u201cWaacheni watoto wadogo waje kwangu, wala msiwazuie, kwa maana Ufalme wa Mbinguni ni wa wale walio kama hawa.\u201d"
+  },
+  {
+    "verseNumber": "MAT 19:15",
+    "verseText": "Naye akaweka mikono yake juu yao, na akaondoka huko."
+  },
+  {
+    "verseNumber": "MAT 19:16",
+    "verseText": "Mtu mmoja akamjia Yesu na kumuuliza, \u201cMwalimu mwema, nifanye jambo gani jema ili nipate uzima wa milele?\u201d"
+  },
+  {
+    "verseNumber": "MAT 19:17",
+    "verseText": "Yesu akamjibu, \u201cMbona unaniuliza habari ya mema? Aliye mwema ni Mmoja tu. Lakini ukitaka kuingia uzimani, zitii amri.\u201d"
+  },
+  {
+    "verseNumber": "MAT 19:18",
+    "verseText": "Yule mtu akamuuliza, \u201cAmri zipi?\u201d Yesu akamjibu, \u201cUsiue, usizini, usiibe, usishuhudie uongo,"
+  },
+  {
+    "verseNumber": "MAT 19:19",
+    "verseText": "waheshimu baba yako na mama yako, na umpende jirani yako kama nafsi yako.\u201d"
+  },
+  {
+    "verseNumber": "MAT 19:20",
+    "verseText": "Yule kijana akasema, \u201cHizi zote nimezishika. Je, bado nimepungukiwa na nini?\u201d"
+  },
+  {
+    "verseNumber": "MAT 19:21",
+    "verseText": "Yesu akamwambia, \u201cKama ukitaka kuwa mkamilifu, nenda, ukauze vitu vyote ulivyo navyo, na hizo fedha uwape maskini, nawe utakuwa na hazina mbinguni. Kisha njoo, unifuate.\u201d"
+  },
+  {
+    "verseNumber": "MAT 19:22",
+    "verseText": "Yule kijana aliposikia hayo, akaenda zake kwa huzuni, kwa sababu alikuwa na mali nyingi."
+  },
+  {
+    "verseNumber": "MAT 19:23",
+    "verseText": "Ndipo Yesu akawaambia wanafunzi wake, \u201cAmin, nawaambia, itakuwa vigumu kwa mtu tajiri kuingia katika Ufalme wa Mbinguni."
+  },
+  {
+    "verseNumber": "MAT 19:24",
+    "verseText": "Tena nawaambia, ni rahisi zaidi kwa ngamia kupita kwenye tundu la sindano kuliko mtu tajiri kuingia katika Ufalme wa Mungu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 19:25",
+    "verseText": "Wanafunzi wake waliposikia haya, walishangaa sana na kuuliza, \u201cNi nani basi awezaye kuokoka?\u201d"
+  },
+  {
+    "verseNumber": "MAT 19:26",
+    "verseText": "Lakini Yesu akawatazama, akawaambia, \u201cKwa mwanadamu jambo hili haliwezekani, lakini mambo yote yanawezekana kwa Mungu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 19:27",
+    "verseText": "Ndipo Petro akamjibu, \u201cTazama, sisi tumeacha kila kitu na kukufuata! Tutapata nini basi?\u201d"
+  },
+  {
+    "verseNumber": "MAT 19:28",
+    "verseText": "Yesu akawaambia, \u201cAmin, nawaambia, wakati wa kufanywa upya vitu vyote, Mwana wa Adamu atakapoketi kwenye kiti chake kitukufu cha enzi, ninyi mlionifuata pia mtaketi katika viti vya enzi kumi na viwili, mkiyahukumu makabila kumi na mawili ya Israeli."
+  },
+  {
+    "verseNumber": "MAT 19:29",
+    "verseText": "Kila mtu aliyeacha nyumba, au ndugu zake wa kiume au wa kike, baba au mama, watoto au mashamba kwa ajili yangu, atapokea mara mia zaidi ya hayo, na ataurithi uzima wa milele."
+  },
+  {
+    "verseNumber": "MAT 19:30",
+    "verseText": "Lakini wengi walio wa kwanza watakuwa wa mwisho, na walio wa mwisho watakuwa wa kwanza."
+  },
+  {
+    "verseNumber": "MAT 20:1",
+    "verseText": "\u201cKwa maana Ufalme wa Mbinguni unafanana na mtu mwenye shamba aliyetoka alfajiri ili kwenda kuajiri vibarua kufanya kazi katika shamba lake la mizabibu."
+  },
+  {
+    "verseNumber": "MAT 20:2",
+    "verseText": "Baada ya kukubaliana na hao vibarua kuwalipa ujira wa dinari moja kwa siku, akawapeleka kwenye shamba lake la mizabibu."
+  },
+  {
+    "verseNumber": "MAT 20:3",
+    "verseText": "\u201cMnamo saa tatu akatoka tena, akawakuta wengine wamesimama sokoni bila kazi."
+  },
+  {
+    "verseNumber": "MAT 20:4",
+    "verseText": "Akawaambia, \u2018Ninyi nanyi nendeni mkafanye kazi katika shamba langu la mizabibu, nami nitawalipa chochote kilicho haki yenu.\u2019"
+  },
+  {
+    "verseNumber": "MAT 20:5",
+    "verseText": "Kwa hiyo wakaenda. \u201cAkatoka tena mnamo saa sita na pia saa tisa akafanya vivyo hivyo."
+  },
+  {
+    "verseNumber": "MAT 20:6",
+    "verseText": "Mnamo saa kumi na moja akatoka tena akawakuta wengine bado wamesimama bila kazi. Akawauliza, \u2018Kwa nini mmesimama hapa kutwa nzima pasipo kufanya kazi?\u2019"
+  },
+  {
+    "verseNumber": "MAT 20:7",
+    "verseText": "\u201cWakamjibu, \u2018Ni kwa sababu hakuna yeyote aliyetuajiri.\u2019 \u201cAkawaambia, \u2018Ninyi nanyi nendeni mkafanye kazi katika shamba langu la mizabibu.\u2019"
+  },
+  {
+    "verseNumber": "MAT 20:8",
+    "verseText": "\u201cIlipofika jioni, yule mwenye shamba la mizabibu akamwambia msimamizi, \u2018Waite hao vibarua na uwalipe ujira wao, ukianzia na wale walioajiriwa mwisho na kuishia na wale walioajiriwa kwanza.\u2019"
+  },
+  {
+    "verseNumber": "MAT 20:9",
+    "verseText": "\u201cWale vibarua walioajiriwa mnamo saa kumi na moja, wakaja na kila mmoja wao akapokea dinari moja."
+  },
+  {
+    "verseNumber": "MAT 20:10",
+    "verseText": "Hivyo wale walioajiriwa kwanza walipofika, walidhani watalipwa zaidi. Lakini kila mmoja wao pia alipokea dinari moja."
+  },
+  {
+    "verseNumber": "MAT 20:11",
+    "verseText": "Walipoipokea, wakaanza kulalamika dhidi ya yule mwenye shamba,"
+  },
+  {
+    "verseNumber": "MAT 20:12",
+    "verseText": "wakisema, \u2018Hawa watu walioajiriwa mwisho wamefanya kazi kwa muda wa saa moja tu, nawe umewafanya sawa na sisi ambao tumestahimili taabu na joto lote la mchana kutwa?\u2019"
+  },
+  {
+    "verseNumber": "MAT 20:13",
+    "verseText": "\u201cYule mwenye shamba akamjibu mmoja wao, \u2018Rafiki, sijakudhulumu. Je, hukukubaliana nami kwa ujira wa kawaida wa dinari moja?"
+  },
+  {
+    "verseNumber": "MAT 20:14",
+    "verseText": "Chukua ujira wako na uende. Mimi nimeamua kumlipa huyu mtu aliyeajiriwa mwisho kama nilivyokupa wewe."
+  },
+  {
+    "verseNumber": "MAT 20:15",
+    "verseText": "Je, sina haki yangu kufanya kile nitakacho na mali yangu mwenyewe? Au unaona wivu kwa kuwa nimekuwa mkarimu?\u2019"
+  },
+  {
+    "verseNumber": "MAT 20:16",
+    "verseText": "\u201cVivyo hivyo, wa mwisho watakuwa wa kwanza, na wa kwanza watakuwa wa mwisho.\u201d"
+  },
+  {
+    "verseNumber": "MAT 20:17",
+    "verseText": "Basi Yesu alipokuwa anapanda kwenda Yerusalemu, aliwachukua kando wale wanafunzi wake kumi na wawili na kuwaambia,"
+  },
+  {
+    "verseNumber": "MAT 20:18",
+    "verseText": "\u201cTunapanda kwenda Yerusalemu, na Mwana wa Adamu atatiwa mikononi mwa viongozi wa makuhani na walimu wa sheria. Nao watamhukumu kifo"
+  },
+  {
+    "verseNumber": "MAT 20:19",
+    "verseText": "na kumtia mikononi mwa watu wa Mataifa ili wamdhihaki na kumpiga mijeledi na kumsulubisha msalabani. Naye atafufuliwa siku ya tatu!\u201d"
+  },
+  {
+    "verseNumber": "MAT 20:20",
+    "verseText": "Kisha mama yao wana wa Zebedayo akamjia Yesu pamoja na wanawe, naye akapiga magoti mbele yake, akamwomba Yesu amfanyie jambo fulani."
+  },
+  {
+    "verseNumber": "MAT 20:21",
+    "verseText": "Yesu akamuuliza, \u201cUnataka nini?\u201d Akajibu, \u201cTafadhali, wajalie wanangu hawa ili mmoja aketi upande wako wa kuume, na mwingine upande wako wa kushoto katika Ufalme wako.\u201d"
+  },
+  {
+    "verseNumber": "MAT 20:22",
+    "verseText": "Yesu akawaambia, \u201cNinyi hamjui mnaloliomba. Je, mnaweza kukinywea kikombe nitakachonywea mimi?\u201d Wakajibu, \u201cTunaweza.\u201d"
+  },
+  {
+    "verseNumber": "MAT 20:23",
+    "verseText": "Yesu akawaambia, \u201cKwa kweli kikombe changu mtakinywea, lakini kuketi upande wangu wa kuume au wa kushoto si langu mimi kuwapa. Nafasi hizo ni za wale ambao wameandaliwa na Baba yangu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 20:24",
+    "verseText": "Wale wanafunzi wengine kumi waliposikia haya, waliwakasirikia hao ndugu wawili."
+  },
+  {
+    "verseNumber": "MAT 20:25",
+    "verseText": "Lakini Yesu akawaita wote pamoja na kuwaambia, \u201cMnafahamu kuwa watawala wa watu wa Mataifa huwatawala kwa nguvu, nao wenye vyeo huonyesha mamlaka yao."
+  },
+  {
+    "verseNumber": "MAT 20:26",
+    "verseText": "Isiwe hivyo kwenu. Badala yake, yeyote anayetaka kuwa mkuu miongoni mwenu hana budi kuwa mtumishi wenu,"
+  },
+  {
+    "verseNumber": "MAT 20:27",
+    "verseText": "naye anayetaka kuwa wa kwanza miongoni mwenu hana budi kuwa mtumwa wenu:"
+  },
+  {
+    "verseNumber": "MAT 20:28",
+    "verseText": "kama vile ambavyo Mwana wa Adamu hakuja ili kutumikiwa, bali kutumika na kuutoa uhai wake uwe fidia kwa ajili ya wengi.\u201d"
+  },
+  {
+    "verseNumber": "MAT 20:29",
+    "verseText": "Yesu na wanafunzi wake walipokuwa wakiondoka Yeriko, umati mkubwa wa watu ulimfuata."
+  },
+  {
+    "verseNumber": "MAT 20:30",
+    "verseText": "Vipofu wawili walikuwa wameketi kando ya barabara. Waliposikia kwamba Yesu alikuwa anapita, wakapiga kelele wakisema, \u201cBwana, Mwana wa Daudi, tuhurumie!\u201d"
+  },
+  {
+    "verseNumber": "MAT 20:31",
+    "verseText": "Ule umati wa watu ukawakemea na kuwaambia wanyamaze, lakini wao wakazidi kupaza sauti, wakisema, \u201cBwana, Mwana wa Daudi, tuhurumie.\u201d"
+  },
+  {
+    "verseNumber": "MAT 20:32",
+    "verseText": "Yesu akasimama na kuwaita, akawauliza, \u201cMnataka niwafanyie nini?\u201d"
+  },
+  {
+    "verseNumber": "MAT 20:33",
+    "verseText": "Wakamjibu, \u201cBwana, tunataka kuona.\u201d"
+  },
+  {
+    "verseNumber": "MAT 20:34",
+    "verseText": "Yesu akawahurumia na kuwagusa macho yao. Mara macho yao yakapata kuona, nao wakamfuata."
+  },
+  {
+    "verseNumber": "MAT 21:1",
+    "verseText": "Walipokaribia Yerusalemu, wakafika Bethfage katika Mlima wa Mizeituni. Ndipo Yesu akawatuma wanafunzi wake wawili,"
+  },
+  {
+    "verseNumber": "MAT 21:2",
+    "verseText": "akawaambia, \u201cNendeni katika kijiji kilichoko mbele yenu, nanyi mtamkuta punda amefungwa hapo, na mwana-punda pamoja naye. Wafungueni na mniletee."
+  },
+  {
+    "verseNumber": "MAT 21:3",
+    "verseText": "Kama mtu yeyote akiwasemesha lolote, mwambieni kwamba Bwana ana haja nao, naye atawaruhusu mwalete mara.\u201d"
+  },
+  {
+    "verseNumber": "MAT 21:4",
+    "verseText": "Haya yalitukia ili litimie lile lililonenwa na nabii, akisema:"
+  },
+  {
+    "verseNumber": "MAT 21:5",
+    "verseText": "\u201cMwambieni Binti Sayuni, \u2018Tazama, mfalme wako anakuja kwako, ni mnyenyekevu, naye amepanda punda, juu ya mwana-punda, mtoto wa punda.\u2019 \u201d"
+  },
+  {
+    "verseNumber": "MAT 21:6",
+    "verseText": "Wale wanafunzi wakaenda, wakafanya kama Yesu alivyokuwa amewaagiza."
+  },
+  {
+    "verseNumber": "MAT 21:7",
+    "verseText": "Wakamleta yule punda na mwana-punda, nao wakatandika mavazi yao juu ya hao punda, naye Yesu akaketi juu yake."
+  },
+  {
+    "verseNumber": "MAT 21:8",
+    "verseText": "Umati mkubwa wa watu ukatandaza mavazi yao barabarani, na wengine wakakata matawi kutoka kwenye miti, wakayatandaza barabarani."
+  },
+  {
+    "verseNumber": "MAT 21:9",
+    "verseText": "Ule umati wa watu uliomtangulia na ule uliomfuata ukapiga kelele ukisema, \u201cHosana, Mwana wa Daudi!\u201d \u201cAmebarikiwa yeye ajaye kwa Jina la Bwana!\u201d \u201cHosana juu mbinguni!\u201d"
+  },
+  {
+    "verseNumber": "MAT 21:10",
+    "verseText": "Yesu alipoingia Yerusalemu, mji wote ukataharuki, watu wakauliza, \u201cHuyu ni nani?\u201d"
+  },
+  {
+    "verseNumber": "MAT 21:11",
+    "verseText": "Ule umati wa watu ukajibu, \u201cHuyu ni Yesu, yule nabii kutoka Nazareti katika Galilaya.\u201d"
+  },
+  {
+    "verseNumber": "MAT 21:12",
+    "verseText": "Yesu akaingia katika eneo la Hekalu na kuwafukuza wote waliokuwa wakinunua na kuuza vitu Hekaluni. Akazipindua meza za wale waliokuwa wakibadilisha fedha, na pia viti vya wale waliokuwa wakiuza njiwa."
+  },
+  {
+    "verseNumber": "MAT 21:13",
+    "verseText": "Akawaambia, \u201cImeandikwa, \u2018Nyumba yangu itaitwa nyumba ya sala,\u2019 lakini ninyi mmeifanya kuwa pango la wanyang\u02bcanyi.\u201d"
+  },
+  {
+    "verseNumber": "MAT 21:14",
+    "verseText": "Vipofu na vilema wakamwendea kule Hekaluni, naye akawaponya."
+  },
+  {
+    "verseNumber": "MAT 21:15",
+    "verseText": "Lakini viongozi wa makuhani na walimu wa sheria walipoona mambo ya ajabu aliyofanya na kuwasikia watoto wakishangilia katika eneo la Hekalu wakisema, \u201cHosana Mwana wa Daudi,\u201d walikasirika."
+  },
+  {
+    "verseNumber": "MAT 21:16",
+    "verseText": "Wakamuuliza Yesu, \u201cJe, unasikia hayo hawa wanayosema?\u201d Akawajibu, \u201cNaam; kwani hamkusoma, \u201c \u2018Midomoni mwa watoto wachanga na wanyonyao umeamuru sifa\u2019?\u201d"
+  },
+  {
+    "verseNumber": "MAT 21:17",
+    "verseText": "Akawaacha, akatoka nje ya mji, akaenda hadi Bethania, akalala huko."
+  },
+  {
+    "verseNumber": "MAT 21:18",
+    "verseText": "Asubuhi na mapema, Yesu alipokuwa akirudi mjini, alikuwa na njaa."
+  },
+  {
+    "verseNumber": "MAT 21:19",
+    "verseText": "Akauona mtini kando ya barabara, naye akaukaribia, lakini hakupata tunda lolote ila majani. Ndipo akauambia, \u201cWewe usizae matunda tena kamwe!\u201d Papo hapo ule mtini ukanyauka."
+  },
+  {
+    "verseNumber": "MAT 21:20",
+    "verseText": "Wanafunzi wake walipoona jambo hili, wakashangaa, wakamuuliza, \u201cImekuwaje mtini huu kunyauka ghafula?\u201d"
+  },
+  {
+    "verseNumber": "MAT 21:21",
+    "verseText": "Yesu akawajibu, \u201cAmin, nawaambia, kama mkiwa na imani wala msiwe na shaka, si kwamba mtaweza kufanya tu yale yaliyofanyika kwa huu mtini, bali hata mkiuambia huu mlima, \u2018Ng\u02bcoka, ukatupwe baharini,\u2019 litafanyika."
+  },
+  {
+    "verseNumber": "MAT 21:22",
+    "verseText": "Yoyote mtakayoyaomba mkisali na mkiamini, mtayapokea.\u201d"
+  },
+  {
+    "verseNumber": "MAT 21:23",
+    "verseText": "Yesu alipoingia Hekaluni, viongozi wa makuhani na wazee wa watu wakamjia alipokuwa anafundisha na kusema, \u201cUnafanya mambo haya kwa mamlaka gani? Na ni nani aliyekupa mamlaka hayo?\u201d"
+  },
+  {
+    "verseNumber": "MAT 21:24",
+    "verseText": "Yesu akawajibu, \u201cNami nitawauliza swali moja. Kama mkinijibu, nami nitawaambia ni kwa mamlaka gani ninafanya mambo haya."
+  },
+  {
+    "verseNumber": "MAT 21:25",
+    "verseText": "Ubatizo wa Yohana, ulitoka wapi? Je, ulitoka mbinguni au kwa wanadamu?\u201d Wakahojiana wao kwa wao na kusema, \u201cTukisema ulitoka mbinguni atatuuliza, \u2018Mbona basi hamkumwamini?\u2019"
+  },
+  {
+    "verseNumber": "MAT 21:26",
+    "verseText": "Lakini tukisema, \u2018Ulitoka kwa wanadamu,\u2019 tunawaogopa hawa watu, maana wote wanamtambua Yohana kuwa ni nabii.\u201d"
+  },
+  {
+    "verseNumber": "MAT 21:27",
+    "verseText": "Kwa hiyo wakamjibu Yesu, \u201cSisi hatujui.\u201d Naye akawaambia, \u201cWala mimi sitawaambia ni kwa mamlaka gani ninatenda mambo haya.\u201d"
+  },
+  {
+    "verseNumber": "MAT 21:28",
+    "verseText": "\u201cLakini mwaonaje? Mtu mmoja alikuwa na wana wawili. Akamwendea yule wa kwanza akamwambia, \u2018Mwanangu, nenda ukafanye kazi kwenye shamba la mizabibu leo.\u2019"
+  },
+  {
+    "verseNumber": "MAT 21:29",
+    "verseText": "\u201cYule mwanawe akamjibu \u2018Mimi sitakwenda.\u2019 Baadaye akabadili mawazo yake akaenda."
+  },
+  {
+    "verseNumber": "MAT 21:30",
+    "verseText": "\u201cKisha yule baba akamwendea yule mwanawe mwingine akamwambia vilevile. Yeye akajibu, \u2018Nitakwenda, bwana,\u2019 lakini hakwenda."
+  },
+  {
+    "verseNumber": "MAT 21:31",
+    "verseText": "\u201cNi yupi kati yao hao wawili aliyetimiza kile alichotaka baba yake?\u201d Wakamjibu, \u201cNi yule wa kwanza.\u201d Yesu akawaambia, \u201cAmin, amin nawaambia, watoza ushuru na makahaba wanawatangulia kuingia katika Ufalme wa Mungu."
+  },
+  {
+    "verseNumber": "MAT 21:32",
+    "verseText": "Kwa maana Yohana alikuja kwenu kuwaonyesha njia ya haki, lakini hamkumsadiki, lakini watoza ushuru na makahaba wakamsadiki. Nanyi hata mlipoona hayo, baadaye hamkutubu na kumsadiki."
+  },
+  {
+    "verseNumber": "MAT 21:33",
+    "verseText": "\u201cSikilizeni mfano mwingine: Kulikuwa na mtu mmoja mwenye shamba ambaye alipanda shamba la mizabibu. Akajenga ukuta kulizunguka, akatengeneza shinikizo ndani yake na akajenga mnara wa ulinzi. Kisha akalikodisha hilo shamba la mizabibu kwa wakulima fulani, naye akaondoka, akasafiri kwenda nchi nyingine."
+  },
+  {
+    "verseNumber": "MAT 21:34",
+    "verseText": "Wakati wa mavuno ulipokaribia, akawatuma watumishi wake kwa hao wapangaji ili kukusanya matunda yake."
+  },
+  {
+    "verseNumber": "MAT 21:35",
+    "verseText": "\u201cWale wapangaji wakawakamata wale watumishi, wakampiga mmoja, wakamuua mwingine, na yule wa tatu wakampiga mawe."
+  },
+  {
+    "verseNumber": "MAT 21:36",
+    "verseText": "Kisha akawatuma kwao watumishi wengine, wengi kuliko wale wa kwanza, nao wale wapangaji wakawatendea vilevile."
+  },
+  {
+    "verseNumber": "MAT 21:37",
+    "verseText": "Mwisho wa yote, akamtuma mwanawe kwao, akisema, \u2018Watamheshimu mwanangu.\u2019"
+  },
+  {
+    "verseNumber": "MAT 21:38",
+    "verseText": "\u201cLakini wale wapangaji walipomwona mwanawe, wakasemezana wao kwa wao, \u2018Huyu ndiye mrithi. Njooni tumuue, ili tuchukue urithi wake.\u2019"
+  },
+  {
+    "verseNumber": "MAT 21:39",
+    "verseText": "Hivyo wakamchukua, wakamtupa nje ya shamba la mizabibu, wakamuua."
+  },
+  {
+    "verseNumber": "MAT 21:40",
+    "verseText": "\u201cKwa hiyo, huyo mwenye shamba la mizabibu atakapokuja, atawafanyia nini hao wakulima?\u201d"
+  },
+  {
+    "verseNumber": "MAT 21:41",
+    "verseText": "Wakamjibu, \u201cKwa huzuni kuu atawaangamiza kabisa hao wadhalimu na kulipangisha shamba lake la mizabibu kwa wakulima wengine ambao watampatia fungu lake la matunda wakati wa mavuno.\u201d"
+  },
+  {
+    "verseNumber": "MAT 21:42",
+    "verseText": "Yesu akawaambia, \u201cJe, hamjasoma katika Maandiko kwamba: \u201c \u2018Jiwe walilolikataa waashi limekuwa jiwe kuu la pembeni. Bwana ndiye alitenda jambo hili, nalo ni la ajabu machoni petu\u2019?"
+  },
+  {
+    "verseNumber": "MAT 21:43",
+    "verseText": "\u201cKwa hiyo ninawaambia, Ufalme wa Mungu utaondolewa kwenu na kupewa watu wengine wawezao kuzaa matunda yake."
+  },
+  {
+    "verseNumber": "MAT 21:44",
+    "verseText": "Yeye aangukaye juu ya jiwe hili atavunjika vipande vipande, lakini yule litakayemwangukia atasagwa kabisa.\u201d"
+  },
+  {
+    "verseNumber": "MAT 21:45",
+    "verseText": "Viongozi wa Makuhani na Mafarisayo waliposikia mifano ya Yesu, walitambua kuwa alikuwa akiwasema wao."
+  },
+  {
+    "verseNumber": "MAT 21:46",
+    "verseText": "Wakatafuta njia ya kumkamata, lakini wakaogopa umati wa watu, kwa kuwa watu walimwona Yesu kuwa ni nabii."
+  },
+  {
+    "verseNumber": "MAT 22:1",
+    "verseText": "Yesu akasema nao tena kwa mifano, akawaambia,"
+  },
+  {
+    "verseNumber": "MAT 22:2",
+    "verseText": "\u201cUfalme wa Mbinguni unaweza kufananishwa na mfalme mmoja aliyemwandalia mwanawe karamu ya arusi."
+  },
+  {
+    "verseNumber": "MAT 22:3",
+    "verseText": "Akawatuma watumishi wake kuwaita wale waliokuwa wamealikwa karamuni, lakini wakakataa kuja."
+  },
+  {
+    "verseNumber": "MAT 22:4",
+    "verseText": "\u201cKisha akawatuma watumishi wengine akisema, \u2018Waambieni wale walioalikwa kwamba nimeandaa chakula. Nimekwisha kuchinja mafahali wangu na vinono, karamu iko tayari. Karibuni kwa karamu ya arusi.\u2019"
+  },
+  {
+    "verseNumber": "MAT 22:5",
+    "verseText": "\u201cLakini hawakuzingatia, wakaenda zao: huyu shambani mwake na mwingine kwenye biashara zake."
+  },
+  {
+    "verseNumber": "MAT 22:6",
+    "verseText": "Wengine wao wakawakamata wale watumishi wake, wakawatesa na kuwaua."
+  },
+  {
+    "verseNumber": "MAT 22:7",
+    "verseText": "Yule mfalme akakasirika sana, akapeleka jeshi lake likawaangamiza wale wauaji na kuuteketeza mji wao kwa moto."
+  },
+  {
+    "verseNumber": "MAT 22:8",
+    "verseText": "\u201cKisha akawaambia watumishi wake, \u2018Karamu ya arusi imeshakuwa tayari, lakini wale niliowaalika hawakustahili kuja."
+  },
+  {
+    "verseNumber": "MAT 22:9",
+    "verseText": "Kwa hiyo nendeni katika njia panda mkamwalike karamuni yeyote mtakayemwona.\u2019"
+  },
+  {
+    "verseNumber": "MAT 22:10",
+    "verseText": "Wale watumishi wakaenda barabarani, wakawakusanya watu wote waliowaona, wema na wabaya. Ukumbi wa arusi ukajaa wageni."
+  },
+  {
+    "verseNumber": "MAT 22:11",
+    "verseText": "\u201cLakini mfalme alipoingia ndani ili kuwaona wageni, akamwona mle mtu mmoja ambaye hakuwa amevaa vazi la arusi."
+  },
+  {
+    "verseNumber": "MAT 22:12",
+    "verseText": "Mfalme akamuuliza, \u2018Rafiki, uliingiaje humu bila vazi la arusi?\u2019 Yule mtu hakuwa na la kusema."
+  },
+  {
+    "verseNumber": "MAT 22:13",
+    "verseText": "\u201cNdipo mfalme akawaambia watumishi wake, \u2018Mfungeni mikono na miguu mkamtupe nje, kwenye giza. Huko kutakuwa na kilio na kusaga meno.\u2019"
+  },
+  {
+    "verseNumber": "MAT 22:14",
+    "verseText": "\u201cKwa maana walioitwa ni wengi, lakini walioteuliwa ni wachache.\u201d"
+  },
+  {
+    "verseNumber": "MAT 22:15",
+    "verseText": "Ndipo Mafarisayo wakatoka nje wakaandaa mpango wa kumtega Yesu katika maneno yake."
+  },
+  {
+    "verseNumber": "MAT 22:16",
+    "verseText": "Wakatuma wanafunzi wao kwake pamoja na Maherode. Nao wakasema, \u201cMwalimu, tunajua kwamba wewe ni mtu mwadilifu na unafundisha njia ya Mungu katika kweli bila kuyumbishwa na mtu wala kuonyesha upendeleo."
+  },
+  {
+    "verseNumber": "MAT 22:17",
+    "verseText": "Tuambie basi, wewe unaonaje? Je, ni halali kulipa kodi kwa Kaisari, au la?\u201d"
+  },
+  {
+    "verseNumber": "MAT 22:18",
+    "verseText": "Lakini Yesu, akijua makusudi yao mabaya, akawaambia, \u201cEnyi wanafiki, kwa nini mnajaribu kunitega?"
+  },
+  {
+    "verseNumber": "MAT 22:19",
+    "verseText": "Nionyesheni hiyo sarafu inayotumika kwa kulipia kodi.\u201d Wakamletea dinari."
+  },
+  {
+    "verseNumber": "MAT 22:20",
+    "verseText": "Naye akawauliza, \u201cSura hii ni ya nani? Na maandishi haya ni ya nani?\u201d"
+  },
+  {
+    "verseNumber": "MAT 22:21",
+    "verseText": "Wakamjibu, \u201cNi vya Kaisari.\u201d Basi Yesu akawaambia, \u201cMpeni Kaisari kilicho cha Kaisari, naye Mungu mpeni kilicho cha Mungu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 22:22",
+    "verseText": "Waliposikia hili, wakashangaa. Hivyo wakamwacha, wakaenda zao."
+  },
+  {
+    "verseNumber": "MAT 22:23",
+    "verseText": "Siku hiyo hiyo Masadukayo, wale wasemao kwamba hakuna ufufuo wa wafu, wakamjia Yesu na kumuuliza swali, wakisema,"
+  },
+  {
+    "verseNumber": "MAT 22:24",
+    "verseText": "\u201cMwalimu, Mose alisema, \u2018Kama mtu akifa bila kuwa na watoto, ndugu yake inampasa amwoe huyo mjane ili ampatie watoto huyo nduguye aliyekufa.\u2019"
+  },
+  {
+    "verseNumber": "MAT 22:25",
+    "verseText": "Basi palikuwa na ndugu saba miongoni mwetu. Yule wa kwanza akaoa mke, naye akafa, na kwa kuwa hakuwa na watoto, akamwachia nduguye yule mjane."
+  },
+  {
+    "verseNumber": "MAT 22:26",
+    "verseText": "Ikatokea vivyo hivyo kwa yule ndugu wa pili, na wa tatu, hadi wote saba."
+  },
+  {
+    "verseNumber": "MAT 22:27",
+    "verseText": "Hatimaye, yule mwanamke naye akafa."
+  },
+  {
+    "verseNumber": "MAT 22:28",
+    "verseText": "Sasa basi, siku ya ufufuo, yeye atakuwa mke wa nani miongoni mwa wale ndugu saba, kwa kuwa wote walikuwa wamemwoa huyo mwanamke?\u201d"
+  },
+  {
+    "verseNumber": "MAT 22:29",
+    "verseText": "Yesu akawajibu, \u201cMwapotoka kwa sababu hamjui Maandiko wala uweza wa Mungu."
+  },
+  {
+    "verseNumber": "MAT 22:30",
+    "verseText": "Wakati wa ufufuo, watu hawataoa wala kuolewa, bali watakuwa kama malaika wa mbinguni."
+  },
+  {
+    "verseNumber": "MAT 22:31",
+    "verseText": "Lakini kuhusu ufufuo wa wafu, hamjasoma kile Mungu alichowaambia, kwamba,"
+  },
+  {
+    "verseNumber": "MAT 22:32",
+    "verseText": "\u2018Mimi ni Mungu wa Abrahamu, Mungu wa Isaki, na Mungu wa Yakobo\u2019? Yeye si Mungu wa wafu, bali ni Mungu wa walio hai.\u201d"
+  },
+  {
+    "verseNumber": "MAT 22:33",
+    "verseText": "Ule umati wa watu uliposikia hayo, ulishangaa sana kwa mafundisho yake."
+  },
+  {
+    "verseNumber": "MAT 22:34",
+    "verseText": "Mafarisayo waliposikia kwamba Yesu alikuwa amewanyamazisha Masadukayo, Mafarisayo wakakusanyika pamoja."
+  },
+  {
+    "verseNumber": "MAT 22:35",
+    "verseText": "Mmoja wao, mtaalamu wa sheria, akamuuliza swali ili kumjaribu, akisema,"
+  },
+  {
+    "verseNumber": "MAT 22:36",
+    "verseText": "\u201cMwalimu, ni amri ipi katika Sheria iliyo kuu kuliko zote?\u201d"
+  },
+  {
+    "verseNumber": "MAT 22:37",
+    "verseText": "Yesu akamjibu, \u201c \u2018Mpende Bwana Mungu wako kwa moyo wako wote na kwa roho yako yote na kwa akili zako zote.\u2019"
+  },
+  {
+    "verseNumber": "MAT 22:38",
+    "verseText": "Hii ndiyo amri iliyo kuu, tena ni ya kwanza."
+  },
+  {
+    "verseNumber": "MAT 22:39",
+    "verseText": "Nayo ya pili ni kama hiyo, nayo ni hii: \u2018Mpende jirani yako kama nafsi yako.\u2019"
+  },
+  {
+    "verseNumber": "MAT 22:40",
+    "verseText": "Amri hizi mbili ndizo msingi wa Sheria na Manabii.\u201d"
+  },
+  {
+    "verseNumber": "MAT 22:41",
+    "verseText": "Wakati Mafarisayo walikuwa wamekusanyika pamoja, Yesu akawauliza,"
+  },
+  {
+    "verseNumber": "MAT 22:42",
+    "verseText": "\u201cMnaonaje kuhusu Kristo? Yeye ni mwana wa nani?\u201d Wakamjibu, \u201cYeye ni mwana wa Daudi.\u201d"
+  },
+  {
+    "verseNumber": "MAT 22:43",
+    "verseText": "Akawaambia, \u201cInakuwaje basi kwamba Daudi, akinena kwa kuongozwa na Roho, anamwita Kristo \u2018Bwana\u2019? Kwa maana asema,"
+  },
+  {
+    "verseNumber": "MAT 22:44",
+    "verseText": "\u201c \u2018BWANA alimwambia BWANA wangu: \u201cKeti mkono wangu wa kuume, hadi nitakapowaweka adui zako chini ya miguu yako.\u201d \u2019"
+  },
+  {
+    "verseNumber": "MAT 22:45",
+    "verseText": "Kama basi Daudi anamwita yeye \u2018Bwana,\u2019 awezaje kuwa mwanawe?\u201d"
+  },
+  {
+    "verseNumber": "MAT 22:46",
+    "verseText": "Hakuna mtu aliyeweza kumjibu Yesu neno. Tena tangu siku hiyo hakuna aliyethubutu kumuuliza tena maswali."
+  },
+  {
+    "verseNumber": "MAT 23:1",
+    "verseText": "Kisha Yesu akauambia umati wa watu pamoja na wanafunzi wake:"
+  },
+  {
+    "verseNumber": "MAT 23:2",
+    "verseText": "\u201cWalimu wa sheria na Mafarisayo wameketi katika kiti cha Mose,"
+  },
+  {
+    "verseNumber": "MAT 23:3",
+    "verseText": "hivyo inawapasa kuwatii na kufanya kila kitu wanachowaambia. Lakini msifuate yale wanayotenda, kwa sababu hawatendi yale wanayohubiri."
+  },
+  {
+    "verseNumber": "MAT 23:4",
+    "verseText": "Wao hufunga mizigo mikubwa na kuiweka mabegani mwa watu, lakini wao wenyewe hawako radhi hata kuinua kidole ili kuisogeza."
+  },
+  {
+    "verseNumber": "MAT 23:5",
+    "verseText": "\u201cWao hutenda mambo yao yote ili waonekane na watu. Hupanua vikasha vyao vyenye maandiko ya sheria na kurefusha matamvua ya mavazi yao."
+  },
+  {
+    "verseNumber": "MAT 23:6",
+    "verseText": "Wanapenda kukalia viti vya heshima katika karamu, na vile viti maalum sana katika masinagogi."
+  },
+  {
+    "verseNumber": "MAT 23:7",
+    "verseText": "Hupenda kusalimiwa masokoni na kutaka watu wawaite \u2018Rabi.\u2019"
+  },
+  {
+    "verseNumber": "MAT 23:8",
+    "verseText": "\u201cLakini ninyi msiitwe \u2018Rabi,\u2019 kwa sababu mnaye Bwana mmoja na ninyi nyote ni ndugu."
+  },
+  {
+    "verseNumber": "MAT 23:9",
+    "verseText": "Nanyi msimwite mtu yeyote \u2018Baba,\u2019 hapa duniani, kwa maana mnaye Baba mmoja, naye yuko mbinguni."
+  },
+  {
+    "verseNumber": "MAT 23:10",
+    "verseText": "Wala msiitwe \u2018Mwalimu,\u2019 kwa maana mnaye mwalimu mmoja tu, ndiye Kristo."
+  },
+  {
+    "verseNumber": "MAT 23:11",
+    "verseText": "Yeye aliye mkuu kuliko ninyi nyote miongoni mwenu atakuwa mtumishi wenu."
+  },
+  {
+    "verseNumber": "MAT 23:12",
+    "verseText": "Kwa kuwa yeyote anayejikweza atashushwa, na yeyote anayejinyenyekeza atakwezwa."
+  },
+  {
+    "verseNumber": "MAT 23:13",
+    "verseText": "\u201cLakini ole wenu, walimu wa sheria na Mafarisayo, enyi wanafiki! Kwa maana mnawafungia watu milango ya Ufalme wa Mbinguni. Ninyi wenyewe hamuingii humo, nao wale wanaotaka kuingia mnawazuia. ["
+  },
+  {
+    "verseNumber": "MAT 23:14",
+    "verseText": "Ole wenu walimu wa sheria na Mafarisayo, enyi wanafiki! Mnakula katika nyumba za wajane, nanyi kwa kujifanya kuwa wema, mnasali sala ndefu. Kwa hiyo hukumu yenu itakuwa kuu zaidi.]"
+  },
+  {
+    "verseNumber": "MAT 23:15",
+    "verseText": "\u201cOle wenu walimu wa sheria na Mafarisayo, enyi wanafiki! Ninyi mnasafiri baharini na nchi kavu ili kumfanya mtu mmoja mwongofu, lakini baada ya kumpata, mnamfanya mwana wa jehanamu mara mbili kuliko ninyi!"
+  },
+  {
+    "verseNumber": "MAT 23:16",
+    "verseText": "\u201cOle wenu, viongozi vipofu! Ninyi mwasema, \u2018Mtu akiapa kwa Hekalu, kiapo hicho si kitu; lakini mtu akiapa kwa dhahabu ya Hekalu, amefungwa kwa kiapo chake.\u2019"
+  },
+  {
+    "verseNumber": "MAT 23:17",
+    "verseText": "Ninyi vipofu wapumbavu! Ni kipi kilicho kikuu zaidi: ni ile dhahabu, au ni lile Hekalu linaloifanya hiyo dhahabu kuwa takatifu?"
+  },
+  {
+    "verseNumber": "MAT 23:18",
+    "verseText": "Pia mnasema, \u2018Mtu akiapa kwa madhabahu, si kitu; lakini mtu akiapa kwa sadaka iliyo juu ya madhabahu, amefungwa kwa kiapo chake\u2019"
+  },
+  {
+    "verseNumber": "MAT 23:19",
+    "verseText": "Ninyi vipofu! Ni kipi kikuu zaidi: ni sadaka, au ni madhabahu yanayoifanya hiyo sadaka kuwa takatifu?"
+  },
+  {
+    "verseNumber": "MAT 23:20",
+    "verseText": "Kwa hiyo, mtu aapaye kwa madhabahu, huapa kwa hayo madhabahu na vitu vyote vilivyo juu yake."
+  },
+  {
+    "verseNumber": "MAT 23:21",
+    "verseText": "Naye mtu aapaye kwa Hekalu, huapa kwa hilo Hekalu na kwa huyo akaaye ndani yake."
+  },
+  {
+    "verseNumber": "MAT 23:22",
+    "verseText": "Naye aapaye kwa mbingu, huapa kwa kiti cha enzi cha Mungu na kwa yeye aketiye juu ya kiti hicho."
+  },
+  {
+    "verseNumber": "MAT 23:23",
+    "verseText": "\u201cOle wenu walimu wa sheria na Mafarisayo, ninyi wanafiki! Kwa maana mnatoa zaka ya mnanaa, bizari na jira, lakini mmeacha mambo makuu zaidi ya sheria, yaani haki, huruma na uaminifu. Iliwapasa kufanya haya makuu ya sheria bila kupuuza hayo matoleo."
+  },
+  {
+    "verseNumber": "MAT 23:24",
+    "verseText": "Ninyi viongozi vipofu, mnachuja kiroboto lakini mnameza ngamia!"
+  },
+  {
+    "verseNumber": "MAT 23:25",
+    "verseText": "\u201cOle wenu, walimu wa sheria na Mafarisayo, ninyi wanafiki! Kwa maana mnasafisha kikombe na sahani kwa nje, lakini ndani mmejaa unyang\u02bcanyi na kutokuwa na kiasi."
+  },
+  {
+    "verseNumber": "MAT 23:26",
+    "verseText": "Ewe Farisayo kipofu! Safisha ndani ya kikombe na sahani kwanza, ndipo nje itakuwa safi pia."
+  },
+  {
+    "verseNumber": "MAT 23:27",
+    "verseText": "\u201cOle wenu, walimu wa sheria na Mafarisayo, ninyi wanafiki! Mnafanana na makaburi yaliyopakwa chokaa, ambayo yanapendeza kwa nje, lakini ndani yamejaa mifupa ya wafu na kila aina ya uchafu."
+  },
+  {
+    "verseNumber": "MAT 23:28",
+    "verseText": "Vivyo hivyo, kwa nje ninyi mnaonekana kwa watu kuwa wenye haki, lakini kwa ndani mmejaa unafiki na uovu."
+  },
+  {
+    "verseNumber": "MAT 23:29",
+    "verseText": "\u201cOle wenu, walimu wa sheria na Mafarisayo, ninyi wanafiki! Mnajenga makaburi ya manabii na kuyapamba makaburi ya wenye haki."
+  },
+  {
+    "verseNumber": "MAT 23:30",
+    "verseText": "Nanyi mwasema, \u2018Kama tungaliishi wakati wa baba zetu, tusingalikuwa tumeshiriki katika kumwaga damu ya manabii!\u2019"
+  },
+  {
+    "verseNumber": "MAT 23:31",
+    "verseText": "Hivyo mnajishuhudia wenyewe kwamba ninyi ni wana wa wale waliowaua manabii."
+  },
+  {
+    "verseNumber": "MAT 23:32",
+    "verseText": "Haya basi, kijazeni kipimo cha dhambi ya baba zenu!"
+  },
+  {
+    "verseNumber": "MAT 23:33",
+    "verseText": "\u201cNinyi nyoka, ninyi uzao wa nyoka wenye sumu! Mtaiepukaje hukumu ya jehanamu?"
+  },
+  {
+    "verseNumber": "MAT 23:34",
+    "verseText": "Kwa sababu hii, tazameni, natuma kwenu manabii na wenye hekima na walimu. Baadhi yao mtawaua na kuwasulubisha, na wengine wao mtawapiga mijeledi katika masinagogi yenu na kuwafuatia kutoka mji mmoja hadi mji mwingine."
+  },
+  {
+    "verseNumber": "MAT 23:35",
+    "verseText": "Hivyo ile damu ya wenye haki wote iliyomwagwa hapa duniani, tangu damu ya Abeli, ambaye alikuwa hana hatia, hadi damu ya Zekaria mwana wa Barakia, mliyemuua kati ya patakatifu na madhabahu, itawajia juu yenu."
+  },
+  {
+    "verseNumber": "MAT 23:36",
+    "verseText": "Amin, nawaambia, haya yote yatakuja juu ya kizazi hiki."
+  },
+  {
+    "verseNumber": "MAT 23:37",
+    "verseText": "\u201cEe Yerusalemu, Yerusalemu, uwauaye manabii na kuwapiga mawe wale waliotumwa kwako! Mara ngapi nimetamani kuwakusanya watoto wako pamoja, kama vile kuku akusanyavyo vifaranga wake chini ya mabawa yake, lakini hukutaka!"
+  },
+  {
+    "verseNumber": "MAT 23:38",
+    "verseText": "Tazama nyumba yenu imeachwa ukiwa."
+  },
+  {
+    "verseNumber": "MAT 23:39",
+    "verseText": "Kwa maana nawaambia, hamtaniona tena tangu sasa mpaka mtakaposema, \u2018Amebarikiwa yeye ajaye kwa Jina la Bwana.\u2019 \u201d"
+  },
+  {
+    "verseNumber": "MAT 24:1",
+    "verseText": "Yesu akatoka Hekaluni na alipokuwa akienda zake, wanafunzi wake wakamwendea ili kumwonyesha majengo ya Hekalu."
+  },
+  {
+    "verseNumber": "MAT 24:2",
+    "verseText": "Ndipo Yesu akawauliza, \u201cJe, mnayaona haya yote? Amin, nawaambia, hakuna hata jiwe moja hapa litakalobaki juu ya jingine, bali kila moja litabomolewa.\u201d"
+  },
+  {
+    "verseNumber": "MAT 24:3",
+    "verseText": "Yesu alipokuwa ameketi kwenye Mlima wa Mizeituni, wanafunzi wake wakamjia faraghani, wakamuuliza, \u201cTuambie, mambo haya yatatukia lini, nayo dalili ya kuja kwako na ya mwisho wa dunia ni gani?\u201d"
+  },
+  {
+    "verseNumber": "MAT 24:4",
+    "verseText": "Yesu akawajibu, \u201cJihadharini, mtu yeyote asiwadanganye."
+  },
+  {
+    "verseNumber": "MAT 24:5",
+    "verseText": "Kwa maana wengi watakuja kwa Jina langu, wakidai, \u2018Mimi ndiye Kristo,\u2019 nao watawadanganya wengi."
+  },
+  {
+    "verseNumber": "MAT 24:6",
+    "verseText": "Mtasikia habari za vita na matetesi ya vita. Angalieni msitishike, kwa maana haya hayana budi kutukia. Lakini ule mwisho bado."
+  },
+  {
+    "verseNumber": "MAT 24:7",
+    "verseText": "Taifa litainuka dhidi ya taifa, na ufalme dhidi ya ufalme. Kutakuwa na njaa na mitetemeko ya ardhi sehemu mbalimbali."
+  },
+  {
+    "verseNumber": "MAT 24:8",
+    "verseText": "Haya yote yatakuwa ndio mwanzo wa utungu."
+  },
+  {
+    "verseNumber": "MAT 24:9",
+    "verseText": "\u201cNdipo mtasalitiwa, ili mteswe na kuuawa, nanyi mtachukiwa na mataifa yote kwa ajili yangu."
+  },
+  {
+    "verseNumber": "MAT 24:10",
+    "verseText": "Wakati huo, wengi wataacha imani yao, nao watasalitiana kila mmoja na mwenzake na kuchukiana."
+  },
+  {
+    "verseNumber": "MAT 24:11",
+    "verseText": "Watatokea manabii wengi wa uongo, nao watawadanganya watu wengi."
+  },
+  {
+    "verseNumber": "MAT 24:12",
+    "verseText": "Kwa sababu ya kuongezeka kwa uovu upendo wa watu wengi utapoa,"
+  },
+  {
+    "verseNumber": "MAT 24:13",
+    "verseText": "lakini yule atakayevumilia hadi mwisho ataokolewa."
+  },
+  {
+    "verseNumber": "MAT 24:14",
+    "verseText": "Injili ya Ufalme itahubiriwa ulimwenguni kote kuwa ushuhuda kwa mataifa yote. Ndipo mwisho utakapokuja."
+  },
+  {
+    "verseNumber": "MAT 24:15",
+    "verseText": "\u201cHivyo mtakapoona lile \u2018chukizo la uharibifu\u2019 lililonenwa na nabii Danieli limesimama mahali patakatifu (asomaye na afahamu),"
+  },
+  {
+    "verseNumber": "MAT 24:16",
+    "verseText": "basi wale walioko Uyahudi wakimbilie milimani."
+  },
+  {
+    "verseNumber": "MAT 24:17",
+    "verseText": "Yeyote aliye juu ya dari ya nyumba asishuke ili kuchukua chochote kutoka ndani ya nyumba."
+  },
+  {
+    "verseNumber": "MAT 24:18",
+    "verseText": "Aliye shambani asirudi nyumbani kuchukua vazi lake."
+  },
+  {
+    "verseNumber": "MAT 24:19",
+    "verseText": "Ole wao wenye mimba na wale wanaonyonyesha watoto siku hizo!"
+  },
+  {
+    "verseNumber": "MAT 24:20",
+    "verseText": "Ombeni ili kukimbia kwenu kusiwe wakati wa baridi au siku ya Sabato."
+  },
+  {
+    "verseNumber": "MAT 24:21",
+    "verseText": "Kwa maana wakati huo kutakuwa na dhiki kuu ambayo haijapata kuwako tangu mwanzo wa dunia mpaka sasa: wala haitakuwako tena kamwe."
+  },
+  {
+    "verseNumber": "MAT 24:22",
+    "verseText": "Kama siku hizo zisingefupishwa, hakuna hata mtu mmoja ambaye angeokoka. Lakini kwa ajili ya wateule, siku hizo zitafupizwa."
+  },
+  {
+    "verseNumber": "MAT 24:23",
+    "verseText": "Wakati huo kama mtu yeyote akiwaambia, \u2018Tazama, Kristo huyu hapa!\u2019 Au, \u2018Kristo yuko kule,\u2019 msisadiki."
+  },
+  {
+    "verseNumber": "MAT 24:24",
+    "verseText": "Kwa maana watatokea makristo wa uongo na manabii wa uongo, nao watafanya ishara kubwa na maajabu mengi ili kuwapotosha, ikiwezekana, hata wale wateule hasa."
+  },
+  {
+    "verseNumber": "MAT 24:25",
+    "verseText": "Angalieni, nimekwisha kuwaambia mapema."
+  },
+  {
+    "verseNumber": "MAT 24:26",
+    "verseText": "\u201cKwa hiyo mtu yeyote akiwaambia, \u2018Yule kule nyikani,\u2019 msiende huko. Au akisema, \u2018Yuko kwenye chumba,\u2019 msisadiki."
+  },
+  {
+    "verseNumber": "MAT 24:27",
+    "verseText": "Kwa maana kama vile umeme utokeavyo mashariki na kuonekana hata magharibi, ndivyo itakavyokuwa kuja kwake Mwana wa Adamu."
+  },
+  {
+    "verseNumber": "MAT 24:28",
+    "verseText": "Kwa maana popote ulipo mzoga, huko ndiko wakusanyikapo tai."
+  },
+  {
+    "verseNumber": "MAT 24:29",
+    "verseText": "\u201cMara baada ya dhiki ya siku zile, \u201c \u2018jua litatiwa giza, nao mwezi hautatoa nuru yake; nazo nyota zitaanguka kutoka angani, na nguvu za anga zitatikisika.\u2019"
+  },
+  {
+    "verseNumber": "MAT 24:30",
+    "verseText": "\u201cNdipo itakapotokea ishara ya Mwana wa Adamu angani, na makabila yote ya dunia yataomboleza. Nao watamwona Mwana wa Adamu akija juu ya mawingu ya angani, katika uwezo na utukufu mkuu."
+  },
+  {
+    "verseNumber": "MAT 24:31",
+    "verseText": "Naye atawatuma malaika zake kwa sauti kuu ya tarumbeta, nao watawakusanya wateule wake kutoka pande zote nne za dunia, kutoka mwisho mmoja wa mbingu hadi mwisho mwingine."
+  },
+  {
+    "verseNumber": "MAT 24:32",
+    "verseText": "\u201cBasi jifunzeni somo hili kutokana na mtini: Matawi yake yanapoanza kuchipua na kutoa majani, mnatambua kwamba wakati wa kiangazi umekaribia."
+  },
+  {
+    "verseNumber": "MAT 24:33",
+    "verseText": "Vivyo hivyo, myaonapo mambo haya yote, mnatambua kwamba wakati u karibu, hata malangoni."
+  },
+  {
+    "verseNumber": "MAT 24:34",
+    "verseText": "Amin, nawaambia, kizazi hiki hakitapita hadi mambo haya yote yawe yametimia."
+  },
+  {
+    "verseNumber": "MAT 24:35",
+    "verseText": "Mbingu na nchi zitapita, lakini maneno yangu hayatapita kamwe."
+  },
+  {
+    "verseNumber": "MAT 24:36",
+    "verseText": "\u201cKwa habari ya siku ile na saa, hakuna ajuaye, hata malaika walio mbinguni wala Mwana, ila Baba peke yake."
+  },
+  {
+    "verseNumber": "MAT 24:37",
+    "verseText": "Kama ilivyokuwa wakati wa Noa, ndivyo itakavyokuwa kuja kwake Mwana wa Adamu."
+  },
+  {
+    "verseNumber": "MAT 24:38",
+    "verseText": "Kwa maana siku zile kabla ya gharika, watu walikuwa wakila na kunywa, wakioa na kuolewa, mpaka siku ile Noa alipoingia katika safina."
+  },
+  {
+    "verseNumber": "MAT 24:39",
+    "verseText": "Nao hawakujua lolote mpaka gharika ilipokuja ikawakumba wote. Hivyo ndivyo itakavyokuwa atakapokuja Mwana wa Adamu."
+  },
+  {
+    "verseNumber": "MAT 24:40",
+    "verseText": "Watu wawili watakuwa shambani, naye mmoja atatwaliwa na mwingine ataachwa."
+  },
+  {
+    "verseNumber": "MAT 24:41",
+    "verseText": "Wanawake wawili watakuwa wanasaga pamoja, naye mmoja atatwaliwa na mwingine ataachwa."
+  },
+  {
+    "verseNumber": "MAT 24:42",
+    "verseText": "\u201cBasi kesheni, kwa sababu hamjui ni siku gani atakapokuja Bwana wenu."
+  },
+  {
+    "verseNumber": "MAT 24:43",
+    "verseText": "Lakini fahamuni jambo hili: Kama mwenye nyumba angejua ni wakati gani wa usiku ambao mwizi atakuja, angekesha na hangekubali nyumba yake kuvunjwa."
+  },
+  {
+    "verseNumber": "MAT 24:44",
+    "verseText": "Kwa hiyo ninyi pia hamna budi kuwa tayari, kwa sababu Mwana wa Adamu atakuja saa msiyotazamia."
+  },
+  {
+    "verseNumber": "MAT 24:45",
+    "verseText": "\u201cNi nani basi aliye mtumishi mwaminifu na mwenye busara, ambaye bwana wake amemweka kusimamia watumishi wengine katika nyumba yake, ili awape chakula chao kwa wakati unaofaa?"
+  },
+  {
+    "verseNumber": "MAT 24:46",
+    "verseText": "Heri mtumishi yule ambaye bwana wake atakaporudi atamkuta akifanya hivyo."
+  },
+  {
+    "verseNumber": "MAT 24:47",
+    "verseText": "Amin, nawaambia, atamweka mtumishi huyo kuwa msimamizi wa mali yake yote."
+  },
+  {
+    "verseNumber": "MAT 24:48",
+    "verseText": "Lakini kama huyo mtumishi ni mwovu, naye akasema moyoni mwake, \u2018Bwana wangu atakawia muda mrefu,\u2019"
+  },
+  {
+    "verseNumber": "MAT 24:49",
+    "verseText": "kisha akaanza kuwapiga watumishi wenzake, na kula na kunywa pamoja na walevi."
+  },
+  {
+    "verseNumber": "MAT 24:50",
+    "verseText": "Basi bwana wa mtumishi huyo atakuja siku asiyodhani na saa asiyoijua."
+  },
+  {
+    "verseNumber": "MAT 24:51",
+    "verseText": "Atamkata vipande vipande na kumweka katika sehemu moja pamoja na wanafiki, mahali ambako kutakuwa ni kulia na kusaga meno."
+  },
+  {
+    "verseNumber": "MAT 25:1",
+    "verseText": "\u201cWakati huo, Ufalme wa Mbinguni utakuwa kama wanawali kumi waliochukua taa zao na kwenda kumlaki bwana arusi."
+  },
+  {
+    "verseNumber": "MAT 25:2",
+    "verseText": "Watano wao walikuwa wapumbavu na watano walikuwa wenye busara."
+  },
+  {
+    "verseNumber": "MAT 25:3",
+    "verseText": "Wale wapumbavu walichukua taa zao lakini hawakuchukua mafuta ya akiba,"
+  },
+  {
+    "verseNumber": "MAT 25:4",
+    "verseText": "lakini wale wenye busara walichukua taa zao na mafuta ya akiba kwenye vyombo."
+  },
+  {
+    "verseNumber": "MAT 25:5",
+    "verseText": "Bwana arusi alipokawia kuja wale wanawali wote wakasinzia na kulala."
+  },
+  {
+    "verseNumber": "MAT 25:6",
+    "verseText": "\u201cUsiku wa manane pakawa na kelele: \u2018Tazameni, huyu hapa bwana arusi! Tokeni nje mkamlaki!\u2019"
+  },
+  {
+    "verseNumber": "MAT 25:7",
+    "verseText": "\u201cNdipo wale wanawali wote wakaamka na kuzitengeneza taa zao."
+  },
+  {
+    "verseNumber": "MAT 25:8",
+    "verseText": "Wale wapumbavu wakawaambia wale wenye busara, \u2018Tupatieni mafuta yenu kidogo; taa zetu zinazimika.\u2019"
+  },
+  {
+    "verseNumber": "MAT 25:9",
+    "verseText": "\u201cLakini wale wenye busara wakawajibu, \u2018Sivyo, hayatutoshi sisi na ninyi pia. Afadhali mwende kwa wauzao mkajinunulie mafuta yenu.\u2019"
+  },
+  {
+    "verseNumber": "MAT 25:10",
+    "verseText": "\u201cNao walipokuwa wakienda kununua mafuta, bwana arusi akafika. Wale wanawali waliokuwa tayari wakaingia ndani pamoja naye kwenye karamu ya arusi na mlango ukafungwa."
+  },
+  {
+    "verseNumber": "MAT 25:11",
+    "verseText": "\u201cBaadaye wale wanawali wengine nao wakaja, wakaita, \u2018Bwana! Bwana! Tufungulie mlango!\u2019"
+  },
+  {
+    "verseNumber": "MAT 25:12",
+    "verseText": "\u201cLakini yeye bwana arusi akawajibu, \u2018Amin, amin nawaambia, siwajui ninyi!\u2019"
+  },
+  {
+    "verseNumber": "MAT 25:13",
+    "verseText": "\u201cKwa hiyo kesheni, kwa sababu hamjui siku wala saa."
+  },
+  {
+    "verseNumber": "MAT 25:14",
+    "verseText": "\u201cTena, Ufalme wa Mbinguni ni kama mtu aliyetaka kusafiri, naye akawaita watumishi wake na kuweka mali yake kwenye uangalizi wao."
+  },
+  {
+    "verseNumber": "MAT 25:15",
+    "verseText": "Mmoja akampa talanta tano, mwingine talanta mbili, na mwingine talanta moja. Kila mmoja alipewa kwa kadiri ya uwezo wake. Kisha yeye akasafiri."
+  },
+  {
+    "verseNumber": "MAT 25:16",
+    "verseText": "Yule aliyepewa talanta tano akaenda mara moja akafanya nazo biashara akapata talanta nyingine tano zaidi."
+  },
+  {
+    "verseNumber": "MAT 25:17",
+    "verseText": "Yule aliyepewa talanta mbili akafanya vivyo hivyo, akapata nyingine mbili zaidi."
+  },
+  {
+    "verseNumber": "MAT 25:18",
+    "verseText": "Lakini yule mtumishi aliyekuwa amepokea talanta moja, alikwenda akachimba shimo ardhini na kuificha ile fedha ya bwana wake."
+  },
+  {
+    "verseNumber": "MAT 25:19",
+    "verseText": "\u201cBaada ya muda mrefu, yule bwana wa wale watumishi akarudi na kufanya hesabu nao."
+  },
+  {
+    "verseNumber": "MAT 25:20",
+    "verseText": "Yule mtumishi aliyepokea talanta tano akaja, akaleta nyingine tano zaidi. Akasema, \u2018Bwana uliweka kwenye uangalizi wangu talanta tano. Tazama, nimepata faida ya talanta tano zaidi.\u2019"
+  },
+  {
+    "verseNumber": "MAT 25:21",
+    "verseText": "\u201cBwana wake akamwambia, \u2018Umefanya vizuri sana, mtumishi mwema na mwaminifu! Umekuwa mwaminifu kwa vitu vichache; nami nitakuweka kuwa msimamizi wa vitu vingi. Njoo ushiriki katika furaha ya bwana wako!\u2019"
+  },
+  {
+    "verseNumber": "MAT 25:22",
+    "verseText": "\u201cYule mwenye talanta mbili naye akaja. Akasema, \u2018Bwana, uliweka kwenye uangalizi wangu talanta mbili. Tazama nimepata hapa talanta mbili zaidi.\u2019"
+  },
+  {
+    "verseNumber": "MAT 25:23",
+    "verseText": "\u201cBwana wake akajibu, \u2018Umefanya vizuri sana, mtumishi mwema na mwaminifu. Umekuwa mwaminifu kwa vitu vichache; nami nitakuweka kuwa msimamizi wa vitu vingi. Njoo ushiriki katika furaha ya bwana wako!\u2019"
+  },
+  {
+    "verseNumber": "MAT 25:24",
+    "verseText": "\u201cKisha yule mtumishi aliyepokea talanta moja akaja, akasema, \u2018Bwana, nilijua kwamba wewe ni mtu mgumu, unayevuna mahali usipopanda na kukusanya mahali usipotawanya mbegu."
+  },
+  {
+    "verseNumber": "MAT 25:25",
+    "verseText": "Kwa hiyo niliogopa, nikaenda, nikaificha talanta yako ardhini. Tazama, hii hapa ile iliyo mali yako.\u2019"
+  },
+  {
+    "verseNumber": "MAT 25:26",
+    "verseText": "\u201cBwana wake akajibu, \u2018Wewe mtumishi mwovu na mvivu! Ulijua kwamba ninavuna mahali nisipopanda na kukusanya mahali nisipotawanya mbegu."
+  },
+  {
+    "verseNumber": "MAT 25:27",
+    "verseText": "Vyema basi, ingekupasa kuweka fedha yangu kwa watoa riba, ili nirudipo, nichukue ile iliyo yangu na faida yake."
+  },
+  {
+    "verseNumber": "MAT 25:28",
+    "verseText": "\u201c \u2018Basi mnyang\u02bcanyeni hiyo talanta, mkampe yule mwenye talanta kumi."
+  },
+  {
+    "verseNumber": "MAT 25:29",
+    "verseText": "Kwa maana kila mtu aliye na kitu atapewa zaidi, naye atakuwa navyo tele. Lakini yule asiye na kitu, hata kile alicho nacho atanyang\u02bcanywa."
+  },
+  {
+    "verseNumber": "MAT 25:30",
+    "verseText": "Nanyi mtupeni huyo mtumishi asiyefaa nje, kwenye giza, mahali ambako kutakuwa na kilio na kusaga meno.\u2019"
+  },
+  {
+    "verseNumber": "MAT 25:31",
+    "verseText": "\u201cMwana wa Adamu atakapokuja katika utukufu wake na malaika wote watakatifu pamoja naye, ndipo atakapoketi juu ya kiti cha enzi cha utukufu wake."
+  },
+  {
+    "verseNumber": "MAT 25:32",
+    "verseText": "Mataifa yote watakusanyika mbele zake, naye atawatenga kama mchungaji anavyotenga kondoo na mbuzi."
+  },
+  {
+    "verseNumber": "MAT 25:33",
+    "verseText": "Atawaweka kondoo upande wake wa kuume, na mbuzi upande wake wa kushoto."
+  },
+  {
+    "verseNumber": "MAT 25:34",
+    "verseText": "\u201cNdipo Mfalme atawaambia wale walioko upande wake wa kuume, \u2018Njooni, ninyi mliobarikiwa na Baba yangu; urithini Ufalme ulioandaliwa kwa ajili yenu tangu kuumbwa kwa ulimwengu."
+  },
+  {
+    "verseNumber": "MAT 25:35",
+    "verseText": "Kwa maana nilikuwa na njaa mkanipa chakula, nilikuwa na kiu mkaninywesha, nilikuwa mgeni mkanikaribisha,"
+  },
+  {
+    "verseNumber": "MAT 25:36",
+    "verseText": "nilikuwa uchi mkanivika, nilikuwa mgonjwa mkanitunza, nami nilikuwa kifungoni mkaja kunitembelea.\u2019"
+  },
+  {
+    "verseNumber": "MAT 25:37",
+    "verseText": "\u201cNdipo wale wenye haki watakapomjibu, \u2018Bwana, ni lini tulikuona ukiwa na njaa tukakulisha, au ukiwa na kiu tukakunywesha?"
+  },
+  {
+    "verseNumber": "MAT 25:38",
+    "verseText": "Lini tulikuona ukiwa mgeni tukakukaribisha, au ukiwa uchi tukakuvika?"
+  },
+  {
+    "verseNumber": "MAT 25:39",
+    "verseText": "Tena ni lini tulikuona ukiwa mgonjwa tukakutunza, au ukiwa kifungoni tukakutembelea?\u2019"
+  },
+  {
+    "verseNumber": "MAT 25:40",
+    "verseText": "\u201cNaye Mfalme atawajibu, \u2018Amin nawaambia, kwa jinsi mlivyomtendea mmojawapo wa hawa ndugu zangu walio wadogo, mlinitendea mimi.\u2019"
+  },
+  {
+    "verseNumber": "MAT 25:41",
+    "verseText": "\u201cKisha atawaambia wale walio upande wake wa kushoto, \u2018Ondokeni kwangu, ninyi mliolaaniwa, nendeni kwenye moto wa milele ulioandaliwa kwa ajili ya ibilisi na malaika zake."
+  },
+  {
+    "verseNumber": "MAT 25:42",
+    "verseText": "Kwa maana nilikuwa na njaa hamkunipa chakula, nilikuwa na kiu hamkuninywesha,"
+  },
+  {
+    "verseNumber": "MAT 25:43",
+    "verseText": "nilikuwa mgeni nanyi hamkunikaribisha, nilikuwa uchi hamkunivika, nilikuwa mgonjwa hamkunitunza, na nilikuwa gerezani nanyi hamkuja kunitembelea.\u2019"
+  },
+  {
+    "verseNumber": "MAT 25:44",
+    "verseText": "\u201cNdipo wao pia watajibu, \u2018Bwana ni lini tulikuona ukiwa na njaa au kiu, au ukiwa mgeni au uchi, au ukiwa mgonjwa na kifungoni na hatukukuhudumia?\u2019"
+  },
+  {
+    "verseNumber": "MAT 25:45",
+    "verseText": "\u201cNaye atawajibu, \u2018Amin nawaambia, kwa jinsi ambavyo hamkumtendea mmojawapo wa hawa ndugu zangu walio wadogo, hamkunitendea mimi.\u2019"
+  },
+  {
+    "verseNumber": "MAT 25:46",
+    "verseText": "\u201cNdipo hawa watakapoingia kwenye adhabu ya milele, lakini wale wenye haki wataingia katika uzima wa milele.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:1",
+    "verseText": "Yesu alipomaliza kusema hayo yote, akawaambia wanafunzi wake,"
+  },
+  {
+    "verseNumber": "MAT 26:2",
+    "verseText": "\u201cKama mnavyojua, baada ya siku mbili itakuwa Pasaka, naye Mwana wa Adamu atasalitiwa ili asulubiwe.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:3",
+    "verseText": "Basi viongozi wa makuhani na wazee wa watu wakakusanyika katika jumba la utawala la kuhani mkuu, jina lake Kayafa."
+  },
+  {
+    "verseNumber": "MAT 26:4",
+    "verseText": "Wakafanya shauri ili kumkamata Yesu kwa siri na kumuua."
+  },
+  {
+    "verseNumber": "MAT 26:5",
+    "verseText": "Lakini wakasema, \u201cIsiwe wakati wa Sikukuu, kusitokee ghasia miongoni mwa watu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:6",
+    "verseText": "Yesu alikuwa Bethania nyumbani mwa Simoni aliyekuwa na ukoma,"
+  },
+  {
+    "verseNumber": "MAT 26:7",
+    "verseText": "naye mwanamke mmoja akamjia akiwa na chupa ya marhamu yenye manukato ya thamani kubwa; akayamimina kichwani mwa Yesu alipokuwa ameketi mezani kula chakula."
+  },
+  {
+    "verseNumber": "MAT 26:8",
+    "verseText": "Lakini wanafunzi wake walipoona hayo wakakasirika, wakasema, \u201cUpotevu huu wote ni wa nini?"
+  },
+  {
+    "verseNumber": "MAT 26:9",
+    "verseText": "Manukato haya yangeuzwa kwa bei kubwa, na fedha hizo wakapewa maskini.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:10",
+    "verseText": "Yesu, akijua jambo hili, akawaambia, \u201cMbona mnamsumbua huyu mwanamke? Yeye amenitendea jambo zuri sana."
+  },
+  {
+    "verseNumber": "MAT 26:11",
+    "verseText": "Maskini mtakuwa nao siku zote, lakini mimi hamtakuwa nami siku zote."
+  },
+  {
+    "verseNumber": "MAT 26:12",
+    "verseText": "Alipomiminia haya manukato kwenye mwili wangu, amefanya hivyo ili kuniandaa kwa ajili ya maziko yangu."
+  },
+  {
+    "verseNumber": "MAT 26:13",
+    "verseText": "Amin, nawaambia, mahali popote ulimwenguni ambapo hii Injili itahubiriwa, jambo hili alilolitenda huyu mwanamke litatajwa pia kwa ukumbusho wake.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:14",
+    "verseText": "Kisha mmojawapo wa wale kumi na wawili, aitwaye Yuda Iskariote, alikwenda kwa viongozi wa makuhani"
+  },
+  {
+    "verseNumber": "MAT 26:15",
+    "verseText": "na kuuliza, \u201cMtanipa nini nikimtia Yesu mikononi mwenu?\u201d Wakamlipa vipande thelathini vya fedha."
+  },
+  {
+    "verseNumber": "MAT 26:16",
+    "verseText": "Tangu wakati huo Yuda akawa anatafuta wakati uliofaa wa kumsaliti Yesu."
+  },
+  {
+    "verseNumber": "MAT 26:17",
+    "verseText": "Siku ya kwanza ya Sikukuu ya Mikate Isiyotiwa Chachu, wanafunzi walimjia Yesu wakamuuliza, \u201cUnataka twende wapi ili tukuandalie mahali pa kula Pasaka?\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:18",
+    "verseText": "Akajibu, \u201cNendeni kwa mtu fulani huko mjini, mkamwambie, \u2018Mwalimu asema hivi: Saa yangu imekaribia. Nitaiadhimisha Pasaka pamoja na wanafunzi wangu katika nyumba yako.\u2019 \u201d"
+  },
+  {
+    "verseNumber": "MAT 26:19",
+    "verseText": "Hivyo wanafunzi wakafanya kama vile Yesu alivyokuwa amewaelekeza, nao wakaandaa Pasaka."
+  },
+  {
+    "verseNumber": "MAT 26:20",
+    "verseText": "Ilipofika jioni, Yesu alikuwa ameketi mezani pamoja na wale wanafunzi wake kumi na wawili."
+  },
+  {
+    "verseNumber": "MAT 26:21",
+    "verseText": "Nao walipokuwa wakila, Yesu akasema, \u201cAmin, nawaambia, mmoja wenu atanisaliti.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:22",
+    "verseText": "Wakahuzunika sana, wakaanza kumuuliza mmoja baada ya mwingine, \u201cJe, ni mimi Bwana?\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:23",
+    "verseText": "Yesu akawaambia, \u201cYule aliyechovya mkono wake katika bakuli pamoja nami ndiye atakayenisaliti."
+  },
+  {
+    "verseNumber": "MAT 26:24",
+    "verseText": "Mwana wa Adamu anaenda zake kama vile alivyoandikiwa. Lakini ole wake mtu yule amsalitiye Mwana wa Adamu. Ingekuwa heri kwake mtu huyo kama hangezaliwa!\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:25",
+    "verseText": "Kisha Yuda, yule mwenye kumsaliti, akasema, \u201cJe, ni mimi Rabi?\u201d Yesu akajibu, \u201cNaam, wewe mwenyewe umesema.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:26",
+    "verseText": "Walipokuwa wanakula, Yesu akachukua mkate, akashukuru, akaumega, na kuwapa wanafunzi wake, akisema, \u201cTwaeni, mle; huu ndio mwili wangu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:27",
+    "verseText": "Kisha akakitwaa kikombe, akashukuru, akawapa, akisema, \u201cNyweni nyote katika kikombe hiki."
+  },
+  {
+    "verseNumber": "MAT 26:28",
+    "verseText": "Hii ndiyo damu yangu ya Agano, imwagikayo kwa ajili ya wengi kwa ondoleo la dhambi."
+  },
+  {
+    "verseNumber": "MAT 26:29",
+    "verseText": "Lakini ninawaambia, tangu sasa sitakunywa tena katika uzao huu wa mzabibu, hadi siku ile nitakapounywa mpya pamoja nanyi katika Ufalme wa Baba yangu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:30",
+    "verseText": "Walipokwisha kuimba wimbo, wakatoka wakaenda Mlima wa Mizeituni."
+  },
+  {
+    "verseNumber": "MAT 26:31",
+    "verseText": "Kisha Yesu akawaambia, \u201cUsiku huu, ninyi nyote mtaniacha, kwa maana imeandikwa: \u201c \u2018Nitampiga mchungaji, nao kondoo wa hilo kundi watatawanyika.\u2019"
+  },
+  {
+    "verseNumber": "MAT 26:32",
+    "verseText": "Lakini baada ya kufufuka kwangu, nitawatangulia kwenda Galilaya.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:33",
+    "verseText": "Petro akajibu, \u201cHata kama wote watakuacha, kamwe mimi sitakuacha.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:34",
+    "verseText": "Yesu akamjibu, \u201cAmin, nakuambia, usiku huu, kabla jogoo hajawika, utanikana mara tatu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:35",
+    "verseText": "Lakini Petro akasisitiza, \u201cHata kama itabidi kufa pamoja nawe, sitakukana kamwe.\u201d Nao wanafunzi wale wengine wote wakasema vivyo hivyo."
+  },
+  {
+    "verseNumber": "MAT 26:36",
+    "verseText": "Kisha Yesu akaenda pamoja na wanafunzi wake mpaka kwenye bustani iitwayo Gethsemane, akawaambia, \u201cKaeni hapa, nami niende kule nikaombe.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:37",
+    "verseText": "Akamchukua Petro pamoja na wale wana wawili wa Zebedayo, akaanza kuhuzunika na kufadhaika."
+  },
+  {
+    "verseNumber": "MAT 26:38",
+    "verseText": "Kisha Yesu akawaambia, \u201cMoyo wangu umejawa na huzuni kiasi cha kufa. Kaeni hapa na mkeshe pamoja nami.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:39",
+    "verseText": "Akaenda mbele kidogo, akaanguka kifudifudi, akaomba akisema, \u201cBaba yangu, kama inawezekana, kikombe hiki na kiniondokee. Lakini si kama nipendavyo mimi, bali kama upendavyo wewe.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:40",
+    "verseText": "Kisha akarudi kwa wanafunzi wake, akawakuta wamelala. Akamuuliza Petro, \u201cJe, ninyi hamkuweza kukesha pamoja nami hata kwa saa moja?"
+  },
+  {
+    "verseNumber": "MAT 26:41",
+    "verseText": "Kesheni na mwombe, msije mkaingia majaribuni. Roho iko radhi, lakini mwili ni mdhaifu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:42",
+    "verseText": "Akaenda tena mara ya pili na kuomba, \u201cBaba yangu, kama haiwezekani kikombe hiki kiniepuke nisikinywe, basi mapenzi yako yafanyike.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:43",
+    "verseText": "Aliporudi, akawakuta tena wamelala kwa sababu macho yao yalikuwa mazito."
+  },
+  {
+    "verseNumber": "MAT 26:44",
+    "verseText": "Hivyo akawaacha akaenda zake tena mara ya tatu na kuomba akisema maneno yale yale."
+  },
+  {
+    "verseNumber": "MAT 26:45",
+    "verseText": "Kisha akarudi kwa wanafunzi wake, akawaambia, \u201cBado mmelala na kupumzika? Tazameni, saa imefika ambapo Mwana wa Adamu anasalitiwa na kutiwa mikononi mwa wenye dhambi."
+  },
+  {
+    "verseNumber": "MAT 26:46",
+    "verseText": "Inukeni, twende zetu! Tazameni, msaliti wangu yuaja!\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:47",
+    "verseText": "Alipokuwa bado anazungumza, Yuda, mmoja wa wale Kumi na Wawili, akafika. Alikuwa amefuatana na umati mkubwa wa watu wenye panga na marungu, waliokuwa wametumwa na viongozi wa makuhani na wazee wa watu."
+  },
+  {
+    "verseNumber": "MAT 26:48",
+    "verseText": "Basi msaliti alikuwa amewapa hao watu ishara, kwamba: \u201cYule nitakayembusu ndiye. Mkamateni.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:49",
+    "verseText": "Mara Yuda akamjia Yesu na kumsalimu, \u201cSalamu, Rabi!\u201d Akambusu."
+  },
+  {
+    "verseNumber": "MAT 26:50",
+    "verseText": "Yesu akamwambia, \u201cRafiki, fanya kile ulichokuja kufanya hapa.\u201d Kisha wale watu wakasogea mbele, wakamkamata Yesu."
+  },
+  {
+    "verseNumber": "MAT 26:51",
+    "verseText": "Ghafula mmoja wa wale waliokuwa na Yesu alipoona hivyo, akaushika upanga wake, akauchomoa na kumpiga mtumishi wa kuhani mkuu, akamkata sikio."
+  },
+  {
+    "verseNumber": "MAT 26:52",
+    "verseText": "Ndipo Yesu akamwambia, \u201cRudisha upanga wako mahali pake, kwa maana wote watumiao upanga watakufa kwa upanga."
+  },
+  {
+    "verseNumber": "MAT 26:53",
+    "verseText": "Je, unadhani siwezi kumwomba Baba yangu naye mara moja akaniletea zaidi ya majeshi kumi na mawili ya malaika?"
+  },
+  {
+    "verseNumber": "MAT 26:54",
+    "verseText": "Lakini je, yale Maandiko yanayotabiri kwamba ni lazima itendeke hivi yatatimiaje?\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:55",
+    "verseText": "Wakati huo, Yesu akawaambia ule umati wa watu, \u201cJe, mmekuja na panga na marungu kunikamata kana kwamba mimi ni mnyang\u02bcanyi? Siku kwa siku niliketi Hekaluni nikifundisha, mbona hamkunikamata?"
+  },
+  {
+    "verseNumber": "MAT 26:56",
+    "verseText": "Lakini haya yote yametukia ili maandiko ya manabii yapate kutimia.\u201d Ndipo wanafunzi wake wote wakamwacha na kukimbia."
+  },
+  {
+    "verseNumber": "MAT 26:57",
+    "verseText": "Wale waliokuwa wamemkamata Yesu wakampeleka kwa Kayafa, kuhani mkuu, mahali ambapo walimu wa sheria pamoja na wazee walikuwa wamekusanyika."
+  },
+  {
+    "verseNumber": "MAT 26:58",
+    "verseText": "Lakini Petro akamfuata kwa mbali hadi uani kwa kuhani mkuu. Akaingia ndani, akaketi pamoja na walinzi ili aone litakalotukia."
+  },
+  {
+    "verseNumber": "MAT 26:59",
+    "verseText": "Viongozi wa makuhani na Baraza la Wayahudi lote wakatafuta ushahidi wa uongo dhidi ya Yesu ili wapate kumuua."
+  },
+  {
+    "verseNumber": "MAT 26:60",
+    "verseText": "Lakini hawakupata jambo lolote, ingawa mashahidi wengi wa uongo walijitokeza. Hatimaye wakajitokeza mashahidi wawili wa uongo"
+  },
+  {
+    "verseNumber": "MAT 26:61",
+    "verseText": "na kusema, \u201cHuyu mtu alisema, \u2018Ninaweza kulivunja Hekalu la Mungu na kulijenga tena kwa siku tatu.\u2019 \u201d"
+  },
+  {
+    "verseNumber": "MAT 26:62",
+    "verseText": "Kisha kuhani mkuu akasimama na kumwambia Yesu, \u201cJe, wewe hutajibu? Ni ushahidi gani hawa watu wanauleta dhidi yako?\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:63",
+    "verseText": "Lakini Yesu akakaa kimya. Ndipo kuhani mkuu akamwambia, \u201cNakuapisha mbele za Mungu aliye hai. Tuambie kama wewe ndiwe Kristo, Mwana wa Mungu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:64",
+    "verseText": "Yesu akajibu, \u201cWewe umenena. Lakini ninawaambia nyote: Siku za baadaye, mtamwona Mwana wa Adamu akiwa ameketi mkono wa kuume wa Mwenye Nguvu, na akija juu ya mawingu ya mbinguni.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:65",
+    "verseText": "Ndipo kuhani mkuu akararua mavazi yake na kusema, \u201cAmekufuru! Tuna haja gani tena ya mashahidi zaidi? Tazama, sasa ninyi mmesikia hayo makufuru."
+  },
+  {
+    "verseNumber": "MAT 26:66",
+    "verseText": "Uamuzi wenu ni gani?\u201d Wakajibu, \u201cAnastahili kufa.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:67",
+    "verseText": "Kisha wakamtemea mate usoni na wengine wakampiga ngumi. Wengine wakampiga makofi"
+  },
+  {
+    "verseNumber": "MAT 26:68",
+    "verseText": "na kusema, \u201cTutabirie, wewe Kristo! Ni nani aliyekupiga?\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:69",
+    "verseText": "Wakati huu Petro alikuwa amekaa nje uani. Mtumishi mmoja wa kike akamjia na kumwambia, \u201cWewe pia ulikuwa pamoja na Yesu wa Galilaya.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:70",
+    "verseText": "Lakini Petro akakana mbele yao wote akisema, \u201cSijui hilo usemalo.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:71",
+    "verseText": "Alipotoka nje kufika kwenye lango, mtumishi mwingine wa kike alimwona, akawaambia watu waliokuwepo, \u201cHuyu mtu alikuwa pamoja na Yesu, Mnazareti.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:72",
+    "verseText": "Akakana tena kwa kiapo akisema, \u201cMimi simjui huyo!\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:73",
+    "verseText": "Baada ya muda mfupi, wale waliokuwa wamesimama pale wakamwendea Petro, wakamwambia, \u201cHakika wewe ni mmoja wao, kwa maana usemi wako ni kama wao.\u201d"
+  },
+  {
+    "verseNumber": "MAT 26:74",
+    "verseText": "Ndipo Petro akaanza kujilaani na kuwaapia, \u201cMimi simjui mtu huyo!\u201d Papo hapo jogoo akawika."
+  },
+  {
+    "verseNumber": "MAT 26:75",
+    "verseText": "Ndipo Petro akakumbuka lile neno Yesu alilokuwa amesema: \u201cKabla jogoo hajawika, utanikana mara tatu.\u201d Naye akaenda nje, akalia kwa majonzi."
+  },
+  {
+    "verseNumber": "MAT 27:1",
+    "verseText": "Asubuhi na mapema, viongozi wa makuhani wote na wazee wa watu wakafanya shauri pamoja dhidi ya Yesu ili kumuua."
+  },
+  {
+    "verseNumber": "MAT 27:2",
+    "verseText": "Wakamfunga, wakampeleka na kumkabidhi kwa Pilato, ambaye alikuwa mtawala wa Kirumi."
+  },
+  {
+    "verseNumber": "MAT 27:3",
+    "verseText": "Yuda, ambaye alikuwa amemsaliti Yesu, alipoona kuwa Yesu amehukumiwa, akajuta na akarudisha vile vipande thelathini vya fedha alivyopewa na viongozi wa makuhani na wazee wa watu."
+  },
+  {
+    "verseNumber": "MAT 27:4",
+    "verseText": "Akasema, \u201cNimetenda dhambi, kwa maana nimeisaliti damu isiyo na hatia.\u201d Wakamjibu, \u201cHilo latuhusu nini sisi? Ni shauri yako.\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:5",
+    "verseText": "Basi Yuda akavitupa vile vipande vya fedha ndani ya Hekalu akaondoka akaenda kujinyonga."
+  },
+  {
+    "verseNumber": "MAT 27:6",
+    "verseText": "Wale viongozi wa makuhani wakazichukua zile fedha wakasema, \u201cSi halali kuchanganya fedha hizi na sadaka kwa sababu hizi ni fedha zenye damu.\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:7",
+    "verseText": "Kwa hiyo baada ya kushauriana, waliamua kuzitumia kununulia shamba la mfinyanzi, liwe mahali pa kuzikia wageni."
+  },
+  {
+    "verseNumber": "MAT 27:8",
+    "verseText": "Hii ndiyo sababu lile shamba likaitwa Shamba la Damu hadi leo."
+  },
+  {
+    "verseNumber": "MAT 27:9",
+    "verseText": "Ndipo likatimia lile lililonenwa na nabii Yeremia, kwamba, \u201cWalichukua vile vipande thelathini vya fedha, thamani aliyopangiwa na watu wa Israeli,"
+  },
+  {
+    "verseNumber": "MAT 27:10",
+    "verseText": "wakanunulia shamba la mfinyanzi, kama vile Bwana alivyoniagiza.\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:11",
+    "verseText": "Wakati huo Yesu akiwa amesimama mbele ya mtawala, mtawala akamuuliza, \u201cWewe ndiye mfalme wa Wayahudi?\u201d Yesu akasema, \u201cWewe wasema hivyo.\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:12",
+    "verseText": "Lakini viongozi wa makuhani na wazee walipomshtaki, hakujibu neno."
+  },
+  {
+    "verseNumber": "MAT 27:13",
+    "verseText": "Ndipo Pilato akamuuliza, \u201cJe, husikii ni mambo mangapi wanayokushtaki nayo?\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:14",
+    "verseText": "Lakini Yesu hakumjibu hata kwa shtaka moja, kiasi kwamba mtawala alishangaa sana."
+  },
+  {
+    "verseNumber": "MAT 27:15",
+    "verseText": "Basi ilikuwa ni desturi ya mtawala kumfungua mfungwa mmoja aliyechaguliwa na umati wa watu wakati wa sikukuu."
+  },
+  {
+    "verseNumber": "MAT 27:16",
+    "verseText": "Wakati huo alikuwepo mfungwa mmoja mwenye sifa mbaya, aliyeitwa Baraba."
+  },
+  {
+    "verseNumber": "MAT 27:17",
+    "verseText": "Hivyo umati wa watu walipokusanyika, Pilato akawauliza, \u201cMnataka niwafungulie nani, Baraba au Yesu yeye aitwaye Kristo?\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:18",
+    "verseText": "Kwa kuwa alitambua Yesu alikuwa amekabidhiwa kwake kwa ajili ya wivu."
+  },
+  {
+    "verseNumber": "MAT 27:19",
+    "verseText": "Pilato akiwa ameketi kwenye kiti cha hukumu, mkewe akampelekea ujumbe huu: \u201cUsiwe na jambo lolote juu ya mtu huyu asiye na hatia, kwa kuwa leo nimeteseka sana katika ndoto kwa sababu yake.\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:20",
+    "verseText": "Lakini viongozi wa makuhani na wazee wakaushawishi ule umati wa watu kwamba waombe Baraba afunguliwe, naye Yesu auawe."
+  },
+  {
+    "verseNumber": "MAT 27:21",
+    "verseText": "Mtawala akawauliza tena, \u201cNi yupi kati ya hawa wawili mnayetaka niwafungulie?\u201d Wakajibu, \u201cBaraba.\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:22",
+    "verseText": "Pilato akawaambia, \u201cBasi nifanye nini na huyu Yesu aitwaye Kristo?\u201d Wakajibu wote, \u201cMsulubishe!\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:23",
+    "verseText": "Pilato akauliza, \u201cKwa nini? Amefanya kosa gani?\u201d Lakini wao wakazidi kupiga kelele, wakisema, \u201cMsulubishe!\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:24",
+    "verseText": "Pilato alipoona kwamba hawezi kufanya lolote, lakini badala yake ghasia zilikuwa zinaanza, akachukua maji, akanawa mikono yake mbele ya ule umati wa watu, akasema, \u201cSina hatia juu ya damu ya mtu huyu, hili ni jukumu lenu!\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:25",
+    "verseText": "Watu wote wakajibu, \u201cDamu yake na iwe juu yetu na juu ya watoto wetu!\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:26",
+    "verseText": "Basi akawafungulia Baraba. Lakini baada ya kuamuru Yesu achapwe mijeledi, akamtoa ili asulubishwe."
+  },
+  {
+    "verseNumber": "MAT 27:27",
+    "verseText": "Kisha askari wa mtawala wakampeleka Yesu kwenye Praitorio na wakakusanya kikosi kizima cha askari kumzunguka."
+  },
+  {
+    "verseNumber": "MAT 27:28",
+    "verseText": "Wakamvua nguo zake na kumvika vazi la rangi nyekundu, kisha"
+  },
+  {
+    "verseNumber": "MAT 27:29",
+    "verseText": "wakasokota taji ya miiba, wakaiweka kichwani pake. Wakamwekea fimbo katika mkono wake wa kuume, na wakapiga magoti mbele zake na kumdhihaki, wakisema, \u201cSalamu, mfalme wa Wayahudi!\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:30",
+    "verseText": "Wakamtemea mate, wakachukua ile fimbo wakampiga kichwani tena na tena."
+  },
+  {
+    "verseNumber": "MAT 27:31",
+    "verseText": "Baada ya kumdhihaki, wakamvua lile joho, wakamvika tena nguo zake. Kisha wakampeleka ili wakamsulubishe."
+  },
+  {
+    "verseNumber": "MAT 27:32",
+    "verseText": "Walipokuwa wakienda, wakakutana na mtu mmoja kutoka Kirene, jina lake Simoni, nao wakamlazimisha kuubeba ule msalaba."
+  },
+  {
+    "verseNumber": "MAT 27:33",
+    "verseText": "Wakafika mahali palipoitwa Golgotha (maana yake ni Mahali pa Fuvu la Kichwa)."
+  },
+  {
+    "verseNumber": "MAT 27:34",
+    "verseText": "Hapo wakampa Yesu divai iliyochanganywa na nyongo ili anywe; lakini alipoionja, akakataa kuinywa."
+  },
+  {
+    "verseNumber": "MAT 27:35",
+    "verseText": "Walipokwisha kumsulubisha wakagawana mavazi yake kwa kuyapigia kura. [Hili lilifanyika ili litimie lile neno lililonenwa na nabii, \u201cWaligawa nguo zangu miongoni mwao na vazi langu wakalipigia kura.\u201d]"
+  },
+  {
+    "verseNumber": "MAT 27:36",
+    "verseText": "Kisha wakaketi, wakamchunga."
+  },
+  {
+    "verseNumber": "MAT 27:37",
+    "verseText": "Juu ya kichwa chake, kwenye msalaba, wakaandika shtaka lake hivi: Huyu ni Yesu, Mfalme wa Wayahudi."
+  },
+  {
+    "verseNumber": "MAT 27:38",
+    "verseText": "Wanyang\u02bcanyi wawili walisulubiwa pamoja naye, mmoja upande wake wa kuume na mwingine upande wa kushoto."
+  },
+  {
+    "verseNumber": "MAT 27:39",
+    "verseText": "Watu waliokuwa wakipita njiani wakamtukana huku wakitikisa vichwa vyao"
+  },
+  {
+    "verseNumber": "MAT 27:40",
+    "verseText": "na kusema, \u201cWewe ambaye utalivunja Hekalu na kulijenga kwa siku tatu, jiokoe mwenyewe basi! Kama wewe ni Mwana wa Mungu, shuka kutoka msalabani.\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:41",
+    "verseText": "Vivyo hivyo, viongozi wa makuhani, walimu wa sheria pamoja na wazee wakamdhihaki wakisema,"
+  },
+  {
+    "verseNumber": "MAT 27:42",
+    "verseText": "\u201cAliwaokoa wengine, lakini hawezi kujiokoa mwenyewe! Yeye ni Mfalme wa Israeli! Ashuke sasa kutoka msalabani, nasi tutamwamini."
+  },
+  {
+    "verseNumber": "MAT 27:43",
+    "verseText": "Anamwamini Mungu, basi Mungu na amwokoe sasa kama anamtaka, kwa maana alisema, \u2018Mimi ni Mwana wa Mungu.\u2019 \u201d"
+  },
+  {
+    "verseNumber": "MAT 27:44",
+    "verseText": "Hata wale wanyang\u02bcanyi waliosulubiwa pamoja naye wakamtukana vivyo hivyo."
+  },
+  {
+    "verseNumber": "MAT 27:45",
+    "verseText": "Tangu saa sita hadi saa tisa giza liliifunika nchi yote."
+  },
+  {
+    "verseNumber": "MAT 27:46",
+    "verseText": "Ilipofika saa tisa, Yesu akapaza sauti akalia, \u201cEloi, Eloi, lama sabakthani?\u201d (maana yake, \u201cMungu wangu, Mungu wangu, mbona umeniacha?\u201d)"
+  },
+  {
+    "verseNumber": "MAT 27:47",
+    "verseText": "Baadhi ya watu waliokuwa wamesimama pale waliposikia hayo, wakasema, \u201cAnamwita Eliya.\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:48",
+    "verseText": "Ghafula mmoja wao akaenda mbio na kuleta sifongo, akaichovya kwenye siki, akaiweka kwenye mwanzi na akampa Yesu ili anywe."
+  },
+  {
+    "verseNumber": "MAT 27:49",
+    "verseText": "Wengine wakasema, \u201cBasi mwacheni. Hebu tuone kama Eliya atakuja kumwokoa.\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:50",
+    "verseText": "Yesu alipolia tena kwa sauti kuu, akaitoa roho yake."
+  },
+  {
+    "verseNumber": "MAT 27:51",
+    "verseText": "Wakati huo huo pazia la Hekalu likachanika vipande viwili, kuanzia juu hadi chini. Dunia ikatetemeka na miamba ikapasuka."
+  },
+  {
+    "verseNumber": "MAT 27:52",
+    "verseText": "Makaburi yakafunguka na miili ya watakatifu waliokuwa wamekufa ikafufuliwa."
+  },
+  {
+    "verseNumber": "MAT 27:53",
+    "verseText": "Wakatoka makaburini, na baada ya Yesu kufufuka, waliingia kwenye Mji Mtakatifu na kuwatokea watu wengi."
+  },
+  {
+    "verseNumber": "MAT 27:54",
+    "verseText": "Basi yule jemadari na wale waliokuwa pamoja naye wakimlinda Yesu walipoona lile tetemeko na yale yote yaliyokuwa yametukia, waliogopa, wakasema, \u201cHakika huyu alikuwa Mwana wa Mungu!\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:55",
+    "verseText": "Walikuwako wanawake huko wakiangalia kwa mbali. Hawa walikuwa wamemfuata Yesu tangu Galilaya ili kushughulikia mahitaji yake."
+  },
+  {
+    "verseNumber": "MAT 27:56",
+    "verseText": "Miongoni mwao walikuwepo Maria Magdalene, na Maria mama yao Yakobo na Yosefu, na mama yao wana wa Zebedayo."
+  },
+  {
+    "verseNumber": "MAT 27:57",
+    "verseText": "Ilipofika jioni, alifika mtu mmoja tajiri kutoka Arimathaya aitwaye Yosefu, ambaye pia alikuwa mwanafunzi wa Yesu."
+  },
+  {
+    "verseNumber": "MAT 27:58",
+    "verseText": "Akamwendea Pilato ili kumwomba mwili wa Yesu. Pilato akaamuru apewe."
+  },
+  {
+    "verseNumber": "MAT 27:59",
+    "verseText": "Yosefu akauchukua mwili wa Yesu, akaufunga katika kitambaa cha kitani safi,"
+  },
+  {
+    "verseNumber": "MAT 27:60",
+    "verseText": "na kuuweka katika kaburi lake mwenyewe jipya, alilokuwa amelichonga kwenye mwamba. Kisha akavingirisha jiwe kubwa katika ingilio la kaburi, akaenda zake."
+  },
+  {
+    "verseNumber": "MAT 27:61",
+    "verseText": "Maria Magdalene na yule Maria mwingine walikuwepo mahali pale, wakiwa wameketi mkabala na kaburi."
+  },
+  {
+    "verseNumber": "MAT 27:62",
+    "verseText": "Kesho yake, yaani siku iliyofuata ile ya Maandalizi ya Sabato, viongozi wa makuhani na Mafarisayo wakamwendea Pilato"
+  },
+  {
+    "verseNumber": "MAT 27:63",
+    "verseText": "na kusema, \u201cBwana, tumekumbuka kwamba yule mdanganyifu wakati alikuwa bado hai alisema, \u2018Baada ya siku tatu nitafufuka.\u2019"
+  },
+  {
+    "verseNumber": "MAT 27:64",
+    "verseText": "Kwa hiyo uamuru kaburi lilindwe kwa uthabiti mpaka baada ya siku tatu. La sivyo, wanafunzi wake wanaweza kuja kuuiba mwili wake na kuwaambia watu kwamba amefufuliwa kutoka kwa wafu. Udanganyifu huu wa mwisho utakuwa mbaya kuliko ule wa kwanza.\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:65",
+    "verseText": "Pilato akawaambia, \u201cNinyi mnao askari walinzi. Nendeni, liwekeeni ulinzi kadri mwezavyo.\u201d"
+  },
+  {
+    "verseNumber": "MAT 27:66",
+    "verseText": "Kwa hiyo wakaenda na walinzi ili kulilinda kaburi kwa uthabiti, wakatia muhuri kwenye lile jiwe na kuweka ulinzi."
+  },
+  {
+    "verseNumber": "MAT 28:1",
+    "verseText": "Baada ya Sabato, alfajiri mapema siku ya kwanza ya juma, Maria Magdalene na yule Maria mwingine walikwenda kulitazama kaburi."
+  },
+  {
+    "verseNumber": "MAT 28:2",
+    "verseText": "Ghafula, pakawa na tetemeko kubwa la ardhi, kwa sababu malaika wa Bwana alishuka kutoka mbinguni, akaenda penye kaburi, akalivingirisha lile jiwe na kulikalia."
+  },
+  {
+    "verseNumber": "MAT 28:3",
+    "verseText": "Sura ya huyo malaika ilikuwa kama umeme, na mavazi yake yalikuwa meupe kama theluji."
+  },
+  {
+    "verseNumber": "MAT 28:4",
+    "verseText": "Wale walinzi wa kaburi walimwogopa sana, wakatetemeka hata wakawa kama wafu."
+  },
+  {
+    "verseNumber": "MAT 28:5",
+    "verseText": "Yule malaika akawaambia wale wanawake, \u201cMsiogope, kwa maana ninajua kuwa mnamtafuta Yesu aliyesulubiwa."
+  },
+  {
+    "verseNumber": "MAT 28:6",
+    "verseText": "Hayupo hapa, kwa kuwa amefufuka, kama vile alivyosema. Njooni mpatazame mahali alipokuwa amelazwa."
+  },
+  {
+    "verseNumber": "MAT 28:7",
+    "verseText": "Kisha nendeni upesi mkawaambie wanafunzi wake kwamba, \u2018Amefufuka kutoka kwa wafu, naye awatangulia kwenda Galilaya. Huko ndiko mtamwona. Sasa nimekwisha kuwaambia.\u2019 \u201d"
+  },
+  {
+    "verseNumber": "MAT 28:8",
+    "verseText": "Hivyo wale wanawake wakaondoka pale kaburini wakiwa wamejawa na hofu, bali wakiwa na furaha nyingi. Wakaenda mbio kuwaeleza wanafunzi wake habari hizo."
+  },
+  {
+    "verseNumber": "MAT 28:9",
+    "verseText": "Ghafula, Yesu akakutana nao, akasema, \u201cSalamu!\u201d Wale wanawake wakamkaribia, wakaishika miguu yake, wakamwabudu."
+  },
+  {
+    "verseNumber": "MAT 28:10",
+    "verseText": "Ndipo Yesu akawaambia, \u201cMsiogope. Nendeni mkawaambie ndugu zangu waende Galilaya, ndiko watakakoniona.\u201d"
+  },
+  {
+    "verseNumber": "MAT 28:11",
+    "verseText": "Wakati wale wanawake walikuwa njiani wakienda, baadhi ya wale askari waliokuwa wakilinda kaburi walienda mjini na kuwaeleza viongozi wa makuhani kila kitu kilichokuwa kimetukia."
+  },
+  {
+    "verseNumber": "MAT 28:12",
+    "verseText": "Baada ya viongozi wa makuhani kukutana na wazee na kutunga hila, waliwapa wale askari kiasi kikubwa cha fedha"
+  },
+  {
+    "verseNumber": "MAT 28:13",
+    "verseText": "wakiwaambia, \u201cInawapasa mseme, \u2018Wanafunzi wake walikuja wakati wa usiku na kumwiba sisi tulipokuwa tumelala.\u2019"
+  },
+  {
+    "verseNumber": "MAT 28:14",
+    "verseText": "Kama habari hizi zikimfikia mtawala, sisi tutamwondolea mashaka nanyi hamtapata tatizo lolote.\u201d"
+  },
+  {
+    "verseNumber": "MAT 28:15",
+    "verseText": "Kwa hiyo wale askari wakazipokea hizo fedha nao wakafanya kama walivyoelekezwa. Habari hii imeenea miongoni mwa Wayahudi mpaka leo."
+  },
+  {
+    "verseNumber": "MAT 28:16",
+    "verseText": "Basi wale wanafunzi kumi na mmoja wakaenda hadi Galilaya kwenye ule mlima ambao Yesu alikuwa amewaagiza."
+  },
+  {
+    "verseNumber": "MAT 28:17",
+    "verseText": "Walipomwona, wakamwabudu; lakini baadhi yao wakaona shaka."
+  },
+  {
+    "verseNumber": "MAT 28:18",
+    "verseText": "Yesu akawajia na kusema, \u201cNimepewa mamlaka yote mbinguni na duniani."
+  },
+  {
+    "verseNumber": "MAT 28:19",
+    "verseText": "Kwa sababu hii, enendeni mkawafanye mataifa yote kuwa wanafunzi, mkiwabatiza kwa Jina la Baba na la Mwana na la Roho Mtakatifu,"
+  },
+  {
+    "verseNumber": "MAT 28:20",
+    "verseText": "nanyi wafundisheni kuyashika mambo yote niliyowaamuru ninyi. Hakika mimi niko pamoja nanyi siku zote, hadi mwisho wa nyakati.\u201d"
+  }
+]
