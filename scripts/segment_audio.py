@@ -16,12 +16,12 @@ import unicodedata
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
-    "--json_path", required=True, help="Path to the JSON file. Example: data/openbible_swahili/PSA.json"
-)
-parser.add_argument(
     "--audio_path",
     required=True,
     help="Path to the audio file, must be 16kHz. Example: downloads/wavs_16/PSA/PSA_119.wav",
+)
+parser.add_argument(
+    "--json_path", required=True, help="Path to the JSON file. Example: data/openbible_swahili/PSA.json"
 )
 parser.add_argument("--output_dir", default="outputs/openbible_swahili/", help="Path to the output directory")
 parser.add_argument("--chunk_size_s", type=int, default=15, help="Chunk size in seconds")
@@ -81,16 +81,21 @@ def compute_alignments(emission, transcript, dictionary, device):
     return word_spans
 
 
-def main(args):
-    audio_path = Path(args.audio_path)
-    json_path = Path(args.json_path)
+def segment(audio_path: str, json_path: str, output_dir: str, chunk_size_s: int = 15):
+    audio_path = Path(audio_path)
+    json_path = Path(json_path)
 
     # book = "MAT"; chapter = "MAT_019"
     book, chapter = json_path.stem, audio_path.stem
 
     # prepare output directories
-    output_dir = Path(args.output_dir) / book / chapter
+    output_dir = Path(output_dir) / book / chapter
     output_dir.mkdir(parents=True, exist_ok=True)
+
+    # skip if already segmented
+    if any(output_dir.iterdir()):
+        print(f"Skipping {chapter}")
+        return
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -117,7 +122,7 @@ def main(args):
     waveform, sr = torchaudio.load(audio_path)
     assert sr == 16000, "Sample rate must be 16kHz!"
     # split audio into chunks to avoid OOM and faster inference
-    chunk_size_frames = args.chunk_size_s * sr
+    chunk_size_frames = chunk_size_s * sr
     chunks = [waveform[:, i : i + chunk_size_frames] for i in range(0, waveform.shape[1], chunk_size_frames)]
 
     # collect per-chunk emissions, rejoin
@@ -172,4 +177,4 @@ def main(args):
 
 if __name__ == "__main__":
     args = parser.parse_args()
-    main(args)
+    segment(args.audio_path, args.json_path, args.output_dir, args.chunk_size_s)
