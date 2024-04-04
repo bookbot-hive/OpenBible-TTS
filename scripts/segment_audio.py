@@ -8,6 +8,7 @@ import string
 import torch
 import torchaudio
 import torchaudio.functional as F
+import torchaudio.transforms as T
 
 from unidecode import unidecode
 from num2words import num2words
@@ -18,7 +19,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument(
     "--audio_path",
     required=True,
-    help="Path to the audio file, must be 16kHz. Example: downloads/wavs_16/PSA/PSA_119.wav",
+    help="Path to the audio file. Example: downloads/wavs_44/PSA/PSA_119.wav",
 )
 parser.add_argument(
     "--json_path", required=True, help="Path to the JSON file. Example: data/openbible_swahili/PSA.json"
@@ -119,11 +120,15 @@ def segment(audio_path: str, json_path: str, output_dir: str, chunk_size_s: int 
     augmented_words = [word for verse in augmented_verses for word in verse.split()]
 
     # load audio
-    waveform, sr = torchaudio.load(audio_path)
-    assert sr == 16000, "Sample rate must be 16kHz!"
+    input_waveform, input_sample_rate = torchaudio.load(audio_path)
+    resampler = T.Resample(input_sample_rate, bundle.sample_rate, dtype=input_waveform.dtype)
+    resampled_waveform = resampler(input_waveform)
     # split audio into chunks to avoid OOM and faster inference
-    chunk_size_frames = chunk_size_s * sr
-    chunks = [waveform[:, i : i + chunk_size_frames] for i in range(0, waveform.shape[1], chunk_size_frames)]
+    chunk_size_frames = chunk_size_s * bundle.sample_rate
+    chunks = [
+        resampled_waveform[:, i : i + chunk_size_frames]
+        for i in range(0, resampled_waveform.shape[1], chunk_size_frames)
+    ]
 
     # collect per-chunk emissions, rejoin
     emissions = []
@@ -148,11 +153,11 @@ def segment(audio_path: str, json_path: str, output_dir: str, chunk_size_s: int 
     for verse_words in words:
         end = start + len(verse_words)
         verse_spans = word_only_spans[start:end]
-        ratio = waveform.size(1) / num_frames
+        ratio = input_waveform.size(1) / num_frames
         x0 = int(ratio * verse_spans[0][0].start)
         x1 = int(ratio * verse_spans[-1][-1].end)
         transcript = " ".join(verse_words)
-        segment = waveform[:, x0:x1]
+        segment = input_waveform[:, x0:x1]
         start = end
         segments.append(segment)
         labels.append(transcript)
@@ -167,7 +172,7 @@ def segment(audio_path: str, json_path: str, output_dir: str, chunk_size_s: int 
 
         # write audio
         audio_path = (output_dir / verse_file_name).with_suffix(".wav")
-        write(audio_path, bundle.sample_rate, segment.squeeze().numpy())
+        write(audio_path, input_sample_rate, segment.squeeze().numpy())
 
         # write transcript
         transcript_path = (output_dir / verse_file_name).with_suffix(".txt")
