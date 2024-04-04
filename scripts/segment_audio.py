@@ -27,6 +27,11 @@ parser.add_argument(
 parser.add_argument("--output_dir", default="outputs/openbible_swahili/", help="Path to the output directory")
 parser.add_argument("--chunk_size_s", type=int, default=15, help="Chunk size in seconds")
 
+# MMS feature extractor minimum input frame size (25ms)
+# also the same value as `ratio`
+# `ratio = input_waveform.size(1) / num_frames`
+SUBSAMPLING_RATIO = 400
+
 
 def preprocess_verse(text: str) -> str:
     text = unidecode(text)
@@ -134,8 +139,11 @@ def segment(audio_path: str, json_path: str, output_dir: str, chunk_size_s: int 
     emissions = []
     with torch.inference_mode():
         for chunk in chunks:
-            emission, _ = model(chunk.to(device))
-            emissions.append(emission)
+            # NOTE: we could pad here, but it'll need to be removed later
+            # skipping for simplicity, since it's at most 25ms
+            if chunk.size(1) >= SUBSAMPLING_RATIO:
+                emission, _ = model(chunk.to(device))
+                emissions.append(emission)
 
     emission = torch.cat(emissions, dim=1)
     num_frames = emission.size(1)
