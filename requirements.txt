@@ -1,1 +1,3 @@
 pydub
+unidecode
+git+https://github.com/rhasspy/num2words.git
