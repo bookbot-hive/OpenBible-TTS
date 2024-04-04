@@ -1,4 +1,7 @@
+torch>=2.1.0
+torchaudio>=2.1.0
 tqdm
 pydub
+scipy
 unidecode
 git+https://github.com/rhasspy/num2words.git
