@@ -170,6 +170,7 @@ Finally, we also provided a [bash script](./run_filter.sh) to filter generated s
 
 - [ ] Support chunk batching
 - [x] Probability-based alignment filtering
+- [x] Support batched filtering
 - [ ] CER-based filtering
 
 ## License

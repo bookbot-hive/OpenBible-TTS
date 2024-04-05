@@ -24,10 +24,12 @@ parser.add_argument(
 parser.add_argument("--output_dir", default="outputs/openbible_swahili/", help="Path to the output directory")
 parser.add_argument("--chunk_size_s", type=int, default=15, help="Chunk size in seconds")
 
-# MMS feature extractor minimum input frame size (25ms)
-# also the same value as `ratio`
-# `ratio = input_waveform.size(1) / num_frames`
-SUBSAMPLING_RATIO = 400
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+# load MMS aligner model
+bundle = torchaudio.pipelines.MMS_FA
+model = bundle.get_model(with_star=True).to(device)
+DICTIONARY = bundle.get_dict()
 
 
 def load_transcripts(json_path: Path, chapter: str) -> Tuple[List[str], List[str]]:
@@ -57,13 +59,6 @@ def segment(audio_path: str, json_path: str, output_dir: str, chunk_size_s: int 
     if any(output_dir.iterdir()):
         print(f"Skipping {chapter}")
         return
-
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
-    # load MMS aligner model
-    bundle = torchaudio.pipelines.MMS_FA
-    model = bundle.get_model(with_star=True).to(device)
-    DICTIONARY = bundle.get_dict()
 
     # load transcripts
     verse_ids, transcripts = load_transcripts(json_path, chapter)
