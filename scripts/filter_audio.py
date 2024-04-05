@@ -49,10 +49,10 @@ def compute_probability_difference(audio_path: str, ground_truth: str, chunk_siz
             # NOTE: we could pad here, but it'll need to be removed later
             # skipping for simplicity, since it's at most 25ms
             if chunk.size(1) >= MMS_SUBSAMPLING_RATIO:
-                emission, _ = model(chunk.to(device))
+                emission, _ = model(chunk.to(device))  # (1, chunk_frame_length, num_labels)
                 emissions.append(emission)
 
-    emission = torch.cat(emissions, dim=1)
+    emission = torch.cat(emissions, dim=1)  # (1, frame_length, num_labels)
     num_frames = emission.size(1)
     assert len(DICTIONARY) == emission.shape[2]
 
@@ -60,13 +60,13 @@ def compute_probability_difference(audio_path: str, ground_truth: str, chunk_siz
     # \frac{1}{T} \log P(Y_{aligned} | X) - \log P(Y_{greedy} | X)
 
     # compute greedy search score
-    probs = torch.softmax(emission, dim=2)
-    greedy_probs = torch.max(probs, dim=-1).values.squeeze()
-    greedy_log_probs = torch.sum(torch.log(greedy_probs)).cpu().numpy().item()
+    probs = torch.softmax(emission, dim=-1)  # (1, frame_length, num_labels)
+    greedy_probs = torch.max(probs, dim=-1).values.squeeze()  # (1, frame_length)
+    greedy_log_probs = torch.sum(torch.log(greedy_probs)).cpu().numpy().item()  # (1)
 
     # compute forced-alignment score
-    aligned_probs = compute_alignment_scores(emission, words, DICTIONARY, device)
-    aligned_log_probs = torch.sum(torch.log(aligned_probs)).cpu().numpy().item()
+    aligned_probs = compute_alignment_scores(emission, words, DICTIONARY, device)  # (1, frame_length)
+    aligned_log_probs = torch.sum(torch.log(aligned_probs)).cpu().numpy().item()  # (1)
 
     # compute length-normalized probability difference
     probability_diff = (aligned_log_probs - greedy_log_probs) / num_frames
