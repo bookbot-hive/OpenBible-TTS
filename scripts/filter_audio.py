@@ -71,6 +71,8 @@ def compute_probability_difference(audio_path: str, ground_truth: str, chunk_siz
     # compute forced-alignment score
     aligned_probs = compute_alignment_scores(emission, words, DICTIONARY, device)  # (1, frame_length)
     aligned_log_probs = torch.sum(torch.log(aligned_probs)).cpu().numpy().item()  # (1)
+    if aligned_log_probs == -np.inf:
+        print(f"Alignment failed for {audio_path}.")
 
     # compute length-normalized probability difference
     probability_diff = (aligned_log_probs - greedy_log_probs) / num_frames

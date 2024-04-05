@@ -65,5 +65,15 @@ def compute_alignments(emission, transcript, dictionary, device):
 
 def compute_alignment_scores(emission, transcript, dictionary, device):
     tokens = [dictionary[char] for word in transcript for char in word]
-    _, scores = align(emission, tokens, device)
-    return scores
+
+    try:
+        _, scores = align(emission, tokens, device)
+        return scores
+    except RuntimeError as e:
+        # sometimes emission frames are too short for the transcript
+        # comparing emission shape and targets length is insufficient due to CTC padding
+        if e.args[0].startswith("targets length is too long for CTC"):
+            # return 0 probability for this case
+            return torch.zeros((1, emission.size(1)), device=device)
+        else:
+            raise e
