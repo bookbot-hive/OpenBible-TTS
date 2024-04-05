@@ -86,7 +86,7 @@ Examples of these JSON files can be found in the [data](./data/openbible_swahili
 Then to align and segment the chapter-level audio to verse-level audio, run the following script:
 
 ```sh
-python segment_audio.py \
+python scripts/segment_audio.py \
     --audio_path downloads/wavs_44/PSA/PSA_119.wav \ # path to the audio file
     --json_path data/openbible_swahili/PSA.json \ # path to the JSON file
     --output_dir outputs/openbible_swahili/ \ # output directory
@@ -126,10 +126,50 @@ python scripts/run_segmentation.py \
 
 Finally, we also provided a [bash script](./run_segmentation.sh) to segment all downloaded books.
 
+### Probability-based Alignment Score Filtering
+
+As proposed in §3.1.5 of [MMS](https://arxiv.org/abs/2305.13516), we implemented a length-normalized probability difference filtering to remove noisy alignments based on the following equation:
+
+$$\frac{1}{T} \left[\log P\left(Y^{\text {aligned}} \mid X\right)-\log P\left(Y^{\text {greedy}} \mid X\right)\right]$$
+
+where $T$ is the length of the audio, $P\left(Y^{\text{aligned}} \mid X\right)$ is the probability of the forced-alignment path, and $P\left(Y^{\text{greedy}} \mid X\right)$ is the probability of the greedy sequence.
+
+Like MMS, we select `−0.2` as the default threshold and choose samples with scores greater than this threshold.
+
+The filtering script can be run as follows:
+
+```sh
+# score: -0.005685280751179646 (good alignment; accept)
+python scripts/filter_audio.py \
+    --audio_path outputs/openbible_swahili/EPH/EPH_003/EPH_003_001.wav \
+    --ground_truth "kwa sababu hii mimi paulo mfungwa wa kristo yesu kwa ajili yenu ninyi watu wa mataifa" \
+    --chunk_size_s 15
+
+# score: -0.5496844846810868 (bad alignment; reject)
+python scripts/filter_audio.py \
+    --audio_path outputs/openbible_swahili/EPH/EPH_001/EPH_001_020.wav \
+    --ground_truth "aliyoitumia katika kristo alipomfufua kutoka kwa wafu na akamketisha mkono wake wa kuume huko mbinguni" \
+    --chunk_size_s 15
+```
+
+Likewise, we also provided a [runner script](./scripts/run_filter.py) that can be used to segment all the audio files in a directory, typically for each book in the Bible. You can run it like follows:
+
+```sh
+python scripts/run_filter.py \
+    --audio_dir outputs/openbible_swahili/PSA/ \
+    --output_dir outputs/openbible_swahili_filtered/ \
+    --chunk_size_s 15 \
+    --probability_difference_threshold -0.2
+```
+
+It will then generate a new directory with the filtered audio segments, retaining the same directory structure.
+
+Finally, we also provided a [bash script](./run_filter.sh) to filter generated segments for all books.
+
 ## Future Improvements
 
 - [ ] Support chunk batching
-- [ ] Probability-based alignment filtering
+- [x] Probability-based alignment filtering
 - [ ] CER-based filtering
 
 ## License

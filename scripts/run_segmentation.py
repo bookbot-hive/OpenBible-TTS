@@ -12,7 +12,7 @@ parser.add_argument(
 parser.add_argument(
     "--audio_dir",
     required=True,
-    help="Path to the audio file, must be 16kHz. Example: downloads/wavs_16/PSA/",
+    help="Path to the audio directory. Example: downloads/wavs_16/PSA/",
 )
 parser.add_argument("--output_dir", default="outputs/openbible_swahili/", help="Path to the output directory")
 parser.add_argument("--chunk_size_s", type=int, default=15, help="Chunk size in seconds")

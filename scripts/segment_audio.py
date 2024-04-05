@@ -2,18 +2,15 @@ from typing import List, Tuple
 from pathlib import Path
 import argparse
 import json
-import re
-import string
 
 import torch
 import torchaudio
-import torchaudio.functional as F
 import torchaudio.transforms as T
 
-from unidecode import unidecode
-from num2words import num2words
 from scipy.io.wavfile import write
-import unicodedata
+
+from utils import MMS_SUBSAMPLING_RATIO, preprocess_verse, compute_alignments
+
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
@@ -33,16 +30,6 @@ parser.add_argument("--chunk_size_s", type=int, default=15, help="Chunk size in 
 SUBSAMPLING_RATIO = 400
 
 
-def preprocess_verse(text: str) -> str:
-    text = unidecode(text)
-    text = unicodedata.normalize("NFKC", text)
-    text = text.lower()
-    text = text.translate(str.maketrans("", "", string.punctuation))
-    text = re.sub(r"\d+", lambda x: num2words(int(x.group(0)), lang="sw"), text)
-    text = re.sub("\s+", " ", text)
-    return text
-
-
 def load_transcripts(json_path: Path, chapter: str) -> Tuple[List[str], List[str]]:
     with open(json_path, "r") as f:
         data = json.load(f)
@@ -53,38 +40,6 @@ def load_transcripts(json_path: Path, chapter: str) -> Tuple[List[str], List[str
     transcripts = [d["verseText"] for d in data if get_chapter(d["verseNumber"]) == chapter]
     verse_ids = [d["verseNumber"] for d in data if get_chapter(d["verseNumber"]) == chapter]
     return verse_ids, transcripts
-
-
-###############################################################################################################
-# functions taken from https://pytorch.org/audio/main/tutorials/ctc_forced_alignment_api_tutorial.html
-###############################################################################################################
-
-
-def align(emission, tokens, device):
-    targets = torch.tensor([tokens], dtype=torch.int32, device=device)
-    alignments, scores = F.forced_align(emission, targets, blank=0)
-
-    alignments, scores = alignments[0], scores[0]  # remove batch dimension for simplicity
-    scores = scores.exp()  # convert back to probability
-    return alignments, scores
-
-
-def unflatten(list_, lengths):
-    assert len(list_) == sum(lengths)
-    i = 0
-    ret = []
-    for l in lengths:
-        ret.append(list_[i : i + l])
-        i += l
-    return ret
-
-
-def compute_alignments(emission, transcript, dictionary, device):
-    tokens = [dictionary[char] for word in transcript for char in word]
-    alignment, scores = align(emission, tokens, device)
-    token_spans = F.merge_tokens(alignment, scores)
-    word_spans = unflatten(token_spans, [len(word) for word in transcript])
-    return word_spans
 
 
 def segment(audio_path: str, json_path: str, output_dir: str, chunk_size_s: int = 15):
@@ -141,7 +96,7 @@ def segment(audio_path: str, json_path: str, output_dir: str, chunk_size_s: int 
         for chunk in chunks:
             # NOTE: we could pad here, but it'll need to be removed later
             # skipping for simplicity, since it's at most 25ms
-            if chunk.size(1) >= SUBSAMPLING_RATIO:
+            if chunk.size(1) >= MMS_SUBSAMPLING_RATIO:
                 emission, _ = model(chunk.to(device))
                 emissions.append(emission)
 
