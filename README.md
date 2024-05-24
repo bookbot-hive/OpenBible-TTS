@@ -6,9 +6,9 @@ This project is only possible with the OpenBible's open-source friendly [CC BY-S
 
 ## Languages
 
-| Language | Dataset                                                                        | Text-to-Speech Model |
-| -------- | ------------------------------------------------------------------------------ | -------------------- |
-| Swahili  | [OpenBible Swahili](https://huggingface.co/datasets/bookbot/OpenBible_Swahili) | TBA                  |
+| Language | Dataset                                                                        | Text-to-Speech Model                                             |
+| -------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| Swahili  | [OpenBible Swahili](https://huggingface.co/datasets/bookbot/OpenBible_Swahili) | [VITS](https://huggingface.co/bookbot/vits-base-sw-KE-OpenBible) |
 
 ### Swahili (Kiswahili)
 
